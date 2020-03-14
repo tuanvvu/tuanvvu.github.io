@@ -6,7 +6,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
-  - title: "Blog"
+  - title: "Home"
     url: /blog/
   - title: "Research"
     url: /research/
@@ -15,7 +15,7 @@ main:
   - title: "Publication" 
     url: /pubication/
   - title: "About me"
-    url: /About me/
+    url: https://tuanvvu.github.io/profile/index.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
