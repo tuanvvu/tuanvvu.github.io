@@ -10,7 +10,7 @@ main:
     url: /blog/
   - title: "Research"
     url: /research/
-  - title:"Teaching"
+  - title: "Teaching"
     url: /teaching/
   - title: "Publication" 
     url: /pubication/
