@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tuan Vu"
+  name             : "Tuan V. Vu"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An atmospheric chemist, interested in applied statistics/machine learning for air quality modelling"
   location         : "London, UK"
