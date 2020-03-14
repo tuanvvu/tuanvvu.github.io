@@ -9,13 +9,13 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Research"
-    url: /research/ 
+    url: /profile/research.html 
   - title: "Teaching"
     url: /teaching/ 
   - title: "Publication"
     url: /pub/ 
   - title: "About me"
-    url: /profile/index/ 
+    url: /profile/index.html 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
