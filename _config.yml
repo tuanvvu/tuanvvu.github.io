@@ -20,7 +20,7 @@ title                    : "Tuan Vu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tuan V. Vu"
-description              : "For A Better Air Quality"
+description              : "For Better Air Quality"
 url                      : "https://tuanvvu.github.io" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tuanvvu/tuanvvu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
