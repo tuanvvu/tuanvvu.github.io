@@ -9,13 +9,13 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Research"
-    url: https://tuanvvu.github.io/profile/research.html/
+    url: /research/
   - title:"Teaching"
     url: /teaching/
   - title: "Publication" 
     url: /pubication/
   - title: "About me"
-    url: https://tuanvvu.github.io/profile/index.html
+    url: /About me/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
