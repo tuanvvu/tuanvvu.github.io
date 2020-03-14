@@ -10,11 +10,10 @@ main:
     url: /blog/
   - title: "Research"
     <LINK rel="prev" href="https://tuanvvu.github.io/profile/index.html">
-   
   - title: "Teaching"
-    url: /teaching/ 
+    <LINK rel="prev" href=" https://tuanvvu.github.io/profile/teaching.html">
   - title: "Publication"
-    url: /pub/ 
+    <LINK rel="prev" href=" https://tuanvvu.github.io/profile/publication.html">
   - title: [About me] (https://tuanvvu.github.io/profile/index.html)
   # - title: "Sample Collections"
   #   url: /collection-archive/
