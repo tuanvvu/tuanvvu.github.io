@@ -8,13 +8,11 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: "Home"
     url: /blog/
-  - title: "Research"
+  - title: "Research notes"
     url: /research/
-  - title: "Teaching"
+  - title: "Lectures"
     url: /teaching/
-  - title: "Publication" 
-    url: /pubication/
-  - title: "About me"
+  - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
