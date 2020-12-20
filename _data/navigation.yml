@@ -6,11 +6,11 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
-  - title: "Home"
+  - title: "Blog"
     url: /blog/
   - title: "Research"
-    url: /research/
-  - title: "In Vietnamese"
+    url: https://tuanvvu.github.io/profile/research.html
+  - title: "ONKK"
     url: /vietnamese/
   - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
