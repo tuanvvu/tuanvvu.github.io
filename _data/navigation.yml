@@ -8,8 +8,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: "Blog"
     url: /blog/
-  - title: "Research"
-    url: https://tuanvvu.github.io/profile/research.html
+ # - title: "Research"
+ #   url: https://tuanvvu.github.io/profile/research.html
   - title: "ONKK"
     url: /vietnamese/
   - title: "about me"
