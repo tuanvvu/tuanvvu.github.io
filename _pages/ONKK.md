@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: posts_vn
 title:  "Air Quality in Vietnam- Chất lượng không khí tại Việt Nam"
 permalink: /vietnamese/
 ---
