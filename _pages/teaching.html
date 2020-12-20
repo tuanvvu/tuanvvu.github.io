@@ -4,4 +4,9 @@ title: "Vietnam Air Quality- Chất lượng không khí tại Việt Nam"
 permalink: /vietnamese/
 author_profile: true
 ---
-
+<ul class="postsvn">
+  {% for post in site.postsvn %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+    
+</ul>
