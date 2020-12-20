@@ -1,7 +1,12 @@
 ---
-layout: postsvn
+layout: archive
 title: "Vietnam Air Quality- Chất lượng không khí tại Việt Nam"
 permalink: /vietnamese/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% for post in site.postsvn %}
+  {% include archive-single.html %}
+{% endfor %}
