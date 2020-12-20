@@ -8,10 +8,10 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: "Home"
     url: /blog/
-  - title: "Research notes"
+  - title: "Research"
     url: /research/
-  - title: "Lectures"
-    url: /teaching/
+  - title: "In Vietnamese"
+    url: /vietnamese/
   - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
   # - title: "Sample Collections"
