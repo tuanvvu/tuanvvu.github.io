@@ -3,6 +3,8 @@ layout: posts
 title:  "Chất lượng không khí tại Việt Nam"
 permalink: /vietnamese/
 ---
-{% for post in site.postsvn %}
+{% include base_path %}
 
+{% for post in site.postsbvn reversed %}
+  {% include archive-single.html %}
 {% endfor %}
