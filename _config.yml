@@ -211,6 +211,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  onkk:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,6 +245,16 @@ defaults:
       author_profile: true
       share: false
       comments: false
+  # _onkk
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
   # _articles
   - scope:
       path: ""
