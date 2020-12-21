@@ -10,6 +10,8 @@ main:
     url: /vietnamese/
   - title: "teaching"
     url: /teaching/
+  - title: "talks"
+    url: /talks/
   
   # - title: "Press/Outreach"
   #   url: /press/ 
