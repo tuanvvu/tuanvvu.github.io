@@ -35,12 +35,9 @@ Không có sẵn nhiều dữ liệu ở các thành phố này nhưng phương 
 
 
 Tài liệu tham khảo:
-1.	[A review of particle number size distributions from seven major sources and implications for source apportionment studies. Atmos. Environ. 122, 114-132 (2015).]
-(https://www.sciencedirect.com/science/article/abs/pii/S1352231015303691)
+1.	[A review of particle number size distributions from seven major sources and implications for source apportionment studies. Atmos. Environ. 122, 114-132 (2015](https://www.sciencedirect.com/science/article/abs/pii/S1352231015303691)
 2.	Insight into PM2.5 Sources by Applying Positive Matrix Factorization (PMF) at an Urban and Rural Site of Beijing. ACP discussion (in review).
-3.	[Source apportionment of the lung dose of ambient sub-micrometre particulate matter. Aerosol Air Qual. Res. 16, 1548-1557 (2016)].
-(https://aaqr.org/articles/aaqr-15-09-oa-0553.pdf)
-4.	[Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor into indoor environments. Air Qual. Atmos. Health 11, 615-625 (2018).]
-(https://link.springer.com/content/pdf/10.1007/s11869-018-0568-2.pdf)
+3.	[Source apportionment of the lung dose of ambient sub-micrometre particulate matter. Aerosol Air Qual. Res. 16, 1548-1557 (2016).](https://aaqr.org/articles/aaqr-15-09-oa-0553.pdf)
+4.	[Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor into indoor environments. Air Qual. Atmos. Health 11, 615-625 (2018).](https://link.springer.com/content/pdf/10.1007/s11869-018-0568-2.pdf)
 5.	More mileage in reducing urban air pollution from road traffic. Environ. Inter. (2020- in press).
 
