@@ -8,6 +8,8 @@ main:
     url: /blog/
   - title: "ONKK"
     url: /vietnamese/
+  - title: "teaching"
+    url: /vietnamese/
   
   # - title: "Press/Outreach"
   #   url: /press/ 
