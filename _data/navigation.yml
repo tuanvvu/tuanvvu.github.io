@@ -4,7 +4,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
-  - title: <p class="h2"> "Blog" </p>
+  - title: Blog
     url: /blog/
   - title: "ONKK"
     url: /vietnamese/
