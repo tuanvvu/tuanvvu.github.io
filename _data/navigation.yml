@@ -1,17 +1,17 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: /articles/
-
-  - title: "Talks"
-    url: /talks/    
-    
-  - title: "Expressions"
-    url: /expressions/
-
-  - title: "Teaching"
-    url: /teaching/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/  
+  - title: "Publications/Talks"
+    url: /publications/ 
+  - title: "Blog"
+    url: /blog/
+  
+  # - title: "Press/Outreach"
+  #   url: /press/ 
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
