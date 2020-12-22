@@ -20,7 +20,7 @@ Due to traffic emissions, the lung dose of outdoor aerosols in the traffic area 
 
 The doses of indoor sub-micrometre aerosols are less than those of outdoor aerosols by factors of 4.1 (for number), 2.7 (for surface area) and 2.1 (for mass). Particle number can be used as an indicator for predicting the number dose, while PM2.5 and PM10 have good correlations with the surface area and mass dose. Due to the high correlation with the lung dose (r2 = 0.7 for number, > 0.8 for surface area and mass), NOx could be a good proxy for predicting the lung dose of particles of sub-micrometre diameters.
 
-![animation]({{ site.url }}/assets/images/blog.particle.lung.1.png) 
+![animation]({{ site.url }}/assets/images/blog.particle.lung.2.png) 
 *Fig 2. Hourly outdoor/indoor dose in the whole lung for a man standing in the traffic and residential areas.*
 
 ### More information can be found in our full paper:
