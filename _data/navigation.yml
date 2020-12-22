@@ -8,8 +8,8 @@ main:
     url: /blog/
   - title: "ONKK"
     url: /vietnamese/
-  - title: "talks"
-    url: /talks/
+  - title: "research"
+    url: https://tuanvvu.github.io/profile/research.html
   - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
   
