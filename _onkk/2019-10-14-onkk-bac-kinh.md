@@ -45,10 +45,12 @@ Chính sách trong hoạt động giao thông ở Bắc Kinh không ảnh hướ
 
 
 ### 4. Mặc dù thành công nhưng vẫn còn rất nhiều chông gai cho Bắc Kinh trong giai đoạn sắp tới:
-· Nồng độ bụi vẫn còn rất cao, và còn nằm trong top đầu những thủ đô ô nhiễm nhất (tính trung bình tới 2018, vẫn cao hơn Hà Nội ta- nếu dùng số liệu của US Embassy cho Hà Nội).
-· Nồng độ bụi có giảm nhưng nồng độ ozone (ozone tầng mặt cũng rất nguy hại cho sức khỏe con người) lại tăng. Có thể do sử dụng petroleum thay thế than, nhưng lại dẫn tới tăng lượng VOCs (các chất hữu cơ dễ bay hơn).
-· Thành phần bụi ở Bắc Kinh gồm rất nhiều secondary inorganic & organic aerosols (các hạt hình thành trong không khí), rất khó có thể giảm. 
-Hiện dự án tôi đang làm tại Birmingham kết hợp với viện hóa học trung ương Trung Quốc đang tìm hiểu về các cơ chế hình thành SOAs ở Bắc Kinh.
+
+· **Nồng độ bụi vẫn còn rất cao**, và còn nằm trong top đầu những thủ đô ô nhiễm nhất (tính trung bình tới 2018, vẫn cao hơn Hà Nội ta- nếu dùng số liệu của US Embassy cho Hà Nội).
+
+· **Nồng độ bụi có giảm nhưng nồng độ ozone (ozone tầng mặt cũng rất nguy hại cho sức khỏe con người) lại tăng**. Có thể do sử dụng petroleum thay thế than, nhưng lại dẫn tới tăng lượng VOCs (các chất hữu cơ dễ bay hơn).
+
+· **Thành phần bụi ở Bắc Kinh gồm rất nhiều secondary inorganic & organic aerosols** : SOA & SIA các hạt hình thành trong không khí, rất khó có thể giảm, nếu không hiểu rõ cơ chế tạo thành và các tiền chất đóng góp. Hiện dự án tôi đang làm tại Birmingham kết hợp với viện hóa học trung ương Trung Quốc đang tìm hiểu về các cơ chế hình thành SOAs ở Bắc Kinh.
 
 Tài liệu tham khảo:
 
