@@ -58,4 +58,4 @@ Tài liệu tham khảo:
 2. [Significant changes in chemistry of fine particles in wintertime Beijing from 2007 to 2017: Impact of clean air actions](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b04678)
 
 ![animation]({{ site.url }}/assets/images/onkk.backinh.clearair.png) 
-*Hình 1. Kết quả kế hoạch 5 năm (2013-2017) trong việc giảm thải ONKK của Bắc Kinh.
+*Hình 1. Kết quả kế hoạch 5 năm (2013-2017) trong việc giảm thải ONKK của Bắc Kinh.*
