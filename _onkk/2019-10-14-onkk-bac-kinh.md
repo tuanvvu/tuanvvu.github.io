@@ -25,7 +25,7 @@ Sau khi loại trừ yếu tố thời tiết nồng độ bụi mịn trong nă
 
 ### 2. Yếu tố thời tiết ảnh hưởng rất lớn tới nồng độ bụi mịn trong theo từng ngày hoặc tháng 
 
-Theo nghiên cứu của chúng tôi, thời tiết có thể làm tăng giảm nồng độ ô nhiễm  bụi tới >80%  theo tháng (từ mô hình vận chuyển hóa học) nhưng không ảnh hưởng lớn tới nồng độ theo năm (<10%) (hình B).
+Theo nghiên cứu của chúng tôi, thời tiết có thể làm tăng giảm nồng độ ô nhiễm  bụi tới >80%  theo tháng (từ mô hình vận chuyển hóa học) nhưng không ảnh hưởng lớn tới xu hướng nồng độ theo năm (<10%) (hình B).
 
 ### 3. Một số các yếu tố chính trong chính sách tới sự thành công của kế hoạch này:
 
