@@ -42,8 +42,7 @@ Tiêu chuẩn khí thải siêu thấp này tương đương với các nhà má
 Hiện tại đã có trên 75% nhà máy điện than trên toàn quốc đạt tiêu chuẩn mới này. 
 Từ năm 2012, họ đã nâng cao tiêu chuẩn khí thải và kiên quyết đóng cửa các nhà máy gây ô nhiễm.
 Chính quyền cũng đã kiên quyết đóng cửa hơn 3000 nhà máy không đạt tiêu chuẩn ở Bắc Kinh trong giai đoạn 2014-2017. 
-Cùng với những cải tiến giảm thải khí thải từ lò hơi cấc nhà máy,
-lượng khí thải cho SO2, NOx, và PM2.5 đã giảm lần lượt là 15, 6 và 4 triệu tấn (-59% cho SO2, -20% cho NOx và -29% cho PM2.5) trong giai đoạn 2013-2018 (Hình 2). 
+Cùng với những cải tiến giảm thải khí thải từ lò hơi từ khu công nghiệp, lượng khí thải cho SO2, NOx, và PM2.5 đã giảm lần lượt là 15, 6 và 4 triệu tấn (-59% cho SO2, -20% cho NOx và -29% cho PM2.5) trong giai đoạn 2013-2018 (Hình 2). 
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.png) 
 
