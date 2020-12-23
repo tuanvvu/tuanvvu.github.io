@@ -33,7 +33,7 @@ Do đó, tới năm 2015, Trung Quốc đã có: 99% coal-fired power units with
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.standards.png) 
 
-*Hình 1. Tiêu chuẩn phát thải cho các nhà máy điện than.
+*Hình 1. Tiêu chuẩn phát thải cho các nhà máy điện than.*
 
 Trung Quốc không chỉ nâng cao tiêu chuẩn quốc gia về chất lượng không khí mà còn nâng cao tiêu chuẩn cho lượng khí thải từ các khu công nghiệp cũng như các nguồn ô nhiễm khác. 
 Từ năm 2015, họ đẩy mạnh các nhà máy có lượng khí thải siêu thấp (ultra-low emission power units) có ứng dụng công nghệ mới (Hình 1). 
@@ -47,7 +47,7 @@ lượng khí thải cho SO2, NOx, và PM2.5 đã giảm lần lượt là 15, 6
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.png) 
 
-*Hình 2. Phát thải hàng tháng từ các khu vực khác nhau trên toàn Trung Quốc trong giai đoạn 2013-2017.
+*Hình 2. Phát thải hàng tháng từ các khu vực khác nhau trên toàn Trung Quốc trong giai đoạn 2013-2017.*
 
 ### Sử dụng năng lượng sạch ở khu vực dân cư
 
@@ -60,7 +60,7 @@ Việc này đã làm giảm rất đáng kể tới lượng phát thải bụi
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.bk.png) 
 
-*Hình 3. Phát thải hàng tháng từ các khu vực khác nhau ở Bắc Kinh trong giai đoạn 2013-2017.
+*Hình 3. Phát thải hàng tháng từ các khu vực khác nhau ở Bắc Kinh trong giai đoạn 2013-2017.*
 
 Tài liệu tham khảo:
 
