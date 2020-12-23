@@ -32,6 +32,7 @@ cũng như việc nâng cao hiệu năng sử dụng năng lượng.
 Do đó, tới năm 2015, Trung Quốc đã có: 99% coal-fired power units with FGD, 92% thermal power with SCR, 88% sinterning machines with FGD, 92% cement clinker kilns with SNCR. 
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.standards.png) 
+
 *Hình 1. Tiêu chuẩn phát thải cho các nhà máy điện than.
 
 Trung Quốc không chỉ nâng cao tiêu chuẩn quốc gia về chất lượng không khí mà còn nâng cao tiêu chuẩn cho lượng khí thải từ các khu công nghiệp cũng như các nguồn ô nhiễm khác. 
@@ -45,6 +46,7 @@ Cùng với những cải tiến giảm thải khí thải từ lò hơi cấc n
 lượng khí thải cho SO2, NOx, và PM2.5 đã giảm lần lượt là 15, 6 và 4 triệu tấn (-59% cho SO2, -20% cho NOx và -29% cho PM2.5) trong giai đoạn 2013-2018 (Hình 2). 
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.png) 
+
 *Hình 2. Phát thải hàng tháng từ các khu vực khác nhau trên toàn Trung Quốc trong giai đoạn 2013-2017.
 
 ### Sử dụng năng lượng sạch ở khu vực dân cư
@@ -57,6 +59,7 @@ Cuối năm 2017, chính quyền Bắc Kinh đã cấm sử dụng than ở hơn
 Việc này đã làm giảm rất đáng kể tới lượng phát thải bụi và các khí tiền chất (NOx,SO2) tạo thành bụi thứ cấp so với các nguồn khác ở Bắc Kinh (Hình 3).
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.bk.png) 
+
 *Hình 3. Phát thải hàng tháng từ các khu vực khác nhau ở Bắc Kinh trong giai đoạn 2013-2017.
 
 Tài liệu tham khảo:
