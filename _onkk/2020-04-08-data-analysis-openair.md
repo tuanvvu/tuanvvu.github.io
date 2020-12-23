@@ -31,7 +31,10 @@ Hình 1: Các cụm khối khí di chuyển tới Hà Nội trong các tháng kh
 Hình 2: Ảnh hưởng sự vận chuyển bụi từ xa tới Hà Nội
 Các bạn cũng có thể đọc thêm tài liệu tham khảo: 
 [The effects of meteorological conditions and long-range transport on PM2.5 levels in Hanoi revealed from multi-site measurement using compact sensors and machine learning approach](https://www.sciencedirect.com/science/article/pii/S0021850220302019)
+
 ![animation]({{ site.url }}/assets/images/onkk.backtraj.png) 
+
 *Hình 1. Các cụm khối khí di chuyển tới Hà Nội trong các tháng khác nhau.*
+
 ![animation]({{ site.url }}/assets/images/onkk.ctw.png) 
 *Hình 2. Ảnh hưởng sự vận chuyển bụi từ xa tới Hà Nội.*
