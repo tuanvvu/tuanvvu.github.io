@@ -6,7 +6,8 @@ layout: single
 author_profile: true
 ---
 
-## Billions particles!!!
+The answer: The number is **Billions particles!!!**
+
 Our study found that there are 10 billition particles deposited in our lung if we expose to air pollution at a traffic area. A majority (>65%) of particles by number and surface area were found to deposit in the alveolar region (deep region of our lung). The physical properties of particles such as shape, hygroscopicity and density play an important role in particles's behavior when they penetrate into our respiratory system (Fig.1). 
 
 ![animation]({{ site.url }}/assets/images/blog.particle.lung.1.png) 
@@ -14,7 +15,7 @@ Our study found that there are 10 billition particles deposited in our lung if w
 
 ## What is the difference of exposure to air pollution between traffic and residential areas?
 
-Due to traffic emissions, the lung dose of outdoor aerosols in the traffic area was much higher than that in the residential area by 5 times for number and surface area and 2 times for mass (Fig.2).
+Due to traffic emissions, the lung dose of outdoor aerosols in the traffic area was much higher than that in the residential area by 5 times for number and surface area and twice times for mass (Fig.2).
 
 ## Difference between Outdoor and Indoor expsoure? Which can be a good indicator metric for predicting the health outcomes of traffic-generated aerosols?
 
