@@ -64,8 +64,8 @@ Việc này đã làm giảm rất đáng kể tới lượng phát thải bụi
 
 Tài liệu tham khảo:
 
-1. Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique.[Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique](https://acp.copernicus.org/articles/19/11303/2019/)
-2. Significant changes in chemistry of fine particles in wintertime Beijing from 2007 to 2017: Impact of clean air actions.[Significant changes in chemistry of fine particles in wintertime Beijing from 2007 to 2017: Impact of clean air actions](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b04678)
+1. [Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique](https://acp.copernicus.org/articles/19/11303/2019/)
+2. [Significant changes in chemistry of fine particles in wintertime Beijing from 2007 to 2017: Impact of clean air actions](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b04678)
 
 
 
