@@ -1,5 +1,5 @@
 ---
-title: <h3> Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc (Clean Air Action Plan 2013-2017) </h3>
+title: Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc (Clean Air Action Plan 2013-2017) 
 comments: true
 date: 2019-10-13 00:00:00 -0000
 layout: single
