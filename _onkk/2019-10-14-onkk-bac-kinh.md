@@ -21,7 +21,7 @@ chemical transport model (mô hình vận chuyển hóa học: đưa các nguồ
 
 ### 1. Bắc Kinh đã thành công trong việc kế hoạch 5 năm của họ 
 
-Mặc dù sau khi loại trừ yếu tố thời tiết nồng độ bụi mịn trong năm 2017 có tăng lên 61-62 ug/m3, suýt soát với mục tiêu họ đề ra là 60 ug/m3) (hinh A)!
+Sau khi loại trừ yếu tố thời tiết nồng độ bụi mịn trong năm 2017 có tăng lên 61-62 ug/m3, suýt soát với mục tiêu họ đề ra là 60 ug/m3) (hinh A)!
 
 ### 2. Yếu tố thời tiết ảnh hưởng rất lớn tới nồng độ bụi mịn trong theo từng ngày hoặc tháng 
 
