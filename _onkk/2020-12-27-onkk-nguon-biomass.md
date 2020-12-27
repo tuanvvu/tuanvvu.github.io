@@ -11,9 +11,22 @@ header:
 
 (đang viết)
 
-Khí thải giao thông đường bộ được coi là nguyên nhân chính gây ô nhiễm không khí đô thị, nhưng các chính sách kiểm soát không khí sạch đã dẫn đến việc giảm lượng lớn khí phát thải trên mỗi phương tiện giao thông trong thập kỉ gần đây. Bài này sẽ giới thiệu một vài nét về đặc trưng của bụi từ nguồn giao thông và khuyến nghị về chính sách kiểm soát bụi cho các siêu đô thị trên thế giới 
+Đốt sinh khối được cho là một trong những nguồn chính gây ô nhiễm không khí ở thành phố trên thế giới, đặc biệt ở các nước đang phát triển 
+nơi mà nhiên liệu từ gỗ, rơm rạ và các chất thải nông nghiệp khác được cho là nguồn nhiên liệu quan trọng trong việc sưởi ấm và đun nấu.
+
 
 ## Đặc trưng của bụi từ nguồn đốt sinh khối
+
+Bụi từ nguồn đốt sinh khối có những đặc trưng rất riêng, do đó việc xác định nguồn bụi này là khá dễ dàng so với các nguồn khác. 
+Về đặc điểm vật lý: tùy theo các điều kiện đốt cũng như từng loại nhiên liệu khác nhau mà bụi sinh ra có phân bố kích cỡ hạt khác nhau. 
+Thông thường ở điều kiện đốt mở, hầu hết các nghiên cứu đã chỉ ra bụi có phân bố hạt với đường kính có trung vị khoảng 
+
+
+hầu hết các nghiên cứu đã chỉ ra sự phân bố kích thước phù hợp, với đường kính trung bình đếm được là 100–160 nm đối với khói tươi (Reid và cộng sự, 2005). Janhäll và cộng sự. (2010) đã tính toán đường kính trung bình đếm trung bình và độ lệch chuẩn hình học của khói tươi là 117 nm và 1,7 từ 20 bộ dữ liệu từ các ấn phẩm trước (Guyon và cộng sự, 2005, Reid và Hobbs, 1998, Reid và cộng sự, 1998). Trong quá trình lão hóa, các hạt có thể tăng đường kính trung bình của chúng lên đến 235 nm bằng cách đông tụ / ngưng tụ (Janhäll et al., 2010).
+
+Cũng giống như bụi thoát ra từ khí thải của động cơ đốt trong, bụi mới sinh từ đốt sinh khối kị hoặc ít háo nước.
+
+Sự hình thành thứ cấp của các thành phần hòa tan như sulphat và các hợp chất hữu cơ phân cực là nguyên nhân làm tăng khả năng hút ẩm của các hạt khói trong quá trình lão hóa
 
 
 ## Đóng góp nguồn giao thông tới từng loại bụi
