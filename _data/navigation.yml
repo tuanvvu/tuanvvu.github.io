@@ -8,6 +8,10 @@ main:
     url: /blog/
   - title: "ONKK"
     url: /vietnamese/
+  - title: "articles"
+    url: /selected-papers/
+  - title: "talks"
+    url: /talks/
   - title: "research"
     url: https://tuanvvu.github.io/profile/research.html
   - title: "about me"
