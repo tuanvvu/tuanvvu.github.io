@@ -114,13 +114,12 @@ hay nguồn nào đóng góp nhiều nhất cho sự phơi nhiễm ONKK.
 trợ cần đầu tư mạnh mẽ cơ sở vật chất đặc biệt là các thiết bị đo đạc. 
 Theo tôi quan sát thì các thiệt bị đo ô nhiễm không khí ngoài các trạm quan trắc, 
 các thiết bị thu bụi và một số các cảm biến quang học thì chúng ta hầu như không có gì. 
-Trong khi các trường viện mà tôi có dịp tới làm việc trên thế giới có đã và đang đầu tư nhiều các thiết bị đo đạc hiện đại. 
+Trong khi các trường viện mà tôi có dịp tới làm việc trên thế giới đã và đang đầu tư nhiều các thiết bị đo đạc hiện đại. 
 
 Một sự thiếu hụt nghiêm trọng là về các thiết bị đo đạc theo thời gian thực (online instruments).
 Các thiết bị hiện nay có thể đo những thành phần cơ bản của bụi như nông độ kim loại, ion, carbon đen,
 tổng hàm lượng carbon và một số các chất hữu cơ cũng như các khí theo từng giờ, thậm chí từng phút. 
 Những thiết bị đo đạc này rất hữu ích trong việc xác định nhanh nguyên nhân ô nhiễm cũng như cảnh báo ô nhiễm. 
-
 Ví dụ như đợt cháy nhà máy Rạng Đông hồi năm 2019, nếu chúng ta có các thiệt bị này, chúng ta có thể có những 
 cảnh báo nhanh và thiết thực về mức độ ô nhiễm.
 
@@ -155,8 +154,8 @@ Theo tôi biết chúng ta đã và đang xây dựng các nhóm nghiên cứu m
 Việc đào tạo các sinh viên giỏi là việc không thể thiếu trong quá trình xây dựng các nhóm nghiên cứu đó.
 Vì vậy chúng ta cần khuyến khích nhiều bạn trẻ tham gia nghiên cứu cũng như khuyến khích các em tự xin những học bổng nước ngoài. 
 Về ngành khí quyển học tôi thấy có khá nhiều học bổng (từ trang này: https://www.lists.rdg.ac.uk/archives/met-jobs/). 
-Bên cạnh đó chúng ta cũng cần nâng cao  khả năng đào tạo sinh viên và chuyên gia nghiên cứu trong nước.
 
+Bên cạnh đó chúng ta cũng cần nâng cao  khả năng đào tạo sinh viên và chuyên gia nghiên cứu trong nước.
 Hè rồi tôi đã có 2 buổi training cho các em về phân tích dữ liệu ONKK và bản thân tôi cũng từng tốt nghiệp đại học ở ĐHQG, 
 tôi cho rằng sinh viên Việt Nam có tiềm năng nhưng chưa được phát huy hết một phần do thiếu những tài liệu giảng dạy hiện đại.
 Tôi có may mắn được đào tạo tiến sĩ từ chương trình H2O2 của EU về ô nhiễm không khí. 
