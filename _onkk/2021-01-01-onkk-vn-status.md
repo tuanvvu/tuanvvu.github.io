@@ -108,7 +108,9 @@ các đề tại hiện tại mới đang tìm hiểu một vài khía cạnh nh
 sau đó dùng mô hình điểm tiếp nhận để tìm nguồn ô nhiễm. 
 Tuy nhiên để có thể hiểu sâu và chính xác hơn về nguồn ONKK,
 chúng ta cần kết hợp nhiều kỹ thuật phân tích khác nhau,
-so sánh các mô hình mô phỏng cũng như các khía cạnh khác như cơ chế lan chuyền và hình thành các chất ô nhiễm.
+cần phát triển các mô hình mô phỏng cũng như nghiên cứu cụ thể cơ chế lan chuyền và hình thành các chất ô nhiễm.
+(Tôi đã viết về vấn đề xác định nguồn ô nhiễm trong bài: [Mô hình xác định nguồn ô nhiễm bụi mịn: Thế giới và Hà Nội](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/).
+
 Một số câu hỏi quan trọng khác mà tôi chưa có được câu trả lời như: đặc trưng hóa lý (source profiles)
 và hệ số phát thải của bụi từ các nguồn ô khác nhau, 
 cơ chế hình thành các đợt bụi kéo dài ở Hà Nội, các quá trình xảy ra trong khí quyển Hà Nội, 
