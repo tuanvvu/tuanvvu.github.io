@@ -144,7 +144,7 @@ Những máy phân tích cơ bản như sắc kí khí (GC/MS) ở nhóm tôi d�
 ### Đào tạo chuyên gia nghiên cứu
 
 Tất nhiên để thực hiện nghiên cứu, thì không thể bỏ qua yếu tố con người. 
-Tôi bắt đầu quan sát nhiều hơn về tình hình nghiên cứu ở VN nhiều hơn từ hè rồi bằng cách siêu tầm 
+Tôi bắt đầu quan sát nhiều hơn về tình hình nghiên cứu ở VN nhiều hơn từ hè rồi bằng cách sưu tầm 
 các bài báo khoa học đăng trên các tạp chí trong nước và ngoài nước. 
 Thú thật, tôi khá bất ngờ với số lượng các anh chị đang làm về ONKK. 
 Số lượng các nhà nghiên cứu nhiều hơn tôi nghĩ trước đó nhiều. 
