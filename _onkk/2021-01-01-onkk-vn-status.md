@@ -51,8 +51,7 @@ Cũng đã có thêm một số công bố liên ngành với sự tham gia củ
 cũng như các chuyên gia về năng lượng, y tế và kinh tế. 
 Tôi xin được chúc mừng các anh chị đồng nghiệp vì những nỗ lực nghiên cứu không mệt mỏi trong điều kiện tài trợ rất eo hẹp.
 
-Những công bố khoa học này là những mảnh ghép quan trọng để chúng ta có thể hiểu sâu sắc hơn về thực trạng ONKK
-và có những giải pháp đúng đắn. Tuy nhiên, theo tôi còn rất vấn đề nghiên cứu quan trọng liên quan tới ONKK ở 
+Những công bố khoa học này là những mảnh ghép quan trọng cho chúng ta có thể hiểu sâu sắc hơn về thực trạng ONKK để có những giải pháp đúng đắn. Tuy nhiên, theo tôi còn rất vấn đề nghiên cứu quan trọng liên quan tới ONKK ở 
 Việt Nam đặt ra chưa được giải quyết. Chúng ta còn thiếu rất nhiều nghiên cứu và dữ liệu quan trọng để có một bức 
 tranh cụ thể về nguyên nhân và giải pháp cho tình hình hiện tại.
 
