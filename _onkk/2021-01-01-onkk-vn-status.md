@@ -161,7 +161,7 @@ Nghiên cứu một cách bài bản về tình hình ONKK sẽ giúp chúng ta 
 cho các chương trình nghiên cứu cũng như đào tạo các các chuyên gia mới.
 
 *PS1: Bài này hơi dài, tôi hi vọng không làm lãng phí thời gian của các anh chị. Chúc các anh chị một năm 2021 an lành.*
-\[4\]
+
 
 *PS2:* (*) *Tới các anh chị nào quan tâm tới nghiên cứu hiện tại của tôi. 
 Hai dự án chính tôi đang tham gia là: 1) “An Air Pollution Exposure model 
