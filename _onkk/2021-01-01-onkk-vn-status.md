@@ -153,7 +153,7 @@ Tuy vậy nếu so sánh với các nước khác như UK và với nhu cầu th
 Theo tôi biết chúng ta đã và đang xây dựng các nhóm nghiên cứu mạnh- một việc làm hết sức cần thiết.
 Việc đào tạo các sinh viên giỏi là việc không thể thiếu trong quá trình xây dựng các nhóm nghiên cứu đó.
 Vì vậy chúng ta cần khuyến khích nhiều bạn trẻ tham gia nghiên cứu cũng như khuyến khích các em tự xin những học bổng nước ngoài. 
-Về ngành khí quyển học tôi thấy có khá nhiều học bổng (từ trang này: https://www.lists.rdg.ac.uk/archives/met-jobs/). 
+Về ngành khí quyển học tôi thấy có khá nhiều học bổng (từ trang này: [https://www.lists.rdg.ac.uk/archives/met-jobs/]( https://www.lists.rdg.ac.uk/archives/met-jobs/)). 
 
 Bên cạnh đó chúng ta cũng cần nâng cao  khả năng đào tạo sinh viên và chuyên gia nghiên cứu trong nước.
 Hè rồi tôi đã có 2 buổi training cho các em về phân tích dữ liệu ONKK và bản thân tôi cũng từng tốt nghiệp đại học ở ĐHQG, 
