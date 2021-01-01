@@ -180,8 +180,8 @@ có rất nhiều các sinh viên tới từ các nước có vấn đề ONKK n
 Tóm lại, tôi cho rằng chúng ta còn một chặng đường rất dài để có thể nâng cao chất lượng không khí theo được tiêu chuẩn của WHO. 
 Nghiên cứu một cách bài bản về tình hình ONKK sẽ giúp chúng ta có những chính sách phù hợp để rút ngắn đáng kể chặng đường đó. 
 Để đạt được điều đó, chúng ta cần đầu tư một cách mạnh mẽ trong việc tài trợ thiết bị nghiên cứu và các 
-đề tài đủ lớn để giải quyết trọn vẹn từng vấn đề quan trọng và cần xây dựng một lộ trình thích hợp 
-cho các chương trình nghiên cứu cũng như đào tạo các các chuyên gia mới.
+đề tài đủ lớn để giải quyết trọn vẹn từng vấn đề quan trọng và cần xây dựng các chương trình nghiên cứu cụ thể
+cũng như đào tạo thêm nhiều các chuyên gia trong lĩnh vực nghiên cứu ONKK.
 
 *PS1: Bài này hơi dài, tôi hi vọng không làm lãng phí thời gian của các anh chị. 
 Chúc các anh chị một năm 2021 an lành.*
