@@ -120,15 +120,12 @@ Một sự thiếu hụt nghiêm trọng là về các thiết bị đo đạc t
 Các thiết bị hiện nay có thể đo những thành phần cơ bản của bụi như nông độ kim loại, ion, carbon đen,
 tổng hàm lượng carbon và một số các chất hữu cơ cũng như các khí theo từng giờ, thậm chí từng phút. 
 Những thiết bị đo đạc này rất hữu ích trong việc xác định nhanh nguyên nhân ô nhiễm cũng như cảnh báo ô nhiễm. 
-Ví dụ như đợt cháy nhà máy Rạng Đông hồi năm 2019, nếu chúng ta có các thiệt bị này, chúng ta có thể có những 
-cảnh báo nhanh và thiết thực về mức độ ô nhiễm.
 
-Sự thiếu hụt các thiết bị đặc trưng lý tính của bụi như phân bố kích cỡ bụi, 
-hình dáng cấu tạo, mật độ trọng lượng, cũng độ háo nước của bụi cũng làm hạn chế những nghiên cứu chuyên sâu về cơ chế hình thành
+Sự thiếu hụt các thiết bị đo đạc đặc trưng lý tính của bụi như phân bố kích cỡ bụi, 
+hình dáng cấu tạo, mật độ trọng lượng và độ háo nước của bụi cũng làm hạn chế những nghiên cứu chuyên sâu về cơ chế hình thành
 và lan truyền bụi. Xây dựng một siêu trạm quan trắc (supersite) bao gồm các thiết bị quan trắc hiện đại là điều tôi 
-mong ước cần chúng ta hướng tới.
+mong ước chúng ta sẽ có trong tương lai.
 
-  
 Một sự thiếu hụt đáng tiếc nữa là về các thiết bị phân tích thành phần hóa học.
 Hiện các lab tiên tiến trên thế giới có trang bị những thiết bị hiện đại cũng như phát triển
 những kỹ thuật phân tích mới như thiết bị sắc kí khí 2 chiều, có thể phân tích hàng ngàn các
