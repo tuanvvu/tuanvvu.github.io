@@ -27,9 +27,9 @@ Năm rồi tôi có cơ duyên làm quen với các anh chị nghiên cứu tron
 Tôi rất vui khi cùng các anh chị tìm hiểu một số vấn đề (đây đều là những dự án cá nhân mà tôi làm ngoài giờ làm việc).
 Những trao đổi quý báu cùng các anh chị đã giúp tôi có cái nhìn rõ ràng hơn với bức tranh nghiên cứu ONKK ở quê nhà. 
 Tôi viết bài này như là để tổng kết lại những quan sát và 
-suy nghĩ của tôi về tình hình nghiên cứu ONKK trong nước năm qua và đưa ra ý kiến của tôi cho chặng đường nghiên cứu phía trước.
+suy nghĩ của tôi về tình hình nghiên cứu ONKK trong nước năm qua và ý kiến của tôi về chặng đường nghiên cứu phía trước.
 
-Tôi chưa từng làm nghiên cứu cũng như chưa tham gia một dự án nào ở trong nước,
+Tôi cũng xin thú nhận là tôi chưa từng làm nghiên cứu cũng như chưa tham gia một dự án nào ở trong nước,
 do đó tôi hiểu những nghĩ suy này của tôi sẽ không tránh khỏi sự cảm tính, 
 thiên kiến và thiếu chính xác.
 Vì vậy, tôi rất mong nhận được sự góp ý của các anh chị (xin vui lòng inbox hoặc gửi vào hòm thư của tôi).
