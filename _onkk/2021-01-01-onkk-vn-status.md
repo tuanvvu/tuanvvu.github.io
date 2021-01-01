@@ -178,6 +178,6 @@ Chúc các anh chị một năm 2021 an lành.*
 
 
 *PS2:* (*) *Tới các anh chị nào quan tâm tới nghiên cứu hiện tại của tôi. 
-Hai dự án chính tôi đang tham gia là: 1) “An Air Pollution Exposure model 
-to integrate protection of vulnerable groups into the UK Clean Air Programme và 
-2) “Cognitive DeveLopment in the Urban Environment”.*
+Hai dự án chính tôi đang tham gia là: 1) [“An Air Pollution Exposure model 
+to integrate protection of vulnerable groups into the UK Clean Air Programme"-£1.4 mil by UKRI-NERC](https://gtr.ukri.org/project/6D2FF57F-BE97-4070-B074-685CC802D05F) và 
+2) [“Cognitive DeveLopment in the Urban Environment”-£0.6 mil by MRC](https://gtr.ukri.org/projects?ref=MR%2FR00322X%2F1)*
