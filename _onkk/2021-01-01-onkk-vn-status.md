@@ -13,7 +13,7 @@ header:
 
 Khi tôi viết những dòng này, Luân Đôn chuẩn bị bước qua những khoảnh khắc cuối cùng của năm 2020 trong giá lạnh và sự cô lập.
 Thành phố đang trải qua lệnh phong tỏa lần thứ hai để ngăn chặn sự lây nhiễm siêu nhanh của virus biến thể mới. 
-Hồi đầu năm tôi thực sự không ngờ rằng Covid sẽ đảo lộn cuộc sống của tôi ghê gớm tới thế.
+Hồi đầu năm tôi thực sự không ngờ rằng Covid sẽ đảo lộn cuộc sống của tôi ghê gớm đến thế.
 Ở lần phong tỏa này tôi có lẽ cảm thấy bình tâm hơn để sống theo tình hình mới, thay cho những bàng hoàng ở lần phong tỏa đầu. 
 
 Cuộc sống có thể sẽ còn lâu mới trở bình thường nhưng nó không ngừng vận động. 
