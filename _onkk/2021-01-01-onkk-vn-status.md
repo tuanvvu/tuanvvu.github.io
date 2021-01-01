@@ -58,6 +58,8 @@ Với thực trạng ONKK hiện này, thì sự đầu tư của nhà nước v
 chính quyền địa phương cho việc nghiên cứu về ONKK còn rất khiêm tốn. 
 Sự đầu tư này rõ rang là quá nhỏ bé so với lợi ích từ việc giảm thiểu ONKK như 
 giảm chi phí gánh nặng bệnh tật, sự ổn định xã hội, và nhiều lợi ích kinh tế khác. 
+(Hi vọng sắp tới các anh chị làm chính sách có thể đưa thống kê được số tiền đầu tư cụ thể cho từng dự án.)
+
 
 ## Cần đầu tư nhiều hơn cho nghiên cứu ONKK 
 
