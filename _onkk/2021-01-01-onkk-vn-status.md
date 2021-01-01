@@ -53,12 +53,16 @@ Tôi xin được chúc mừng các anh chị đồng nghiệp vì những nỗ 
 
 Những công bố khoa học này là những mảnh ghép quan trọng để chúng ta có thể hiểu sâu sắc hơn về thực trạng ONKK
 và có những giải pháp đúng đắn. Tuy nhiên, theo tôi còn rất vấn đề nghiên cứu quan trọng liên quan tới ONKK ở 
-Việt Nam đặt ra chưa được giải quyết. 
+Việt Nam đặt ra chưa được giải quyết. Chúng ta còn thiếu rất nhiều nghiên cứu và dữ liệu quan trọng để có một bức 
+tranh cụ thể về nguyên nhân và giải pháp cho tình hình hiện tại.
+
 Với thực trạng ONKK hiện này, thì sự đầu tư của nhà nước và 
 chính quyền địa phương cho việc nghiên cứu về ONKK còn rất khiêm tốn. 
-Sự đầu tư này rõ rang là quá nhỏ bé so với lợi ích từ việc giảm thiểu ONKK như 
+Sự đầu tư này rõ ràng là quá nhỏ bé so với lợi ích từ việc giảm thiểu ONKK như 
 giảm chi phí gánh nặng bệnh tật, sự ổn định xã hội, và nhiều lợi ích kinh tế khác. 
-(Hi vọng sắp tới các anh chị làm chính sách có thể đưa thống kê được số tiền đầu tư cụ thể cho từng dự án.)
+Các cấp chính quyền cần có sự quyết tâm quyết liệt hơn nữa trong việc nâng cao chất lượng không khí đô thị.
+(Hi vọng sắp tới các anh chị làm chính sách có thể đưa thống kê được số tiền đầu tư cụ thể cho từng dự án onkk,
+so sánh với các nước khác cũng như có nhiều hơn các nghiên cứu về lợi ích trong việc giảm thiểu ONKK).
 
 
 ## Cần đầu tư nhiều hơn cho nghiên cứu ONKK 
