@@ -150,20 +150,26 @@ Tất nhiên để thực hiện nghiên cứu, thì không thể bỏ qua yếu
 Tôi bắt đầu quan sát nhiều hơn về tình hình nghiên cứu ở VN nhiều hơn từ hè rồi bằng cách sưu tầm 
 các bài báo khoa học đăng trên các tạp chí trong nước và ngoài nước. 
 Thú thật, tôi khá bất ngờ với số lượng các anh chị đang làm về ONKK. 
-Số lượng các nhà nghiên cứu nhiều hơn tôi nghĩ trước đó nhiều. 
+Số lượng các nhà nghiên cứu nhiều hơn tôi nghĩ trước đó. 
 
-Tuy vậy nếu so sánh với các nước khác như UK và với nhu cầu thực tế thì đội ngũ này còn rất mỏng. 
+Tuy vậy nếu so sánh với các nước khác như UK và với nhu cầu thực tế thì số lượng các nghiên cứu viên làm về ONKK 
+trong nước còn rất mỏng. 
 Theo tôi biết chúng ta đã và đang xây dựng các nhóm nghiên cứu mạnh- một việc làm hết sức cần thiết.
 Việc đào tạo các sinh viên giỏi là việc không thể thiếu trong quá trình xây dựng các nhóm nghiên cứu đó.
-Vì vậy chúng ta cần khuyến khích nhiều bạn trẻ tham gia nghiên cứu cũng như khuyến khích các em tự xin những học bổng nước ngoài. 
-Về ngành khí quyển học tôi thấy có khá nhiều học bổng (từ trang này: [https://www.lists.rdg.ac.uk/archives/met-jobs/]( https://www.lists.rdg.ac.uk/archives/met-jobs/)). 
+Tuy nhiên số lượng sinh viên theo chuyên ngành ONKK rất ít và chưa được đào tạo một cách chuyên sâu về nghiên cứu.
 
-Bên cạnh đó chúng ta cũng cần nâng cao  khả năng đào tạo sinh viên và chuyên gia nghiên cứu trong nước.
+Do đó chúng ta cũng cần nâng cao khả năng đào tạo sinh viên và chuyên gia nghiên cứu trong nước.
 Hè rồi tôi đã có 2 buổi training cho một số bạn sinh viên nước nhà về phân tích dữ liệu ONKK.
 Bản thân tôi cũng từng tốt nghiệp đại học ở ĐHQG, 
 tôi cho rằng sinh viên Việt Nam có tiềm năng nhưng chưa được phát huy hết một phần do thiếu những tài liệu giảng dạy hiện đại.
 Tôi có may mắn được đào tạo tiến sĩ từ chương trình H2020 của EU về ô nhiễm không khí. 
 Tôi sẵn sàng chia sẻ những kinh nghiệm học tập cũng những chương trình đào tạo với các anh chị có nhu cầu. 
+
+Bên cạnh tự đào tạo trong nước, chúng ta nên khuyến khích các bạn trẻ xin những học bổng nước ngoài.
+Vấn đề ô nhiễm khí quyển cũng như biến đổi khí hậu được rất nhiều nước trên thế giới quan tâm và có rất nhiều 
+chương trình nghiên cứu thạc sĩ và tiến sĩv chuyên ngành ONKK. 
+Về ngành khí quyển học tôi thấy có khá nhiều học bổng (Các bạn có thể tham khảo một số các vị trí đang mở trang này: [https://www.lists.rdg.ac.uk/archives/met-jobs/]( https://www.lists.rdg.ac.uk/archives/met-jobs/)). 
+
 
 Tôi hi vọng sẽ có nhiều bạn trẻ tham gia vào nghiên cứu ô nhiễm khí quyển hơn. 
 Trong 3 năm qua tôi có tham gia dạy khóa thạc sĩ về ONKK ở trường đại học Birmingham và King’s College London, 
