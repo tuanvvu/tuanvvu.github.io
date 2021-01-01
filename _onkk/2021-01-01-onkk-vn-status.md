@@ -153,10 +153,11 @@ Vì vậy chúng ta cần khuyến khích nhiều bạn trẻ tham gia nghiên c
 Về ngành khí quyển học tôi thấy có khá nhiều học bổng (từ trang này: [https://www.lists.rdg.ac.uk/archives/met-jobs/]( https://www.lists.rdg.ac.uk/archives/met-jobs/)). 
 
 Bên cạnh đó chúng ta cũng cần nâng cao  khả năng đào tạo sinh viên và chuyên gia nghiên cứu trong nước.
-Hè rồi tôi đã có 2 buổi training cho các em về phân tích dữ liệu ONKK và bản thân tôi cũng từng tốt nghiệp đại học ở ĐHQG, 
+Hè rồi tôi đã có 2 buổi training cho một số bạn sinh viên nước nhà về phân tích dữ liệu ONKK.
+Bản thân tôi cũng từng tốt nghiệp đại học ở ĐHQG, 
 tôi cho rằng sinh viên Việt Nam có tiềm năng nhưng chưa được phát huy hết một phần do thiếu những tài liệu giảng dạy hiện đại.
-Tôi có may mắn được đào tạo tiến sĩ từ chương trình H2O2 của EU về ô nhiễm không khí. 
-Tôi sẵn sàng chia sẻ những kinh nghiệm học tập cũng những chương trình đào tạo. 
+Tôi có may mắn được đào tạo tiến sĩ từ chương trình H2020 của EU về ô nhiễm không khí. 
+Tôi sẵn sàng chia sẻ những kinh nghiệm học tập cũng những chương trình đào tạo với các anh chị có nhu cầu. 
 
 Tôi hi vọng sẽ có nhiều bạn trẻ tham gia vào nghiên cứu ô nhiễm khí quyển hơn. 
 Trong 3 năm qua tôi có tham gia dạy khóa thạc sĩ về ONKK ở trường đại học Birmingham và King’s College London, 
