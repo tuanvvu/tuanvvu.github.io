@@ -134,7 +134,7 @@ và lan truyền bụi. Xây dựng một siêu trạm quan trắc (supersite) b
 mong ước chúng ta sẽ có trong tương lai.
 
 Một sự thiếu hụt đáng tiếc nữa là về các thiết bị phân tích thành phần hóa học.
-Hiện các lab tiên tiến trên thế giới có trang bị những thiết bị hiện đại cũng như phát triển
+Hiện các phòng thí nghiệm tiên tiến trên thế giới có trang bị những thiết bị hiện đại cũng như phát triển
 những kỹ thuật phân tích mới như thiết bị sắc kí khí 2 chiều, có thể phân tích hàng ngàn các
 hợp chất hữu cơ trong bụi cùng lúc. Tuy nhiên, khi đọc một số bài báo nghiên cứu tôi thấy có những 
 phân tích đơn giản như hàm lượng ion và tổng lượng carbon trong bụi mà chúng ta vẫn gửi mẫu sang nước 
