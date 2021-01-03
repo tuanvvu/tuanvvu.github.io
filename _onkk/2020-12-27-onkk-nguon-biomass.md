@@ -30,7 +30,11 @@ Về đặc điểm hóa học:
 
 ## Các phương pháp tính toán sự đóng góp của nguồn bụi sinh khối
 
-## Đóng góp của nguồn bụi sinh khối tại Hà Nội
+## Đóng góp của nguồn bụi sinh khối ở Việt Nam
+
+So với các nguồn khác thì sự đóng góp của bụi sinh khối hiện ra tương đối rõ ràng.
+Tôi biết có nhiều anh chị chuyên gia về đốt sinh khối trong diễn đàn này, 
+nhưng vẫn mạn phép múa rìu qua mắt thợ nốt vài điểm dưới đây.
 
 
 
