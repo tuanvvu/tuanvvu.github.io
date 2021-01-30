@@ -14,9 +14,7 @@ rơm rạ và các chất thải nông nghiệp khác được cho là nguồn n
 Ở Trung Quốc, theo một nghiên cứu tổng quan của tôi thì, auá trình đốt cháy sinh khối ước tính đã thải ra khoảng 41–79% OC (1264–2750Gg / năm)
 và 27–50% EC (398,3–716Gg / năm) ở Trung Quốc trong giai đoạn 2000–2012. 
 Trong đó, đốt rác thải nông nghiệp thải ra khoảng 13% OC, cháy rừng đóng góp 2–11% OC 
-và đốt nhiên liệu sinh học dân dụng chiếm 56% lượng phát thải OC do con người gây ra.
-
-
+và đốt nhiên liệu sinh học dân dụng chiếm 56% lượng phát thải OC do con người gây ra [1].
 
 ## Đặc trưng của bụi từ nguồn đốt sinh khối
 
@@ -27,13 +25,13 @@ Về đặc điểm vật lý: Tùy theo các điều kiện đốt cũng như t
 Thông thường ở điều kiện đốt mở, hầu hết các nghiên cứu đã chỉ ra sự phân bố hạt ở kich cỡ với đường kính trung bình khoảng 120 nm. 
 Cũng giống như bụi thoát ra từ khí thải của động cơ đốt trong, bụi mới sinh từ đốt sinh khối có tính kị nước hoặc ít háo nước.
 Tuy nhiên, trong quá trình vận chuyển trong khí quyển, các hạt có thể tăng tính háo nước dẫn tới gia tăng kích thước hạt với đường kính trung bình của chúng lên đến > 200 nm.
-Sự hình thành thứ cấp của các thành phần hòa tan như sulphat và các hợp chất hữu cơ phân cực là nguyên nhân làm tăng khả năng hút ẩm của các hạt khói trong quá trình này [1].
+Sự hình thành thứ cấp của các thành phần hòa tan như sulphat và các hợp chất hữu cơ phân cực là nguyên nhân làm tăng khả năng hút ẩm của các hạt khói trong quá trình này [2].
 
 Về đặc điểm hóa học: Chỉ dấu nổi bật nhất để nhận biết nguồn này là sự đóng góp của levoglucosan trong thành phần hóa học của bụi. 
 Đây là một hợp chất hữu cơ được hình thành từ quá trình nhiệt phân carbohydrate chẳng hạn như cellulose. 
 Đốt sinh khối sinh ra nhiều hợp chất carbon hữu cơ hơn carbon đen nên tỉ lệ OC/EC từ đốt sinh khối cao (>7), 
 do đó OC/EC cũng là chỉ dấu để nhận biết nguồn này. Ngoài ra Kali cũng là một chỉ dấu quan trọng. 
-Mời các bạn tham khảo thêm ở mục tài liệu tham khảo [2,3].
+Mời các bạn tham khảo thêm ở mục tài liệu tham khảo [1,3].
 
 
 ## Các phương pháp tính toán sự đóng góp của nguồn bụi sinh khối
@@ -62,14 +60,23 @@ Ví dụ, theo nhóm cô Kim Oanh, thì nguồn này đóng góp trung bình nă
 Một nghiên cứu khác thì chỉ ra nguồn đốt sinh khối lan truyền từ xa theo mùa kèm các hạt hình thành từ sự ôxi hóa
 các hợp chát dễ bay hơi (có nguồn gốc sinh học- BVOCs) đóng góp tới 17% nguồn bụi ở Hà Nội.
 Tôi có đọc 1 vài số liệu về thành phần hóa học của bụi mịn ở Hà Nội và đã ước lượng tổng cộng nguồn này (cả địa phương và lan truyền).
-Theo dữ liệu tôi có, nguồn này là một nguồn lớn (tầm 10-16 ug/m3, chiếm tầm 21-33% of PM2.5, xin lưu ý đây chỉ là con số ước lượng, tôi cũng chưa có số liệu gốc đạt chuẩn) 
-gây ra ô nhiễm không khí ở Hà Nội, đặc biệt trong những haze events.
-Một trong những chính sách khi tôi làm về ô nhiễm không khí ở Bắc Kinh là họ đã cấm open biomass burning, 
-đặc biệt siết chặt trong những đợt bụi kéo dài.
+Theo dữ liệu tôi có, nguồn này là một nguồn lớn gây ra ô nhiễm không khí ở Hà Nội, đặc biệt trong những haze events.
+(theo tôi nguồn này chiếm tầm 10-16 ug/m3, tức 21-33% of PM2.5. Xin lưu ý đây chỉ là con số ước lượng của cá nhân tôi, và tôi không có số liệu gốc đạt chuẩn. 
+Nhân tiện cảm ơn các anh chị đã cho ý kiến về đóng góp của nguồn đốt sinh khối ở diễn đàn CleanAir).
 
 ### Chính sách cho nguồn đốt sinh khối
 
-Tôi cho rằng đã có nhiều chính sách về nguồn này ở các nước khác cũng như nước ta. Tôi xin để ngỏ ở đây để tìm hiểu thêm.
+Tôi cho rằng đã có nhiều chính sách về nguồn này ở các nước khác cũng như nước ta.
+Ví dụ, một trong những chính sách khi tôi nghiên cứu về ô nhiễm không khí ở Bắc Kinh là họ đã cấm open biomass burning, 
+đặc biệt siết chặt trong những đợt bụi kéo dài. 
+Tôi xin để ngỏ ở đây để tìm hiểu thêm. 
+Bạn nào có tài liệu về chính sách cho đốt sinh khối ở nước ta, làm ơn chia sẻ tôi với.
+
+PS1: Sáng này tôi dậy sớm đọc tài liệu để viết vài nét về bài này, vừa viết vừa nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi".
+PS2: Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các post trước của tôi ở đây:
+Mô hình nguồn
+Nguồn Giao thông
+
 
 Tài liệu tham khảo:
 
