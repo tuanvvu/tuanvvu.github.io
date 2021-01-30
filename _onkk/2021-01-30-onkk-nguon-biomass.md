@@ -11,7 +11,8 @@ header:
 
 Đốt sinh khối được cho là một trong những nguồn chính gây ô nhiễm không khí ở thành phố trên thế giới, đặc biệt ở các nước đang phát triển nơi mà nhiên liệu từ gỗ, 
 rơm rạ và các chất thải nông nghiệp khác được cho là nguồn nhiên liệu quan trọng trong việc sưởi ấm và đun nấu.
-Ở Trung Quốc, theo một nghiên cứu tổng quan của tôi thì, auá trình đốt cháy sinh khối ước tính đã thải ra khoảng 41–79% OC (1264–2750Gg / năm)
+
+Theo một nghiên cứu tổng quan của tôi thì quá trình đốt cháy sinh khối ước tính đã thải ra khoảng 41–79% OC (1264–2750Gg / năm)
 và 27–50% EC (398,3–716Gg / năm) ở Trung Quốc trong giai đoạn 2000–2012. 
 Trong đó, đốt rác thải nông nghiệp thải ra khoảng 13% OC, cháy rừng đóng góp 2–11% OC 
 và đốt nhiên liệu sinh học dân dụng chiếm 56% lượng phát thải OC do con người gây ra [1].
@@ -27,15 +28,15 @@ Do đó việc nhận biết và tính toán một cách định lượng nguồ
 Về đặc điểm vật lý: Tùy theo các điều kiện đốt cũng như từng loại nhiên liệu khác nhau mà bụi sinh ra có phân bố kích cỡ hạt khác nhau. 
 Thông thường ở điều kiện đốt mở, hầu hết các nghiên cứu đã chỉ ra sự phân bố hạt ở kich cỡ với đường kính trung bình khoảng 120 nm. 
 Cũng giống như bụi thoát ra từ khí thải của động cơ đốt trong, bụi mới sinh từ đốt sinh khối có tính kị nước hoặc ít háo nước.
-Tuy nhiên, trong quá trình vận chuyển trong khí quyển, các hạt có thể tăng tính háo nước dẫn tới gia tăng kích thước hạt với đường kính trung bình của chúng lên đến > 200 nm.
-Sự hình thành thứ cấp của các thành phần hòa tan như sulphat và các hợp chất hữu cơ phân cực là nguyên nhân làm tăng khả năng hút ẩm của các hạt khói trong quá trình này [2].
+
+Tuy nhiên, trong quá trình vận chuyển trong khí quyển, các hạt có thể tăng tính háo nước dẫn tới gia tăng kích thước hạt với đường kính trung bình của chúng lên đến > 200 nm. 
+Sự hình thành thứ cấp của các thành phần hòa tan như sulphat và các hợp chất hữu cơ phân cực là nguyên nhân làm tăng khả năng hút ẩm của các hạt khói trong quá trình này [2]. 
 
 Về đặc điểm hóa học: Chỉ dấu nổi bật nhất để nhận biết nguồn này là sự đóng góp của levoglucosan trong thành phần hóa học của bụi. 
 Đây là một hợp chất hữu cơ được hình thành từ quá trình nhiệt phân carbohydrate chẳng hạn như cellulose. 
-Đốt sinh khối sinh ra nhiều hợp chất carbon hữu cơ hơn carbon đen nên tỉ lệ OC/EC từ đốt sinh khối cao (>7), 
-do đó OC/EC cũng là chỉ dấu để nhận biết nguồn này. Ngoài ra Kali cũng là một chỉ dấu quan trọng. 
-Mời các bạn tham khảo thêm ở mục tài liệu tham khảo [1,3].
-
+Đốt sinh khối sinh ra nhiều hợp chất carbon hữu cơ hơn carbon đen nên tỷ lệ OC/EC từ đốt sinh khối cao (>7), 
+do đó tỷ lệ OC/EC cũng là chỉ dấu để nhận biết nguồn này. Ngoài ra Kali cũng là một chỉ dấu quan trọng để nhận biết nguồn này. 
+Mời các bạn tham khảo chi tiết đặc trưng hóa học của nguồn ở Trung Quốc và nước ta ở mục tài liệu tham khảo [1,3].
 
 ## Các phương pháp tính toán sự đóng góp của nguồn bụi sinh khối
 
@@ -52,7 +53,7 @@ Do đó nếu ta đo đạc hàm lường levoglucosan ta có thể ước lư�
 5) Dùng phương pháp các-bon phóng xạ C14
 
 Ngoài ra còn cố thể sử dụng các mô hình lan truyền trên phát thải để tính toán sự đóng góp của đốt sinh khối từ nguồn địa phương/ từ xa,
-kết hợp với các hình ảnh dự liễu vệ tinh để tính toán open biomass burning.
+kết hợp với các hình ảnh dữ liệu vệ tinh để tính toán open biomass burning.
 
 ## Đóng góp của nguồn bụi sinh khối
 
