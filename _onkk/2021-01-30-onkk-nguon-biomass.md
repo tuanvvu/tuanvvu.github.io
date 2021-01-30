@@ -42,10 +42,15 @@ Mời các bạn tham khảo thêm ở mục tài liệu tham khảo [1,3].
 Dưới đây tôi liệt kê những phương pháp tính toán mà nhóm nghiên cứu chúng tôi từng làm [4]:
 1) Dùng các chỉ dấu hóa học để tính toán, ví dụ tỉ lện Levoglucosan/OC cho đốt rơm tầm 0.3-0.4, cho đốt gỗ tầm 0.8.
 Do đó nếu ta đo đạc hàm lường levoglucosan ta có thể ước lượng được sự đóng góp của đốt sinh khối tới bụi mịn.
+
 2) Sử dụng mô hình xác định nguồn như PMF/CMB lên các thành phần hóa học cơ bản
+
 3) Sử dụng mô hình PMF lên khối phổ AMS
+
 4) Tính toán lượng black carbon từ nồng độ BC đo được qua sự hấp thụ sol khí trên các bước sóng khác nhau
-5) Dùng các-bon phóng xạ C14
+
+5) Dùng phương pháp các-bon phóng xạ C14
+
 Ngoài ra còn cố thể sử dụng các mô hình lan truyền trên phát thải để tính toán sự đóng góp của đốt sinh khối từ nguồn địa phương/ từ xa,
 kết hợp với các hình ảnh dự liễu vệ tinh để tính toán open biomass burning.
 
@@ -54,6 +59,7 @@ kết hợp với các hình ảnh dự liễu vệ tinh để tính toán open 
 So với các nguồn khác thì sự đóng góp của bụi sinh khối hiện ra tương đối rõ ràng.
 Tôi biết có nhiều anh chị chuyên gia về ô nhiễm không khí từ nguồn đốt sinh khối ở nước ta, 
 nhưng vẫn xin mạn phép múa rìu qua mắt thợ nốt vài điểm dưới đây:
+
 1) Theo tôi đóng góp của nguồn đốt sinh khối là lớn ở Hà Nội cả về mặt từ nguồn địa phương lẫn lan truyền từ các vùng khác.
 Nguồn này đóng góp rất lớn tới thành phần hữu cơ của bụi.
 Mời các anh chị đọc loạt bài về ô nhiễm không khí từ nguồn đốt sinh khối ở Hà Nội từ nhóm của anh Hoàng Anh Lê [5].
@@ -63,12 +69,13 @@ Ví dụ, theo nhóm cô Kim Oanh, thì nguồn này đóng góp trung bình nă
 Một nghiên cứu khác thì chỉ ra nguồn đốt sinh khối lan truyền từ xa theo mùa kèm các hạt hình thành từ sự ôxi hóa
 các hợp chát dễ bay hơi (có nguồn gốc sinh học- BVOCs) đóng góp tới 17% nguồn bụi ở Hà Nội.
 Các nghiên cứu này rất hữu ích, tuy nhiên vẫn có những sai số trong giả định nên theo tôi cần nhiều nghiên cứu thêm về vấn đề này.
+
 Vừa qua, tôi có đọc 1 vài số liệu về thành phần hóa học của bụi mịn ở Hà Nội và đã ước lượng tổng cộng nguồn này (cả địa phương và lan truyền).
 Theo dữ liệu tôi có, nguồn này là một nguồn lớn gây ra ô nhiễm không khí ở Hà Nội, đặc biệt trong những haze events.
 (theo tôi nguồn này chiếm tầm 10-16 ug/m3, tức 21-33% of PM2.5. Xin lưu ý đây chỉ là con số ước lượng của cá nhân tôi, và tôi không có số liệu gốc đạt chuẩn. 
 Nhân tiện cảm ơn các anh chị đã cho ý kiến về đóng góp của nguồn đốt sinh khối ở diễn đàn CleanAir).
 Một vài câu hỏi tôi chưa tìm ra câu trả lời như bao nhiều % từ lượng đốt để nấu ăn, sưởi ấm và đốt đồng, 
-hoặc đóng góp từ các loại biomass khác nhau như thế nào.
+hoặc đóng góp từ các loại biomass khác nhau, cũng như giữa bụi sơ cấp và thứ cấp từ nguồn này. 
 
 ### Chính sách cho nguồn đốt sinh khối
 
