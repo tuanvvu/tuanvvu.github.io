@@ -52,8 +52,8 @@ kết hợp với các hình ảnh dự liễu vệ tinh để tính toán open 
 ## Đóng góp của nguồn bụi sinh khối
 
 So với các nguồn khác thì sự đóng góp của bụi sinh khối hiện ra tương đối rõ ràng.
-Tôi biết có nhiều anh chị chuyên gia về ô nhiễm không khí từ nguồn đốt sinh khối, 
-nhưng vẫn mạn phép múa rìu qua mắt thợ nốt vài điểm dưới đây:
+Tôi biết có nhiều anh chị chuyên gia về ô nhiễm không khí từ nguồn đốt sinh khối ở nước ta, 
+nhưng vẫn xin mạn phép múa rìu qua mắt thợ nốt vài điểm dưới đây:
 1) Theo tôi đóng góp của nguồn đốt sinh khối là lớn ở Hà Nội cả về mặt từ nguồn địa phương lẫn lan truyền từ các vùng khác.
 Nguồn này đóng góp rất lớn tới thành phần hữu cơ của bụi.
 Mời các anh chị đọc loạt bài về ô nhiễm không khí từ nguồn đốt sinh khối ở Hà Nội từ nhóm của anh Hoàng Anh Lê [5].
@@ -92,8 +92,6 @@ Tài liệu tham khảo:
 2.	[A review of hygroscopic growth factors of submicron aerosols from different sources and its implication for calculation of lung deposition efficiency of ambient aerosols](https://link.springer.com/article/10.1007/s11869-015-0365-0)
 3.	[Carbonaceous aerosol composition in air masses influenced by large-scale biomass burning: a case-study in Northwestern Vietnam](https://acp.copernicus.org/preprints/acp-2020-1027/)
 4.	[Source Apportionment of Carbonaceous Aerosols in Beijing with Radiocarbon and Organic Tracers: Insight into the Differences between Urban and Rural Sites](https://acp.copernicus.org/preprints/acp-2020-1018/)
-5.	[Renewable energy from biomass surplus resource: potential of power generation from rice straw in Vietnam]
-(https://www.nature.com/articles/s41598-020-80678-3)
-6.	[Chemical characterization and sources apportionment of fine particulate pollution in a mining town of Vietnam]
-(https://www.sciencedirect.com/science/article/pii/S016980951400177X?via%3Dihub)
+5.	[Renewable energy from biomass surplus resource: potential of power generation from rice straw in Vietnam](https://www.nature.com/articles/s41598-020-80678-3)
+6.	[Chemical characterization and sources apportionment of fine particulate pollution in a mining town of Vietnam](https://www.sciencedirect.com/science/article/pii/S016980951400177X?via%3Dihub)
 
