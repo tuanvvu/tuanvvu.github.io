@@ -43,8 +43,8 @@ Mời các bạn tham khảo chi tiết đặc trưng hóa học của nguồn �
 
 Dưới đây tôi liệt kê những phương pháp tính toán mà nhóm nghiên cứu chúng tôi từng làm [4]:
 
-1) Dùng các chỉ dấu hóa học để tính toán, ví dụ tỉ lện Levoglucosan/OC cho đốt rơm tầm 0.3-0.4, cho đốt gỗ tầm 0.8.
-Do đó nếu ta đo đạc hàm lường levoglucosan ta có thể ước lượng được sự đóng góp của đốt sinh khối tới bụi mịn.
+1) Dùng các chỉ dấu hóa học để tính toán, ví dụ tỷ lệ Levoglucosan/OC cho đốt rơm tầm 0.3-0.4, cho đốt gỗ tầm 0.8.
+Do đó nếu ta đo đạc hàm lượng levoglucosan ta có thể ước lượng được sự đóng góp của đốt sinh khối tới bụi mịn.
 
 2) Sử dụng mô hình xác định nguồn như PMF/CMB lên các thành phần hóa học cơ bản
 
