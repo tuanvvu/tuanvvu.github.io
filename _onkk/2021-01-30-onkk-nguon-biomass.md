@@ -83,9 +83,7 @@ Cũng rất hi vọng nhận được góp ý của các bạn.
 Cái mùi thơm của rơm thật là khó có thể quên :)
 
 **PS2:** Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các posts trước của tôi ở đây:
-[Mô hình nguồn](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/)
-
-[Nguồn Giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
+[Mô hình nguồn](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/), [Nguồn Giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
 
 **Tài liệu tham khảo:**
 
