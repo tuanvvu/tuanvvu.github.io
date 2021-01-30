@@ -13,7 +13,7 @@ header:
 Đốt sinh khối được cho là một trong những nguồn chính gây ô nhiễm không khí ở thành phố trên thế giới, đặc biệt ở các nước đang phát triển nơi mà nhiên liệu từ gỗ, 
 rơm rạ và các chất thải nông nghiệp khác được cho là nguồn nhiên liệu quan trọng trong việc sưởi ấm và đun nấu.
 
-Theo một nghiên cứu tổng quan của tôi thì quá trình đốt cháy sinh khối ước tính đã thải ra khoảng 41–79% OC (1264–2750Gg / năm)
+Theo nghiên cứu tổng quan của tôi thì quá trình đốt cháy sinh khối ước tính đã thải ra khoảng 41–79% OC (1264–2750Gg / năm)
 và 27–50% EC (398,3–716Gg / năm) ở Trung Quốc trong giai đoạn 2000–2012. 
 Trong đó, đốt rác thải nông nghiệp thải ra khoảng 13% OC, cháy rừng đóng góp 2–11% OC 
 và đốt nhiên liệu sinh học dân dụng chiếm 56% lượng phát thải OC do con người gây ra [1].
@@ -42,6 +42,7 @@ Mời các bạn tham khảo chi tiết đặc trưng hóa học của nguồn �
 ## Các phương pháp tính toán sự đóng góp của nguồn bụi sinh khối
 
 Dưới đây tôi liệt kê những phương pháp tính toán mà nhóm nghiên cứu chúng tôi từng làm [4]:
+
 1) Dùng các chỉ dấu hóa học để tính toán, ví dụ tỉ lện Levoglucosan/OC cho đốt rơm tầm 0.3-0.4, cho đốt gỗ tầm 0.8.
 Do đó nếu ta đo đạc hàm lường levoglucosan ta có thể ước lượng được sự đóng góp của đốt sinh khối tới bụi mịn.
 
