@@ -16,6 +16,9 @@ và 27–50% EC (398,3–716Gg / năm) ở Trung Quốc trong giai đoạn 2000�
 Trong đó, đốt rác thải nông nghiệp thải ra khoảng 13% OC, cháy rừng đóng góp 2–11% OC 
 và đốt nhiên liệu sinh học dân dụng chiếm 56% lượng phát thải OC do con người gây ra [1].
 
+![animation]({{ site.url }}/assets/images/onkk.source.biomass.png) 
+*Hình 1. Biểu đồ về phát thải OC (a) và EC (b) từ các nguồn khác nhau ở Trung Quốc vào năm 2012, và phát thải OC (c) và EC (d) theo lĩnh vực công nghiệp (Gg).*
+
 ## Đặc trưng của bụi từ nguồn đốt sinh khối
 
 So với các nguồn gây ô nhiễm khác thì bụi từ nguồn đốt sinh khối có những đặc trưng rất riêng. 
@@ -59,10 +62,13 @@ Mời các anh chị đọc loạt bài về ô nhiễm không khí từ nguồn
 Ví dụ, theo nhóm cô Kim Oanh, thì nguồn này đóng góp trung bình năm 16-25% ở Quảng Ninh [6] 
 Một nghiên cứu khác thì chỉ ra nguồn đốt sinh khối lan truyền từ xa theo mùa kèm các hạt hình thành từ sự ôxi hóa
 các hợp chát dễ bay hơi (có nguồn gốc sinh học- BVOCs) đóng góp tới 17% nguồn bụi ở Hà Nội.
-Tôi có đọc 1 vài số liệu về thành phần hóa học của bụi mịn ở Hà Nội và đã ước lượng tổng cộng nguồn này (cả địa phương và lan truyền).
+Các nghiên cứu này rất hữu ích, tuy nhiên vẫn có những sai số trong giả định nên theo tôi cần nhiều nghiên cứu thêm về vấn đề này.
+Vừa qua, tôi có đọc 1 vài số liệu về thành phần hóa học của bụi mịn ở Hà Nội và đã ước lượng tổng cộng nguồn này (cả địa phương và lan truyền).
 Theo dữ liệu tôi có, nguồn này là một nguồn lớn gây ra ô nhiễm không khí ở Hà Nội, đặc biệt trong những haze events.
 (theo tôi nguồn này chiếm tầm 10-16 ug/m3, tức 21-33% of PM2.5. Xin lưu ý đây chỉ là con số ước lượng của cá nhân tôi, và tôi không có số liệu gốc đạt chuẩn. 
 Nhân tiện cảm ơn các anh chị đã cho ý kiến về đóng góp của nguồn đốt sinh khối ở diễn đàn CleanAir).
+Một vài câu hỏi tôi chưa tìm ra câu trả lời như bao nhiều % từ lượng đốt để nấu ăn, sưởi ấm và đốt đồng, 
+hoặc đóng góp từ các loại biomass khác nhau như thế nào.
 
 ### Chính sách cho nguồn đốt sinh khối
 
@@ -71,14 +77,23 @@ Ví dụ, một trong những chính sách khi tôi nghiên cứu về ô nhiễ
 đặc biệt siết chặt trong những đợt bụi kéo dài. 
 Tôi xin để ngỏ ở đây để tìm hiểu thêm. 
 Bạn nào có tài liệu về chính sách cho đốt sinh khối ở nước ta, làm ơn chia sẻ tôi với.
+Cũng rất hi vọng nhận được góp ý của các bạn.
 
 PS1: Sáng này tôi dậy sớm đọc tài liệu để viết vài nét về bài này, vừa viết vừa nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi".
+Cái mùi thơm của rơm thật là khó có thể quên :)
+
 PS2: Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các post trước của tôi ở đây:
 Mô hình nguồn
 Nguồn Giao thông
 
-
 Tài liệu tham khảo:
 
-
+1.	[Characterization and source apportionment of carbonaceous PM2.5 particles in China - A review](https://www.sciencedirect.com/science/article/pii/S1352231018304084)
+2.	[A review of hygroscopic growth factors of submicron aerosols from different sources and its implication for calculation of lung deposition efficiency of ambient aerosols](https://link.springer.com/article/10.1007/s11869-015-0365-0)
+3.	[Carbonaceous aerosol composition in air masses influenced by large-scale biomass burning: a case-study in Northwestern Vietnam](https://acp.copernicus.org/preprints/acp-2020-1027/)
+4.	[Source Apportionment of Carbonaceous Aerosols in Beijing with Radiocarbon and Organic Tracers: Insight into the Differences between Urban and Rural Sites](https://acp.copernicus.org/preprints/acp-2020-1018/)
+5.	[Renewable energy from biomass surplus resource: potential of power generation from rice straw in Vietnam]
+(https://www.nature.com/articles/s41598-020-80678-3)
+6.	[Chemical characterization and sources apportionment of fine particulate pollution in a mining town of Vietnam]
+(https://www.sciencedirect.com/science/article/pii/S016980951400177X?via%3Dihub)
 
