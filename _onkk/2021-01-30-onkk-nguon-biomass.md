@@ -36,7 +36,7 @@ Sự hình thành thứ cấp của các thành phần hòa tan như sulphat và
 Về đặc điểm hóa học: Chỉ dấu nổi bật nhất để nhận biết nguồn này là sự đóng góp của levoglucosan trong thành phần hóa học của bụi. 
 Đây là một hợp chất hữu cơ được hình thành từ quá trình nhiệt phân carbohydrate chẳng hạn như cellulose. 
 Đốt sinh khối sinh ra nhiều hợp chất carbon hữu cơ hơn carbon đen nên tỷ lệ OC/EC từ đốt sinh khối cao (>7), 
-do đó tỷ lệ OC/EC cũng là chỉ dấu để nhận biết nguồn này. Ngoài ra Kali cũng là một chỉ dấu quan trọng để nhận biết nguồn này. 
+do đó tỷ lệ OC/EC cũng là chỉ dấu để nhận biết nguồn này. Ngoài ra Kali cũng là một chỉ dấu quan trọng. 
 Mời các bạn tham khảo chi tiết đặc trưng hóa học của nguồn ở Trung Quốc và nước ta ở mục tài liệu tham khảo [1,3].
 
 ## Các phương pháp tính toán sự đóng góp của nguồn bụi sinh khối
