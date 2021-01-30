@@ -9,6 +9,7 @@ header:
   teaser: /assets/images/onkk.source.biomass.png
 ---
 
+
 Đốt sinh khối được cho là một trong những nguồn chính gây ô nhiễm không khí ở thành phố trên thế giới, đặc biệt ở các nước đang phát triển nơi mà nhiên liệu từ gỗ, 
 rơm rạ và các chất thải nông nghiệp khác được cho là nguồn nhiên liệu quan trọng trong việc sưởi ấm và đun nấu.
 
