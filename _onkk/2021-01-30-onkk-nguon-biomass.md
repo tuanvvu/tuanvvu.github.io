@@ -79,8 +79,7 @@ Tôi xin để ngỏ ở đây để tìm hiểu thêm.
 Bạn nào có tài liệu về chính sách cho đốt sinh khối ở nước ta, làm ơn chia sẻ tôi với.
 Cũng rất hi vọng nhận được góp ý của các bạn.
 
-**PS1:** Sáng này tôi dậy sớm đọc tài liệu để viết vài nét về bài này, vừa viết vừa nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi".
-Cái mùi thơm của rơm thật là khó có thể quên :)
+**PS1:** Sáng nay viết bài này lại nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi". Ôi, cái mùi thơm của rơm thật là khó có thể quên :)
 
 **PS2:** Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các posts trước của tôi ở đây:
 [Mô hình nguồn](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/), [Nguồn Giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
