@@ -79,14 +79,15 @@ Tôi xin để ngỏ ở đây để tìm hiểu thêm.
 Bạn nào có tài liệu về chính sách cho đốt sinh khối ở nước ta, làm ơn chia sẻ tôi với.
 Cũng rất hi vọng nhận được góp ý của các bạn.
 
-PS1: Sáng này tôi dậy sớm đọc tài liệu để viết vài nét về bài này, vừa viết vừa nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi".
+**PS1:** Sáng này tôi dậy sớm đọc tài liệu để viết vài nét về bài này, vừa viết vừa nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi".
 Cái mùi thơm của rơm thật là khó có thể quên :)
 
-PS2: Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các post trước của tôi ở đây:
-Mô hình nguồn
-Nguồn Giao thông
+**PS2:** Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các posts trước của tôi ở đây:
+[Mô hình nguồn](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/)
 
-Tài liệu tham khảo:
+[Nguồn Giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
+
+**Tài liệu tham khảo:**
 
 1.	[Characterization and source apportionment of carbonaceous PM2.5 particles in China - A review](https://www.sciencedirect.com/science/article/pii/S1352231018304084)
 2.	[A review of hygroscopic growth factors of submicron aerosols from different sources and its implication for calculation of lung deposition efficiency of ambient aerosols](https://link.springer.com/article/10.1007/s11869-015-0365-0)
