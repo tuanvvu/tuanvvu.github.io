@@ -89,7 +89,8 @@ Tôi xin để ngỏ ở đây để tìm hiểu thêm.
 Bạn nào có tài liệu về chính sách cho đốt sinh khối ở nước ta, làm ơn chia sẻ tôi với.
 Cũng rất hi vọng nhận được góp ý của các bạn.
 
-** Cập nhật** Một bình luận rất đáng lưu tâm của PGS.TS Vũ Thanh Ca. Rất cảm ơn ý kiến đóng góp của anh.
+**Cập nhật** Một bình luận rất đáng lưu tâm từ PGS.TS Vũ Thanh Ca. Tôi rất cảm ơn ý kiến đóng góp của anh.
+
 PGS.TS Vũ Thanh Ca cho rằng: "Một phần rất lớn đốt sinh khối ở VN hiện nay là đốt rác. Do thiếu đất để làm bãi rác, tất cả các địa phương tại khu vực nông thôn Đồng bằng, thậm chí Trung du Bắc Bộ đều đốt, bằng lò thủ công. Trong một lớp khai mạc mạng lưới báo chí về môi trường gần đây, khi nêu vấn đề này, tôi nghe có chuyên gia nói cách đây (1/2/2021) khoảng 2 tuần, Nam Định và Thái Bình, mặc dù tỉnh đã cấp tiền xây các khu đốt rác thủ công, gần đây phải cấm hoạt động của các lò này do tác hại rất xấu tới sức khỏe người dân. Không biết có đúng không và không biết lệnh cấm này có bền vững không? Và các vùng nông thôn mới có phân loại rác thải để giảm lượng đốt cũng như thay các lò đốt thủ công bằng lò công nghệ cao hay không? Để giải quyết vấn đề ô nhiễm không khí ở Việt Nam, ngoài các biện pháp như cấm xe máy, thúc đẩy việc sử dụng gạch không nung để giảm sản xuất gạch Tuy-nen, tôi rất mong các địa phương triệt để phân loại rác thải, với các vùng nông thôn thì chôn lấp chất thải hữu cơ dễ phân hủy tại vườn và thúc đẩy mạnh mẽ nền kinh tế tuần hoàn, tăng cường tái chế để giảm lượng rác phải đốt".
 
 Hồi đáp của Tuân:
