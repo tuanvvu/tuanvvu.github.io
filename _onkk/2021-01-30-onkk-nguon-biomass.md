@@ -89,6 +89,16 @@ Tôi xin để ngỏ ở đây để tìm hiểu thêm.
 Bạn nào có tài liệu về chính sách cho đốt sinh khối ở nước ta, làm ơn chia sẻ tôi với.
 Cũng rất hi vọng nhận được góp ý của các bạn.
 
+** Cập nhật** Một bình luận rất đáng lưu tâm của PGS.TS Vũ Thanh Ca. Rất cảm ơn ý kiến đóng góp của anh.
+PGS.TS Vũ Thanh Ca cho rằng: "Một phần rất lớn đốt sinh khối ở VN hiện nay là đốt rác. Do thiếu đất để làm bãi rác, tất cả các địa phương tại khu vực nông thôn Đồng bằng, thậm chí Trung du Bắc Bộ đều đốt, bằng lò thủ công. Trong một lớp khai mạc mạng lưới báo chí về môi trường gần đây, khi nêu vấn đề này, tôi nghe có chuyên gia nói cách đây (1/2/2021) khoảng 2 tuần, Nam Định và Thái Bình, mặc dù tỉnh đã cấp tiền xây các khu đốt rác thủ công, gần đây phải cấm hoạt động của các lò này do tác hại rất xấu tới sức khỏe người dân. Không biết có đúng không và không biết lệnh cấm này có bền vững không? Và các vùng nông thôn mới có phân loại rác thải để giảm lượng đốt cũng như thay các lò đốt thủ công bằng lò công nghệ cao hay không? Để giải quyết vấn đề ô nhiễm không khí ở Việt Nam, ngoài các biện pháp như cấm xe máy, thúc đẩy việc sử dụng gạch không nung để giảm sản xuất gạch Tuy-nen, tôi rất mong các địa phương triệt để phân loại rác thải, với các vùng nông thôn thì chôn lấp chất thải hữu cơ dễ phân hủy tại vườn và thúc đẩy mạnh mẽ nền kinh tế tuần hoàn, tăng cường tái chế để giảm lượng rác phải đốt".
+
+Hồi đáp của Tuân:
+Cảm ơn câu hỏi và góp ý rất hay của anh. Tôi không có câu trả lời cho vấn đề đóng góp đốt sinh khối trong việc đốt rác . 
+Phần đốt sinh khối ở đây tính dựa trên levoglucosan, tức đã bao gồm cả rác thải sinh khối (chứa cellulose), nhưng không bao gồm các loại rác thải khác. 
+Muốn tính riêng cho các lò đốt rác thủ công thôi, thì chắc cần thêm 1 vài tracers. 
+Nếu có nhiều lò thủ công ở các địa phương thì theo tôi việc đo đạc đặc trưng của bụi từ các lò này là cần thiết để có thể giúp phân tách nguồn chính xác hơn.
+Rất tán thành với ý kiến của anh về xử lý rác thải và giảm thải ô nhiễm từ sản xuất gạch.
+
 **PS1:** Sáng nay viết bài này lại nhớ tới hình ảnh "một bếp lửa chờn vờn sướng sớm" và "coi khói đốt đồng để ngậm ngùi". Ôi, cái mùi thơm của rơm thật là khó có thể quên :)
 
 **PS2:** Mời các bạn đọc thêm về mô hình xác định bụi và đặc điểm của nguồn giao thông ở các posts trước của tôi ở đây:
