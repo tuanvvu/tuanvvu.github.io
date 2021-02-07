@@ -39,5 +39,6 @@ Tài liệu tham khảo:
 2.	Insight into PM2.5 Sources by Applying Positive Matrix Factorization (PMF) at an Urban and Rural Site of Beijing. ACP discussion (in review).
 3.	[Source apportionment of the lung dose of ambient sub-micrometre particulate matter. Aerosol Air Qual. Res. 16, 1548-1557 (2016).](https://aaqr.org/articles/aaqr-15-09-oa-0553.pdf)
 4.	[Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor into indoor environments. Air Qual. Atmos. Health 11, 615-625 (2018).](https://link.springer.com/content/pdf/10.1007/s11869-018-0568-2.pdf)
-5.	More mileage in reducing urban air pollution from road traffic. Environ. Inter. (2020- in press).
+5.	[More mileage in reducing urban air pollution from road traffic. Environ. Inter. (2021).](https://doi.org/10.1016/j.envint.2020.106329)
+
 
