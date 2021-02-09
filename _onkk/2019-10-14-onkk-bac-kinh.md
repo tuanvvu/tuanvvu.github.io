@@ -36,7 +36,7 @@ Theo nghiên cứu của chúng tôi, thời tiết có thể làm tăng giảm 
 
 Do đó, tôi cho rằng quan trọng nhất trong giai đoạn này vẫn là dùng năng lượng sạch cho residential heating thay thế cho than, cải thiện hiệu quả sử dụng năng lượng than trong công nghiệp vì các năng lượng khác chưa đáp ứng đủ so với nhu cầu và phải loại bỏ các nhà máy vượt chuẩn ô nhiễm. 
 
-Đại học Thành Hoa báo cáo rằng 19% sự giảm bụi mịn do việc cải thiên trong việc giảm thải ô nhiễm từ than trong công nghiệp và 17% là do dùng năng lượng sạch hơn ở khu vực dân dụng (hình D). 
+Đại học Thanh Hoa báo cáo rằng 19% sự giảm bụi mịn do việc cải thiên trong việc giảm thải ô nhiễm từ than trong công nghiệp và 17% là do dùng năng lượng sạch hơn ở khu vực dân dụng (hình D). 
 
 Mời các bạn đọc kĩ hơn trong bài trước: [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
 
