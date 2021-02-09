@@ -32,11 +32,11 @@ Theo nghiên cứu của chúng tôi, thời tiết có thể làm tăng giảm 
 
 ### 3. Một số các yếu tố chính trong chính sách tới sự thành công của kế hoạch này:
 
-· **Tái cấu trúc trong việc sử dụng năng lượng:** Tiêu thụ than giảm mạnh trong giai đoạn này, chủ yếu từ khu vực dân cư (cho sưởi mùa đông, nấu ăn- cũng ghi chú thêm là trong mùa này thì đóng góp sử dụng than cho residential sector vẫn lớn hơn rất nhiều so với sư dụng trong công nghiệp) (hình C). 
+· **Sử dụng năng lượng:** Tiêu thụ than giảm mạnh trong giai đoạn này, chủ yếu từ khu vực dân cư (cho sưởi mùa đông, nấu ăn- cũng ghi chú thêm là trong mùa này thì đóng góp sử dụng than cho residential sector vẫn lớn hơn rất nhiều so với sư dụng trong công nghiệp) (hình C). 
 
 Do đó, tôi cho rằng quan trọng nhất trong giai đoạn này vẫn là dùng năng lượng sạch cho residential heating thay thế cho than, cải thiện hiệu quả sử dụng năng lượng than trong công nghiệp vì các năng lượng khác chưa đáp ứng đủ so với nhu cầu và phải loại bỏ các nhà máy vượt chuẩn ô nhiễm. 
 
-Đại học Thanh Hoa báo cáo rằng 19% sự giảm bụi mịn do việc cải thiên trong việc giảm thải ô nhiễm từ than trong công nghiệp và 17% là do dùng năng lượng sạch hơn ở khu vực dân dụng (hình D). 
+Đại học Thanh Hoa cho rằng 19% sự giảm bụi mịn do việc cải thiện trong việc giảm thải ô nhiễm từ các lò hơi sử dụng than trong công nghiệp và 17% là do dùng năng lượng sạch hơn ở khu vực dân dụng (hình D). 
 
 Mời các bạn đọc kĩ hơn trong bài trước: [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
 
