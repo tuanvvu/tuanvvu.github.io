@@ -29,10 +29,11 @@ mà cần có sự tổng hợp của nhiều nghiên cứu với các phương 
 
 **2. Chính sách về ONKK**
 
-Theo tôi, chúng ta không thể trông một nghiên cứu hoàn hảo về nguồn ONKK rồi mới thi hành các chính sách.
+Theo tôi, chúng ta không thể trông chờ một nghiên cứu hoàn hảo về nguồn ONKK rồi mới thi hành các chính sách.
 Dựa trên những bằng chứng khoa học từ các nghiên cứu trước đó ở Hà Nội, 
 đặc biệt từ các nghiên cứu xác định nguồn tại điểm tiếp nhận, chúng ta đã
 có một số bức tranh sơ bộ về thành phần hóa học chính của bụi và các nguồn đóng góp lớn hiện nay.
+
 Cộng thêm những kinh nghiệm từ các thành phố khác trên thế giới (đặc biệt về nguồn giao thông), tôi nghĩ chúng ta đã có thể xây dựng những chính sách phù hợp,
 ví dụ như các chính sách về nâng cao tiêu chuẩn phát thải cho xe cộ hay chất lượng xăng dầu.
 Việc phẩn bổ nguồn ô nhiễm cần làm thường xuyên để đánh giá sự hiệu quả của các chính sách cũng như phát hiện các nguồn mới.
@@ -65,5 +66,3 @@ Còn nhớ hồi 2016, khi tôi sang đó làm dự án, nồng độ năm đó 
 Một thực tế rất đáng buồn là ô nhiễm bụi mịn ở Hà Nội đã vượt Bắc Kinh. 
 Chúng ta cần phải thi hành các chính sách về ONKK mạnh mẽ và triệt để hơn nữa nếu không
 tương lai thủ đô chúng ta sẽ giống tình trạng ONKK của Bắc Kinh của những năm trước đây. 
-
-
