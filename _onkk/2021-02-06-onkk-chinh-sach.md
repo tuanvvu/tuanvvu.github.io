@@ -1,5 +1,5 @@
 ---
-title:  "Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ"
+title:  "Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ trong dịp Tết Tân Sửu"
 comments: true
 date:   2021-02-06 00:00:00 -0000
 layout: single
@@ -9,44 +9,61 @@ header:
   teaser: /assets/images/onkk.source.biomass.png
 ---
 
-Để có chính sách đúng đắn trong việc giảm thiểu ô nhiễm không khí thì không thể thiếu những nghiên cứu cơ bản về các nguồn gây ra ô nhiễm không khí.
+Để có chính sách đúng đắn trong việc giảm thiểu ô nhiễm không khí thì không thể thiếu những nghiên cứu về các nguồn gây ra ô nhiễm không khí (ONKK).
 Dưới đây là suy nghĩ của tôi về nghiên cứu nguồn và chính sách để giảm thiểu ONKK ở Hà Nội:
 
-**1. Nguồn ô nhiễm không khí ở Hà Nội và chính sách kèm theo**
+**1. Nguồn ô nhiễm không khí ở Hà Nội**
 
-Đã có rất nhiều nhà khoa học đã nêu ra những thiếu hụt và yếu kém về nghiên cứu nguồn thải ở Hà Nội, đặc biệt trong việc kiểm kê nguồn thải.
-Tôi hoàn toàn tán thành với những ý kiến đó. Việc kiểm kê nguồn thải là cần thiết, tuy nhiên còn phải kết hợp với các phương pháp xác định nguồn khác. 
-Nên nhớ việc kiểm kê là không đơn giản, rất tốn kém và cần thời gian thực hiện, trong khí các nguồn ô nhiễm có thể biến động hàng năm.
-Việc kiểm kê cũng nên đi kèm với các đo đạc về hệ số phát thải cũng như
-đặc trưng về thành phần hóa học của nguồn thải.
+Rất nhiều nhà khoa học trong nước đã nêu ra những thiếu hụt và yếu kém về nghiên cứu nguồn thải ONKK ở Hà Nội, đặc biệt trong việc kiểm kê nguồn thải.
+Tôi hoàn toàn tán thành với những ý kiến đó. Việc kiểm kê là không đơn giản, rất tốn kém và cần thời gian thực hiện, trong khi các nguồn ô nhiễm có thể biến động hàng năm. 
 
-Các phương pháp nghiên cứu về nguồn ô nhiễm đều có những ưu điểm và nhược điểm kèm theo nên không thể đòi hỏi một nghiên cứu mà thể chỉ ra
-được chính xác các nguồn gây ô nhiễm, cần có sự tổng hợp của nhiều nghiên cứu khác nhau. Dựa trên những bằng chứng khoa học từ các nghiên cứu trước đó ở Hà Nội, 
+Ngoài những sai số khó tránh khỏi trong việc kiểm kê, thì việc kiểm kê mới chỉ cung cấp bức tranh về nguồn thải trực tiếp. 
+Các chất ô nhiễm sau khi thoát ra ngoài ống khói sẽ chịu những tác động mạnh từ các quá trình lý-hóa trong khí quyển. 
+Do đặc trưng bụi từng nguồn có tính chất khác nhau dẫn tới tác động của các quá trình khí quyển này lên từng loại bụi cũng khác nhau.  
+
+Vì vậy, ngoài việc nâng cao công tác kiểm kê nguồn thải, chúng ta cần tiến hành kết hợp với các phương pháp xác định nguồn khác, đặc biệt 
+cần đi kèm với các đo đạc về hệ số phát thải cũng như đặc trưng về thành phần hóa học của nguồn thải chính để phục vụ cho việc chạy các mô hình phân bổ nguồn thải sau này.
+
+Thực tế, chúng ta khó có thể đòi hỏi một nghiên cứu có thể chỉ ra được chính xác sự đóng góp của từng nguồn gây ô nhiễm, 
+mà cần có sự tổng hợp của nhiều nghiên cứu với các phương pháp tiếp cận khác nhau. 
+
+**2. Chính sách về ONKK**
+
+Theo tôi, chúng ta không thể trông một nghiên cứu hoàn hảo về nguồn ONKK rồi mới thi hành các chính sách.
+Dựa trên những bằng chứng khoa học từ các nghiên cứu trước đó ở Hà Nội, 
 đặc biệt từ các nghiên cứu xác định nguồn tại điểm tiếp nhận, chúng ta đã
 có một số bức tranh sơ bộ về thành phần hóa học chính của bụi và các nguồn đóng góp lớn hiện nay.
 Cộng thêm những kinh nghiệm từ các thành phố khác trên thế giới (đặc biệt về nguồn giao thông), tôi nghĩ chúng ta đã có thể xây dựng những chính sách phù hợp,
 ví dụ như các chính sách về nâng cao tiêu chuẩn phát thải cho xe cộ hay chất lượng xăng dầu.
+Việc phẩn bổ nguồn ô nhiễm cần làm thường xuyên để đánh giá sự hiệu quả của các chính sách cũng như phát hiện các nguồn mới.
 
-Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần có nhiều chính sách hơn là chỉ tập chung vào một nguồn. 
-Ví dụ đợt phong tỏa thành phố do covid-19 cho thấy dù lượng giao thông giảm tới hơn 60% thì vẫn có những đợt ô nhiễm không khí.
-Cũng cần có những nghiên cứu về các đợt ô nhiễm bụi kéo dài (haze events) để cho những chính sách phù hợp trong những đợt bụi này.
+Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần áp dùng song song nhiều chính sách, chứ không chỉ tập chung vào một nguồn. 
+Ví dụ, giao thông là một nguồn đóng góp quan trọng, tuy nhiêm đợt phong tỏa thành phố do covid-19 cho thấy dù lượng giao thông giảm tới hơn 60% thì vẫn có những đợt ô nhiễm không khí. Chúng ta cũng cần có thêm những nghiên cứu về các đợt ô nhiễm bụi kéo dài (haze events) này. 
 
-Chúng ta cũng cần có thêm nhiều nghiên cứu về ảnh hưởng của ONKK trên góc độ kinh tế, sức khỏe và xã hội để có được những chính sách hiệu quả và phù hợp nhất.
+Ngoài ra, chúng ta đang thiếu nhiều nghiên cứu liên ngành về ảnh hưởng của ONKK, đặc biệt trên góc độ kinh tế, năng lượng, sức khỏe và xã hội để có được những chính sách hiệu quả và phù hợp nhất với tình hình hiện tại của đất nước.
 
-**2. Ô nhiễm không khí không có biên giới giữa các tỉnh thành**
+**3. Ô nhiễm không khí không có biên giới giữa các tỉnh thành và quốc gia**
 
-Ô nhiễm Hà Nội có hiện tương ô nhiễm vùng rất lớn, do đó nếu chỉ có những chính sách ở Hà Nội thì không thể xử lý được, cần có những chính sách 
-ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng bắc Bộ.
+Ô nhiễm Hà Nội có hiện tượng ô nhiễm vùng rất lớn, do đó nếu chỉ có những chính sách ở Hà Nội thì chắc chắn không thể xử lý được, cần có những chính sách 
+ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ.
 
 Những nghiên cứu xác định nguồn nghiên cứu cần tiến hành thường xuyên ở Hà Nội và các địa phương xung quạn để có đánh giá sự hiệu quả của các chính sách hiện hành 
-cũng như sự biến đổi hoặc xuất hiện của các nguồn mới. Ví dụ: sự xuất hiện của các lò đốt rác thủ công ở các địa phương xung quanh Hà Nội, 
-hay các khu công nghiệp mới. 
+cũng như sự biến đổi hoặc xuất hiện của các nguồn mới. Ví dụ: sự xuất hiện của các lò đốt rác thủ công ở các địa phương xung quanh Hà Nội, hay các khu công nghiệp mới.
 
-**3. Ô nhiễm không khí không chỉ có bụi PM2.5**
+Sự đóng góp đáng kể của nguồn ô nhiễm từ xa cũng đòi hòi cần phải có thêm những nghiên cứu cộng tác cùng các quốc gia láng giềng như Trung Quốc và Thái Lan.
+
+**4. Ô nhiễm không khí không chỉ có bụi PM2.5**
 
 Ngoài ô nhiễm bụi PM2.5, chúng ta cần chú ý các nguồn ô nhiễm cho các chất ô nhiễm khác, đặc biệt các khí SO2, NOx, và VOCs.
 
 Các hạt thứ cấp chiếm một tỉ trọng lớn trong bụi PM2.5, do đó nghiên cứu cơ chế hình thành bụi thứ cấp như bụi hữu cơ hình thành từ các SVOCs là cần thiết.
 Một tỉ trọng khá lớn từ bụi thứ cấp là ammonium sulfate, do đó cần có bức tranh đo đạc toàn vùng cho khí SO2.
+
+P/S: Tôi vừa cập nhật tình hình ONKK ở Trung Quốc: Nồng bụi PM2.5 ở Bắc Kinh năm 2020 đã giảm đáng kể, xuống chỉ còn 38 ug/m3. 
+Còn nhớ hồi 2016, khi tôi sang đó làm dự án, nồng độ năm đó là 73 ug/m3 (năm 2017, 2018, 2019 lần lượt là 58, 51 và 42 ug/m3).
+
+Một thực tế rất đáng buồn là ô nhiễm bụi mịn ở Hà Nội đã vượt Bắc Kinh. 
+Chúng ta cần phải thi hành các chính sách về ONKK mạnh mẽ và triệt để hơn nữa nếu không
+tương lai thủ đô chúng ta sẽ giống tình trạng ONKK của Bắc Kinh của những năm trước đây. 
 
 
