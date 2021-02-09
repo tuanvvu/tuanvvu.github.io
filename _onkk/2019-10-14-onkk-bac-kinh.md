@@ -32,16 +32,18 @@ Theo nghiên cứu của chúng tôi, thời tiết có thể làm tăng giảm 
 
 ### 3. Một số các yếu tố chính trong chính sách tới sự thành công của kế hoạch này:
 
-· **Sử dụng năng lượng:** Tiêu thụ than giảm mạnh trong giai đoạn này, chủ yếu từ khu vực dân cư (cho sưởi mùa đông, nấu ăn- cũng ghi chú thêm là trong mùa này thì đóng góp sử dụng than cho residential sector vẫn lớn hơn rất nhiều so với sư dụng trong công nghiệp) (hình C). 
+· **Tái cấu trúc trong việc sử dụng năng lượng:** Tiêu thụ than giảm mạnh trong giai đoạn này, chủ yếu từ khu vực dân cư (cho sưởi mùa đông, nấu ăn- cũng ghi chú thêm là trong mùa này thì đóng góp sử dụng than cho residential sector vẫn lớn hơn rất nhiều so với sư dụng trong công nghiệp) (hình C). 
 
 Do đó, tôi cho rằng quan trọng nhất trong giai đoạn này vẫn là dùng năng lượng sạch cho residential heating thay thế cho than, cải thiện hiệu quả sử dụng năng lượng than trong công nghiệp vì các năng lượng khác chưa đáp ứng đủ so với nhu cầu và phải loại bỏ các nhà máy vượt chuẩn ô nhiễm. 
 
-Đại học Thành Hoa báo cáo rằng 19% sự giảm bụi mịn do việc cải thiên trong việc giảm thải ô nhiễm từ than trong công nghiệp và 17% là do dùng năng lượng sạch hơn ở khu vực dân dụng (hình D).
+Đại học Thành Hoa báo cáo rằng 19% sự giảm bụi mịn do việc cải thiên trong việc giảm thải ô nhiễm từ than trong công nghiệp và 17% là do dùng năng lượng sạch hơn ở khu vực dân dụng (hình D). 
+
+Mời các bạn đọc kĩ hơn trong bài trước: [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
 
 · **Tăng tiêu chuẩn cho phát thải từ xe cộ và nhiên liệu:** Đưa vào chuẩn China V (tương đương Euro 6), không cho lưu thông và xóa sổ (có đền bù) những xe không đạt chuẩn trong thành phố. 
 Một đặc điểm khác biệt của Bắc Kinh với các thành phố khác là xe cộ ở đấy chủ yếu là dùng gasoline chứ ít dùng diesel (hệ số phát thải của diesel cao hơn nhiều so với gasoline). Thêm nữa họ không cho các xe tải nặng lưu thông trong thành phố ban ngày. 
 
-Theo tôi biết, Trung QUốc là một nước đi đầu trong lĩnh vực xe điện hiện nay (tôi sẽ bàn về ô nhiễm từ hoạt động giao thông ở tút sau vì có quá nhiều vấn đề cần trao đổi). 
+Theo tôi biết, Trung QUốc là một nước đi đầu trong lĩnh vực xe điện hiện nay (tôi sẽ bàn về ô nhiễm từ hoạt động giao thông ở những bài sau vì có nhiều vấn đề cần trao đổi). 
 Chính sách trong hoạt động giao thông ở Bắc Kinh không ảnh hướng lớn tới nồng độ bụi mịn (6-7%), nhưng ảnh hưởng lớn hơn tới nồng độ khí NO2.
 
 · **Cấm đốt (rác, rơm rạ) ngoài trời trong toàn khu vực** cũng là một trong những chính sách tốt trong việc giảm các ngày bụi kéo dài (heavy haze events).
