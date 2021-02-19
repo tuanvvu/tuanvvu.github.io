@@ -25,9 +25,11 @@ hoặc web plot cho AOD / có thể down data rồi plot:
 [https://giovanni.gsfc.nasa.gov/giovanni/](https://github.com/tuanvvu/Atmospheric_science_VN)
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.hn.history1.png) 
+
 *Hình 1. Chiều hướng tầm nhìn (visibility) ở Hà Nội 1980-2020.*
 
 ![animation]({{ site.url }}/assets/images/onkk.emission.hn.history2.png) 
+
 *Hình 2. Chiều hướng độ sâu quang học (AOD) ở Hà Nội 1980-2020.*
 
 Hình 1 và 2 khá thú vị: Ngày xưa có vẻ sạch hơn, ONKK có vẻ được cải thiện sau 2014. 
