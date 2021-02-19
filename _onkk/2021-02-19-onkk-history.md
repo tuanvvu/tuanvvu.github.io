@@ -1,12 +1,14 @@
+---
 title:  "Ô nhiễm không khí ở Hà Nội: Ngày ấy bây giờ?"
 comments: true
-date:   2021-02-19 00:00:00 -0000
+date:   2021-02-18 00:00:00 -0000
 layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.source.biomass.png
+  teaser: /assets/images/onkk.emission.hn.history1.png
 ---
+
 Đây là 1 bài viết cũ mà tôi đã post trên diễn đàn facebook năm ngoái.
 
 **Ô nhiễm không khí ở Hà Nội: Ngày ấy bây giờ?**
