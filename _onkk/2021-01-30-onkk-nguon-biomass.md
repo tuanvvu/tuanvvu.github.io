@@ -75,8 +75,7 @@ Các nghiên cứu này rất hữu ích, tuy nhiên vẫn có những sai số 
 
 Vừa qua, tôi có đọc 1 vài số liệu về thành phần hóa học của bụi mịn ở Hà Nội và đã ước lượng tổng cộng nguồn này (cả địa phương và lan truyền).
 Theo dữ liệu tôi có, nguồn này là một nguồn lớn gây ra ô nhiễm không khí ở Hà Nội, đặc biệt trong những haze events.
-(theo tôi nguồn này chiếm tầm 10-16 ug/m3, tức 21-33% of PM2.5. Xin lưu ý đây chỉ là con số ước lượng của cá nhân tôi, và tôi không có số liệu gốc đạt chuẩn. 
-Nhân tiện cảm ơn các anh chị đã cho ý kiến về đóng góp của nguồn đốt sinh khối ở diễn đàn CleanAir).
+(theo tôi nguồn này có thể chiếm chiếm tầm 10-16 ug/m3, tức 21-33% of PM2.5. Xin lưu ý đây chỉ là con số ước lượng của cá nhân tôi, và tôi không có số liệu gốc đạt chuẩn. Cập nhật: Theo nghiên cứu mới nhất của tôi về nguồn ô nhiễm ở Bắc Kinh thì lượng than kém chất lượng trong hoạt động sinh hoạt là một trong những nguồn có thể đóng góp tới 50% lượng levogluscosan. Do đó nếu dân ta cũng sử dụng loại than kém chất lượng thì đóng góp của của nguồn Biomass burning được tính toán sẽ giảm đi đáng kể. Bài báo đang trong quá trình bình duyệt, nên tôi sẽ cập nhật khi bài báo được chấp thuận).
 Một vài câu hỏi tôi chưa tìm ra câu trả lời như bao nhiều % từ lượng đốt để nấu ăn, sưởi ấm và đốt đồng, 
 hoặc đóng góp từ các loại biomass khác nhau, cũng như giữa bụi sơ cấp và thứ cấp từ nguồn này. 
 
