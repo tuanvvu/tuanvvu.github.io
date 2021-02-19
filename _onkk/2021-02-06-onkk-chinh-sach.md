@@ -1,5 +1,5 @@
 ---
-title:  "Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ trong dịp Tết Tân Sửu"
+title:  Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ:
 comments: true
 date:   2021-02-06 00:00:00 -0000
 layout: single
