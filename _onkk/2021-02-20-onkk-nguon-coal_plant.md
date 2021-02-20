@@ -21,7 +21,7 @@ Một vài nghiên cứu trên các tạp chí uy tín gần đây (2011-2018) c
 Tất nhiên phần đóng góp sẽ biến động rất đáng kể tùy thuộc sự gia tăng của các nhà máy điện cùng công nghệ xử lý trong tương lai.
 
 **Một số đánh giá từ VN sử dụng mô hình GAUSS cho rằng ô nhiễm từ điện than ảnh hưởng không đáng kể tới ONKK ở Hà Nội**: 
-Sử dụng mô hình lan truyền GAUSS để mô phỏng là không chính xác do bụi sinh ra từ điện than hiện chiếm rất nhiều là bụi thứ cấp do sự ô-xi hóa khí SO2.
+Sử dụng mô hình lan truyền GAUSS để mô phỏng là không chính xác do bụi sinh ra từ điện than hiện chiếm rất nhiều là bụi thứ cấp do sự ô-xi hóa khí SO2 trong quá trình lan truyền.
 Các mô hình vận chuyển hóa học là hợp lý (Một số nghiên cứu dùng GEO_CHEM như công bố của nhóm Harvard đã tính tới lượng này- đây là một trong những nhóm đi đầu
 thế giới về mô hình lan truyền). 
 Tuy nhiên, theo tôi dùng mô hình CMAQ/ADMS hợp lý hơn, và quan trọng nhất vẫn là phát thải đầu vào cho mô hình. 
