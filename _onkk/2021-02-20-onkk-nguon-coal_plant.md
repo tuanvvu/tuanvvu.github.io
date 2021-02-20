@@ -9,11 +9,10 @@ header:
   teaser: /assets/images/onkk.source.traffic.png
 ---
 
-Một số anh chị muốn tôi tổng quan lại nguồn ô nhiễm từ điện than,
-nhưng tôi dạo này rất bận nên không có thời gian coi kĩ được.
+Một số anh chị muốn tôi tổng quan lại nguồn ô nhiễm từ điện than mà tôi dạo này rất bận nên không có thời gian coi được.
 
-Tuy nhiên tôi thấy có một số ý kiến tôi cho rằng chưa chính xác. 
-tôi ghi lại đây để khi nào rảnh tôi sẽ tiếp tục làm tiếp.
+Tuy nhiên có một số ý kiến tôi thấy ở các bài viết trên internet mà tôi cho rằng chưa chính xác. 
+Tôi ghi lại đây để khi nào rảnh tôi sẽ viết 1 bài chi tiết và kĩ càng về nguồn này.
 
 **Có bài viết trên vnexpress cho rằng điện than là thủ phạm chính gây bụi mịn ở Hà Nội**: 
 Theo tôi thì điện than hiện tại không phải là thủ phạm chính. 
@@ -35,7 +34,7 @@ Bắc Kinh đã rất thành công trong việc giảm thải ONKK nhờ giảm 
 Nguyên nhân dẫn tới giảm ô nhiễm không khí ở Bắc Kinh tôi đã viết ở post năm 2019:
 [Kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí của Bắc Kinh](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
 
-Khi nào có thời gian, tôi sẽ tổng kết kỹ hơn như sai số của các mô hình ra sao. 
-Hiện tôi cần phải tìm hiểu một vài số liệu ví dụ: phát thải của các nhà máy điện than, các loại than được sử dụng,...
+Khi nào có thời gian, tôi sẽ tổng kết kỹ hơn như sai số của các mô hình ra sao hay công nghệ và phát thải điện than ra sao. 
+Hiện tôi cần phải tìm hiểu một vài số tài liệu ví dụ: phát thải của các nhà máy điện than, các loại than được sử dụng,...
 
 
