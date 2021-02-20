@@ -20,7 +20,7 @@ Theo tôi thì điện than hiện tại không phải là thủ phạm chính.
 Một vài nghiên cứu trên các tạp chí uy tín gần đây (2011-2018) cho rằng các nhà máy điện có đóng góp tới bụi PM2.5 (3-5 ug/m3, tương đương 6-11%- nhỏ nhưng khá đáng kể).
 Tất nhiên phần đóng góp sẽ biến động rất đáng kể tùy thuộc sự gia tăng của các nhà máy điện cùng công nghệ xử lý trong tương lai.
 
-**Một số đánh giá từ VN sử dụng mô hình GAUSS cho thấy ô nhiễm bụi mịn từ điện than ảnh hương không đáng kể tới ONKK ở Hà Nội**: 
+**Một số đánh giá từ VN sử dụng mô hình GAUSS cho rằng ô nhiễm từ điện than ảnh hưởng không đáng kể tới ONKK ở Hà Nội**: 
 Sử dụng mô hình lan truyền GAUSS để mô phỏng là không chính xác do bụi sinh ra từ điện than hiện chiếm rất nhiều là bụi thứ cấp do sự ô-xi hóa khí SO2.
 Các mô hình vận chuyển hóa học là hợp lý (Một số nghiên cứu dùng GEO_CHEM như công bố của nhóm Harvard đã tính tới lượng này- đây là một trong những nhóm đi đầu
 thế giới về mô hình lan truyền). 
