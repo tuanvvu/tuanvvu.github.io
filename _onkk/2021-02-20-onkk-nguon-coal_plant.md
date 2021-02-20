@@ -34,7 +34,7 @@ Bắc Kinh đã rất thành công trong việc giảm thải ô nhiễm nhờ g
 Nguyên nhân dẫn tới giảm ô nhiễm không khí ở Bắc Kinh tôi đã viết ở post năm 2019:
 [Kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí của Bắc Kinh](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
 
-Khi nào có thời gian, tôi sẽ tổng kết kỹ hơn. 
+Khi nào có thời gian, tôi sẽ tổng kết kỹ hơn như sai số của các mô hình ra sao. 
 Hiện tôi cần phải tìm hiểu một vài số liệu ví dụ: phát thải của các nhà máy điện than, các loại than được sử dụng,...
 
 
