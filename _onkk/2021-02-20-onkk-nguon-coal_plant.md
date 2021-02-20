@@ -15,7 +15,7 @@ nhưng tôi dạo này rất bận nên không có thời gian coi kĩ được.
 Tuy nhiên tôi thấy có một số ý kiến tôi cho rằng chưa chính xác. 
 tôi ghi lại đây để khi nào rảnh tôi sẽ tiếp tục làm tiếp.
 
-**Có 1 bài viết trên vnexpress cho rằng: điện than là thủ phạm chính gây ONKK ở Hà Nội**: 
+**Có bài viết trên vnexpress cho rằng điện than là thủ phạm chính gây ONKK ở Hà Nội**: 
 Theo tôi thì điện than hiện tại không phải là thủ phạm chính. 
 Một vài nghiên cứu trên các tạp chí uy tín gần đây (2011-2018) cho rằng các nhà máy điện có đóng góp tới bụi PM2.5 (3-5 ug/m3, tương đương 6-11%- nhỏ nhưng khá đáng kể).
 Tất nhiên phần đóng góp sẽ biến động rất đáng kể tùy thuộc sự gia tăng của các nhà máy điện cùng công nghệ xử lý trong tương lai.
