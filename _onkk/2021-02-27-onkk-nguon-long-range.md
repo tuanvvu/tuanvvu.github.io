@@ -1,5 +1,5 @@
 ---
-title:  "Ô Nhiễm Không Khí ở Hà Nội: Ảnh hưởng nguồn từ xa tới nồng độ bụi"
+title:  "Ô nhiễm không khí ở Hà Nội: Ảnh hưởng nguồn từ xa tới nồng độ bụi"
 comments: true
 date:   2021-02-27 00:00:00 -0000
 layout: single
