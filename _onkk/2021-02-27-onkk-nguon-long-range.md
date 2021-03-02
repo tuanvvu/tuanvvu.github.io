@@ -21,4 +21,16 @@ môi trường không khí ở Hà Nội là hiện tượng ô nhiễm vùng v�
 
 Trên thế giới cũng đã phát triển nhiều phương pháp tiếp cận khác nhau cho bài toán phân bổ nguồn địa phương, vùng và vận chuyển dài hạn.
 
+- Vận chuyển dài hạn sử dụng Hysplit Model
+Hình 1: Các cụm khối khí di chuyển tới Hà Nội trong các tháng khác nhau
+Hình 2: Ảnh hưởng sự vận chuyển bụi từ xa tới Hà Nội
+
+![animation]({{ site.url }}/assets/images/onkk.backtraj.png) 
+
+*Hình 1. Các cụm khối khí di chuyển tới Hà Nội trong các tháng khác nhau.*
+
+![animation]({{ site.url }}/assets/images/onkk.ctw.png) 
+*Hình 2. Ảnh hưởng sự vận chuyển bụi từ xa tới Hà Nội.*
+
+
 (đang viết ...)
