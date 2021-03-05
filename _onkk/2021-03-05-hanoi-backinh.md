@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/onkk.beijing.trend1.png
 ---
 
-Theo Tân Hoa Xã đưa tin chất lượng không khí năm qua ở Bắc Kinh đã được cải thiện đáng kể trong năm vừa qua.
+Theo Tân Hoa Xã đưa tin chất lượng không khí ở Bắc Kinh đã được cải thiện đáng kể trong năm vừa qua.
 Hà Nội ta thì sao?
 
 **Ô nhiễm không khí (ÔNKK) giảm mạnh ở Bắc Kinh trong năm 2020**
