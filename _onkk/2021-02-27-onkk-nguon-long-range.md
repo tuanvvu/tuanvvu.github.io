@@ -1,5 +1,5 @@
 ---
-title:  "Ô nhiễm không khí ở Hà Nội: Ảnh hưởng nguồn từ xa tới nồng độ bụi"
+title:  "Ô nhiễm không khí ở Hà Nội: Ảnh hưởng nguồn vận chuyển từ xa tới nồng độ bụi"
 comments: true
 date:   2021-02-27 00:00:00 -0000
 layout: single
@@ -10,9 +10,9 @@ header:
 ---
 
 Sự tương quan rất lớn giữa nồng độ bụi theo từng giờ/ngày từ các điểm đo khác nhau ở Hà Nội và các tỉnh đồng bằng bắc bộ chỉ ra rằng ô nhiễm 
-môi trường không khí ở Hà Nội là hiện tượng ô nhiễm vùng với sự đóng góp đáng kể của nguồn từ xa tới.
+môi trường không khí ở Hà Nội là hiện tượng ô nhiễm vùng với sự đóng góp đáng kể của nguồn vận chuyển từ xa tới.
 
-**Ảnh hưởng của nguồn từ xa tới nồng độ bụi ở  Hà Nội**
+**Ảnh hưởng của nguồn vận chuyển từ xa tới nồng độ bụi ở Hà Nội**
 
 Hình 1 cho ta thấy ảnh hưởng của vận chuyển dài hạn tới Hà Nội từng tháng/mùa là khác nhau.
 Theo đó, nếu tính sự vận chuyển của khối khí trong vòng 4 ngày đổ lại, thì các khối khí này phần nhiều là tới từ:
