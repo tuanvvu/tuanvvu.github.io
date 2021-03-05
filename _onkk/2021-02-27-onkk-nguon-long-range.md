@@ -34,9 +34,9 @@ Hình 2 là hình kết hợp kết quả từ Hysplit Model với nồng độ 
 ![animation]({{ site.url }}/assets/images/onkk.ctw.png) 
 *Hình 2. Ảnh hưởng sự vận chuyển bụi từ xa tới Hà Nội.*
 
-Theo đó,  các khối khí di chuyển từ phía đông và đông nam của Trung Quốc và Đài Loan có ảnh hưởng lớn tới nồng độ bụi mịn ở Hà Nội, đặc biệt vào mùa/ đông tương đối lạnh và khô, đó cũng là hướng gió đông bắc có thể đưa PM vào Việt Nam. Vào mùa xuân và mùa đông. Vào mùa xuân và mùa hè, các cụm khối khí đ có nguồn gốc từ lục địa Thái Lan. 
+Theo đó,  các khối khí di chuyển từ phía đông và đông nam của Trung Quốc và Đài Loan có ảnh hưởng lớn tới nồng độ bụi mịn ở Hà Nội, đặc biệt vào mùa/ đông tương đối lạnh và khô, đó cũng là hướng gió đông bắc có thể đưa PM vào Việt Nam. Vào mùa xuân/ hè, các cụm khối khí cũng có nguồn gốc từ lục địa Thái Lan/ Lào mang không khí ít bụi mịn do hoạt động đốt sinh khối (cháy rừng/ đốt rơm rạ). 
 
-Cũng cần nhấn mạnh rằng, nguồn gốc khối khí từ Trung Quốc theo các hướng khác nhau (phía Bắc và Đông Bắc) cũng có ảnh hưởng khác nhau. Theo sự tính toán của tôi, thì nồng độ bụi mịn trong những ngày khối khí tới từ phía Bắc thấp hơn rất nhiều (15 ug/m3, tức 25-30 %) so với những ngày khối khí tới Hà Nội có nguồn gốc tới từ phía Đông và Đông Bắc.
+Cũng cần nhấn mạnh rằng, nguồn gốc khối khí từ Trung Quốc theo các hướng khác nhau (phía Bắc và Đông Bắc) cũng có ảnh hưởng khác nhau. Theo sự tính toán của tôi, thì nồng độ bụi mịn ở Hà Nội trong những ngày khối khí tới từ phía Bắc thấp hơn rất nhiều (15 ug/m3, tức 25-30 %) so với những ngày khối khí tới có nguồn gốc từ phía Đông và Đông Bắc.
 
 Tuy nhiên, mô hình này mới chỉ xác định được định tính và bán định lượng sự đóng góp của sự vận chuyển từ xa, chưa thể chỉ rõ bao nhiêu phần trăm tới từ
 nguồn địa phương và vận chuyển trung hạn. 
