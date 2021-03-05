@@ -18,18 +18,17 @@ của thời tiết ngắn hạn và giao mùa.
 Tháng đầu năm, tôi cùng nhóm nghiên cứu ở trường cũ ở trường đại học Birmingham có công bố 1 bài báo về ảnh hưởng của giãn cách xã hội do Covid-19 
 tới chất lượng không khí. Bài báo may mắn khi nhận được khá nhiều quan tâm từ báo chí (tôi có cảm tưởng dạo này cứ nghiên cứu về Covid là sẽ hót). 
 Nội dung bài báo cũng đơn giản: Vì Covid mà anh chị em ta không la cà bia bọt được, 
-khiến lượng phát thải giảm rồi dẫn tới chất lượng không khí được cải thiện đáng kể.
-(Đấy, cái gì cũng có 2 mặt!). Tuy nhiên sự cải thiện này nhỏ hơn ta mong đợi và so với những báo cáo trước khi khi họ chưa tính tới yếu tố thời tiết (như hình 1). 
+khiến lượng phát thải giảm rồi dẫn tới chất lượng không khí được cải thiện đáng kể (cái gì cũng có 2 mặt, hehe!). 
+Tuy nhiên sự cải thiện này nhỏ hơn ta mong đợi và so với những báo cáo trước khi khi họ chưa tính tới yếu tố thời tiết (như hình 1). 
 
 ![animation]({{ site.url }}/assets/images/onkk.covid.1.png)
 
 *Hình 1. Ảnh hưởng Covid-19 lên chất lượng không khí thế giới.*
 
-Chị em nào nào quan tâm em Covid nó ảnh hưởng ra làm sao, xin mời đọc linh dưới nhé 
+Chị em nào nào quan tâm em Covid nó ảnh hưởng ra làm sao, xin mời đọc link dưới nhé 
 (cảm ơn anh/chị ở báo KHPT đã bỏ thời gian ra dịch):
 
 [Tác động của phong tỏa đến ô nhiễm không khí được phóng đại](https://khoahocphattrien.vn/.../20210201100434968p1c160.htm)
-
 
 
 **Ảnh hưởng của COVID-19 tới chất lượng không khí ở VN?**
