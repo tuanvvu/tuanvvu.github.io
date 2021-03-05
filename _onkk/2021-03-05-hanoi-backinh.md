@@ -44,8 +44,8 @@ Ngân sách của Bắc Kinh để chống ô nhiễm không khí đã tăng t�
 
 So sánh mức độ ÔNKK giữa hai thành phố là việc không hề đơn giản vì ÔNKK không chỉ có bụi mịn PM2.5 mà còn có các chỉ số khác nữa như bụi PM10, 
 các khí NOx, SO2, CO và O3, chưa kể tới độ tin cậy và bao phủ của dữ liệu cũng như các yếu tố ảnh hưởng khác như thời tiết trong năm so sánh.
-Tuy nhiên trong lúc chúng ta chờ Hà Nội công bố dữ liệu chính thức (tôi cũng có thu thập dữ liệu trên website môi trường thủ đô của Hà Nội), 
-chúng ta cũng có thể đưa ra một vài nhận xét nhìn qua dữ liệu hiện có.
+Trong lúc chúng ta chờ Hà Nội công bố dữ liệu chính thức (tôi cũng có thu thập dữ liệu trên website môi trường thủ đô của Hà Nội), 
+tôi xin đưa ra một vài nhận xét qua một phần dữ liệu hiện có.
 
 Theo kinh nghiệm của tôi (tôi đã từng đo đạc dữ liệu về ÔNKK ở Bắc Kinh bằng nhiều phương pháp khác nhau trong năm 2016-2017) dữ liệu ở 
 Bắc Kinh sau năm 2013 có độ tin cậy rất cao (họ có 35 trạm quan trắc chuẩn ở Bắc Kinh, trong đó bao gồm 12 trạm quan trắc nền đô thị quốc gia). 
