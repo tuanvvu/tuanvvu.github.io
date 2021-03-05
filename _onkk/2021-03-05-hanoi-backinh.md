@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.beijing.trend.png
+  teaser: /assets/images/onkk.beijing.trend1.png
 ---
 
 Theo Tân Hoa Xã đưa tin chất lượng không khí năm qua ở Bắc Kinh đã được cải thiện đáng kể trong năm vừa qua.
@@ -50,7 +50,7 @@ chúng ta cũng có thể đưa ra một vài nhận xét nhìn qua dữ liệu 
 Theo kinh nghiệm của tôi (tôi đã từng đo đạc dữ liệu về ÔNKK ở Bắc Kinh bằng nhiều phương pháp khác nhau trong năm 2016-2017) dữ liệu ở 
 Bắc Kinh sau năm 2013 có độ tin cậy rất cao (họ có 35 trạm quan trắc chuẩn ở Bắc Kinh, trong đó bao gồm 12 trạm quan trắc nền đô thị quốc gia). 
 
-![animation]({{ site.url }}/assets/images/onkk.beijing.trend.png)
+![animation]({{ site.url }}/assets/images/onkk.beijing.trend1.png)
 
 *Hình 1. Xu hướng nồng độ bụi mịn ở Bắc Kinh và Hà Nội.*
 
