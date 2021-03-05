@@ -79,7 +79,8 @@ thành phố đang phát triển như Hà Nội học tập kinh nghiệm.
 
 Mặc dù Hà Nội chưa (và khó có thể) ô nhiễm tới mức như ở Bắc Kinh của 5-10 năm trước đây, 
 tuy nhiên với sự gia tăng số lượng phương tiện giao thông và nhu cầu sử dụng năng lượng trong quá trình đô thị hóa và công nghiệp hóa hiện nay 
-thì nếu không có những giải pháp hợp lý chất lượng không khí thủ đô chúng ta sẽ trầm trọng hơn. Và bánh xe lịch sử ÔNKK có thể sẽ quay vòng lại.
+thì nếu không có những giải pháp hợp lý chất lượng không khí thủ đô chúng ta sẽ ô nhiễm trầm trọng hơn. 
+Và bánh xe lịch sử ÔNKK có thể sẽ quay vòng lại.
 Khi đó chúng ta sẽ phải trả một cái giá rất đắt trong việc xứ lý vấn đề ÔNKK như Bắc Kinh hiện nay.
 
 Theo tôi, vấn đề ÔNKK ở Hà Nội và Bắc Kinh có nhiều sự tương đồng, đặc biệt về đặc tính và nguồn ô nhiễm của bụi mịn PM2.5.
