@@ -21,13 +21,16 @@ Nội dung bài báo cũng đơn giản: Vì Covid mà anh chị em ta không la
 khiến lượng phát thải giảm rồi dẫn tới chất lượng không khí được cải thiện đáng kể.
 (Đấy, cái gì cũng có 2 mặt!). Tuy nhiên sự cải thiện này nhỏ hơn ta mong đợi và so với những báo cáo trước khi khi họ chưa tính tới yếu tố thời tiết (như hình 1). 
 
+![animation]({{ site.url }}/assets/images/onkk.covid.1.png)
+
+*Hình 1. Ảnh hưởng Covid-19 lên chất lượng không khí thế giới.*
+
 Chị em nào nào quan tâm em Covid nó ảnh hưởng ra làm sao, xin mời đọc linh dưới nhé 
 (cảm ơn anh/chị ở báo KHPT đã bỏ thời gian ra dịch):
 
 [Tác động của phong tỏa đến ô nhiễm không khí được phóng đại](https://khoahocphattrien.vn/.../20210201100434968p1c160.htm)
 
-![animation]({{ site.url }}/assets/images/onkk.covid.1.png)
-*Hình 1. Ảnh hưởng Covid-19 lên chất lượng không khí thế giới.*
+
 
 **Ảnh hưởng của COVID-19 tới chất lượng không khí ở VN?**
 
