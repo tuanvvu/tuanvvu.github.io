@@ -61,11 +61,11 @@ Năm 2019 thì Hà Nội ta đã vươn lên vị trí thứ 7 trong khi Bắc K
 
 Tất nhiên chúng ta có quyền nghi ngờ số liệu của IQAir và điểm đo ở đại sứ quán Mỹ cũng không hẳn có thể đại diện cho toàn Hà Nội. 
 Số liệu của IQAir cho Bắc Kinh rất khớp với số liệu công bố từ chính phủ Trung Quốc. Còn cho Hà Nội thì IQAir cho biết số liệu họ thu thập từ 10 trạm của quan 
-trắc ở Cổng thông tin quan trắc môi trường Hà Nội, 7 trạm từ tổng cục môi trường, 1 trạm từ điểm đo đại sứ quán Mỹ và 3 nguồn cung cấp ẩn danh. 
+trắc ở Cổng thông tin quan trắc môi trường Hà Nội, 7 trạm từ tổng cục môi trường, 1 điểm đo từ đại sứ quán Mỹ cộng với 3 nguồn cung cấp ẩn danh. 
 
 Chúng ta cũng có quyền nghi ngờ phương pháp tính của IQAir, nhưng theo tôi nếu lấy trung bình năm thì sai số sẽ là nhỏ. 
 Một số các yếu tố khác có thể ảnh hưởng như ảnh hưởng của thời tiết hay sự bất thường trong năm 2020 bởi dịch Covid-19. 
-Theo sự phân tích số liệu của tôi (chưa công bố) thì ô nhiễm bụi mịn ở Hà Nội thực tế đã giảm rất đáng kể từ giai đoạn 2013 tới 2017,
+Theo sự phân tích số liệu của tôi (chưa công bố) thì ô nhiễm bụi mịn ở Hà Nội thực tế đã giảm đáng kể từ giai đoạn 2013 tới 2017,
 nhưng lại có xu hướng chững lại hoặc tăng nhẹ trong 3 năm gần đây. 
 
 Và dù cho có dùng con số nào đi nữa thì nồng độ bụi mịn ở Hà Nội chắc chắn vẫn đang vượt quá tiêu chuẩn của chính chúng ta 
@@ -88,8 +88,8 @@ giao thông và nguồn vận chuyển trung/dài hạn tới Hà Nội.
 
 Hà Nội **đã, đang và sẽ cần làm gì để giải quyết vấn đề này**… 
 
-(Xin mời các bạn đọc bài kế tiếp có nhan đề **“Hà Nội ta chống ô nhiễm giỏi!”**-hihi)
-cần phải kiểm soát chặt chẽ các nguồn ô nhiễm nội sinh như các hoạt động đốt mở như đốt than và sinh khối, 
+(Xin mời các bạn đọc bài kế tiếp có nhan đề **“Hà Nội ta chống ô nhiễm giỏi!”**-hihi).
+
 
 ***Tham khảo & Chú thích***
 
