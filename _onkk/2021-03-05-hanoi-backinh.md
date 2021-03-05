@@ -66,7 +66,7 @@ trắc ở Cổng thông tin quan trắc môi trường Hà Nội, 7 trạm từ
 Chúng ta cũng có quyền nghi ngờ phương pháp tính của IQAir, nhưng theo tôi nếu lấy trung bình năm thì sai số sẽ là nhỏ. 
 Một số các yếu tố khác có thể ảnh hưởng như ảnh hưởng của thời tiết hay sự bất thường trong năm 2020 bởi dịch Covid-19. 
 Theo sự phân tích số liệu của tôi (chưa công bố) thì ô nhiễm bụi mịn ở Hà Nội thực tế đã giảm rất đáng kể từ giai đoạn 2013 tới 2017,
-nhưng lại có xu hướng tăng nhẹ và chững lại trong những ba gần đây. 
+nhưng lại có xu hướng chững lại hoặc tăng nhẹ trong 3 năm gần đây. 
 
 Và dù cho có dùng con số nào đi nữa thì nồng độ bụi mịn ở Hà Nội chắc chắn vẫn đang vượt quá tiêu chuẩn của chính chúng ta 
 (là 25 microgam trên mét khối) và vượt xa (4-5 lần) tiêu chuẩn khuyến nghị bởi tổ chức y tế thế giới WHO (10 microgam trên mét khối). 
@@ -79,14 +79,16 @@ thành phố đang phát triển như Hà Nội học tập kinh nghiệm.
 
 Mặc dù Hà Nội chưa (và rất khó có thể) ô nhiễm tới mức như ở Bắc Kinh của 5-10 năm trước đây, 
 tuy nhiên với sự gia tăng số lượng phương tiện giao thông và nhu cầu sử dụng năng lượng trong quá trình đô thị hóa và công nghiệp hóa hiện nay 
-thì nếu không có những giải pháp hợp lý chất lượng không khí thủ đô chúng ta có thể sẽ trầm trọng hơn. Và bánh xe lịch sử ÔNKK có thể sẽ quay vòng lại.
+thì nếu không có những giải pháp hợp lý chất lượng không khí thủ đô chúng ta sẽ trầm trọng hơn. Và bánh xe lịch sử ÔNKK có thể sẽ quay vòng lại.
 Khi đó chúng ta sẽ phải trả một cái giá rất đắt trong việc xứ lý vấn đề ÔNKK như Bắc Kinh hiện nay.
 
 Theo tôi, vấn đề ÔNKK ở Hà Nội và Bắc Kinh có nhiều sự tương đồng, đặc biệt về đặc tính và nguồn ô nhiễm của bụi mịn PM2.5.
 Một số nghiên cứu đã chỉ ra rằng những nguồn chính bao gồm nguồn bụi thứ cấp, từ các hoạt động sử dụng nhiên liệu than/sinh khối,
 giao thông và nguồn vận chuyển trung/dài hạn tới Hà Nội.
 
-Hà Nội **đã, đang và sẽ cần làm gì để giải quyết vấn đề này**… (xin mời các bạn đọc bài kế tiếp có nhan đề “Hà Nội ta chống ô nhiễm giỏi!”-hihi)
+Hà Nội **đã, đang và sẽ cần làm gì để giải quyết vấn đề này**… 
+
+(Xin mời các bạn đọc bài kế tiếp có nhan đề **“Hà Nội ta chống ô nhiễm giỏi!”**-hihi)
 cần phải kiểm soát chặt chẽ các nguồn ô nhiễm nội sinh như các hoạt động đốt mở như đốt than và sinh khối, 
 
 ***Tham khảo & Chú thích***
