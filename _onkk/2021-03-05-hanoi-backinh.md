@@ -9,11 +9,11 @@ header:
   teaser: /assets/images/onkk.beijing.trend.png
 ---
 
-
+Theo Tân Hoa Xã đưa tin chất lượng không khí năm qua ở Bắc Kinh đã được cải thiện đáng kể trong năm vừa qua.
+Hà Nội ta thì sao?
 
 **Ô nhiễm không khí (ÔNKK) giảm mạnh ở Bắc Kinh trong năm 2020**
 
-Theo Tân Hoa Xã đưa tin chất lượng không khí năm qua ở Bắc Kinh đã được cải thiện đáng kể. 
 Nồng độ trung bình năm 2020 của bụi PM2.5 (các hạt trong không khí có đường kính động học 2,5 micromet trở xuổng,
 có thể xâm nhập sâu vào phổi con người) là 38 microgam trên mét khối, đã giảm 9,5% so với năm trước đó. 
 
