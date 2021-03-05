@@ -20,7 +20,8 @@ Theo đó, nếu tính sự vận chuyển của khối khí trong vòng 4 ngày
 - Trong những tháng đầu năm (1-2) và cuối năm (11-12), vận chuyển từ xa chủ yếu tới từ Trung Quốc
 - Trong những tháng hè-thu (5-9) thì có sự vận chuyển dài hạn tới từ Thái Lan, Lào.
 
-![animation]({{ site.url }}/assets/images/onkk.backtraj.png) 
+![animation]({{ site.url }}/assets/images/onkk.backtraj.png)
+
 *Hình 1. Các cụm khối khí di chuyển tới Hà Nội trong các tháng khác nhau.*
 
 **Làm sao để định lượng được nguồn đóng góp địa phương, vùng và vận chuyển dài hạn?**
