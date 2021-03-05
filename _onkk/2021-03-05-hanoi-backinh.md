@@ -93,6 +93,6 @@ cần phải kiểm soát chặt chẽ các nguồn ô nhiễm nội sinh như c
 
 ***Tham khảo & Chú thích***
 
-[https://www.chinadaily.com.cn/china/2017-03/18/content_28598670.htm](https://www.chinadaily.com.cn/china/2017-03/18/content_28598670.htm)
+[http://www.xinhuanet.com/english/2021-01/04/c_139641447.htm](http://www.xinhuanet.com/english/2021-01/04/c_139641447.htm)
 
 
