@@ -11,12 +11,14 @@ header:
 
 Trong năm vừa qua có rất nhiều báo cáo phân tích sự ảnh hưởng của đại dịch Covid tới chất lượng không khí.
 Rất nhiều các báo cáo đó khi so sánh chất lượng không khí trước và sau khi lockdown chưa tính tới ảnh hưởng
-của thời tiết ngắn hạn và giao mùa. 
+của thời tiết ngắn hạn và giao mùa, dẫn tới kết quả so sánh chưa được chính xác. 
 
 **Ảnh hưởng của COVID-19 tới chất lượng không khí ở các thành phố lớn trên thế giới**
 
-Tháng đầu năm, tôi cùng nhóm nghiên cứu ở trường cũ ở trường đại học Birmingham có công bố 1 bài báo về ảnh hưởng của giãn cách xã hội do Covid-19 
-tới chất lượng không khí. Bài báo may mắn khi nhận được khá nhiều quan tâm từ báo chí (tôi có cảm tưởng dạo này cứ nghiên cứu về Covid là sẽ hót). 
+Đầu năm nay tôi cùng nhóm nghiên cứu ở trường cũ ở trường đại học Birmingham có công bố 1 bài báo về ảnh hưởng của giãn cách xã hội do Covid-19 
+tới chất lượng không khí trên tạp chí Science Advance. 
+Bài báo may mắn khi nhận được khá nhiều quan tâm từ báo chí (tôi có cảm tưởng dạo này cứ nghiên cứu về Covid là sẽ hót). 
+
 Nội dung bài báo cũng đơn giản: Vì Covid mà anh chị em ta không la cà bia bọt được, 
 khiến lượng phát thải giảm rồi dẫn tới chất lượng không khí được cải thiện đáng kể (cái gì cũng có 2 mặt, hehe!). 
 Tuy nhiên sự cải thiện này nhỏ hơn ta mong đợi và so với những báo cáo trước khi khi họ chưa tính tới yếu tố thời tiết (như hình 1). 
@@ -33,7 +35,7 @@ Chị em nào nào quan tâm em Covid nó ảnh hưởng ra làm sao, xin mời 
 
 **Ảnh hưởng của COVID-19 tới chất lượng không khí ở VN?**
 
-Nhân tiện dịp nghỉ lễ ở nhà do Covid-19 tháng 5 năm ngoái, tôi cũng dùng code tương tự để dạy một số bạn sinh viên Việt Nam yêu thích phân tích dữ liệu.
+Nhân dịp nghỉ lễ ở nhà do Covid-19 tháng 5 năm ngoái, tôi cũng dùng code tương tự để dạy một số bạn sinh viên Việt Nam yêu thích phân tích dữ liệu.
 Kết quả sơ bộ như trên hình 2 dưới đây:
 
 ![animation]({{ site.url }}/assets/images/onkk.covid.2.png) 
