@@ -9,6 +9,8 @@ header:
   teaser: /assets/images/onkk.beijing.trend.png
 ---
 
+
+
 **Ô nhiễm không khí (ÔNKK) giảm mạnh ở Bắc Kinh trong năm 2020**
 
 Theo Tân Hoa Xã đưa tin chất lượng không khí năm qua ở Bắc Kinh đã được cải thiện đáng kể. 
