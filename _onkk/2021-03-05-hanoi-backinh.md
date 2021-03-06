@@ -35,7 +35,7 @@ Hiện đã có hơn 60% tổng số phương tiện giao thông ở thành ph�
 Do ÔNKK ở thành phố Bắc Kinh có một phần lớn tới từ nguồn ô nhiễm vùng nên để có được những thành công đó cũng cần phải nhấn mạnh tầm quan trọng 
 của sự kết hợp đồng bộ chính sách với các thành phố lân cận là Thiên Tân và tỉnh Hà Bắc.
 
-Tất nhiên để có được thành công này, Bắc Kinh đã trả một cái giá rất đắt. 
+Tất nhiên để có được thành công này, Bắc Kinh đã có một sự đầu tư lớn. 
 Ngân sách của Bắc Kinh để chống ô nhiễm không khí đã tăng từ chỉ hơn 3 tỷ nhân dân tệ (434 triệu USD) vào năm 2013 lên hơn 19 tỷ nhân dân tệ (3 tỷ USD) vào năm 2018. 
 
 
