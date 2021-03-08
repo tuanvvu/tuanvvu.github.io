@@ -12,7 +12,7 @@ header:
 Theo Tân Hoa Xã đưa tin chất lượng không khí ở Bắc Kinh đã được cải thiện đáng kể trong năm vừa qua.
 Hà Nội ta thì sao?
 
-**Ô nhiễm không khí (ÔNKK) giảm mạnh ở Bắc Kinh trong năm 2020**
+**Ô nhiễm không khí (ÔNKK) tiếp tục giảm mạnh ở Bắc Kinh trong những năm gần đây**
 
 Nồng độ trung bình năm 2020 của bụi PM2.5 (các hạt trong không khí có đường kính động học 2,5 micromet trở xuổng,
 có thể xâm nhập sâu vào phổi con người) là 38 microgam trên mét khối, đã giảm 9,5% so với năm trước đó. 
@@ -54,14 +54,14 @@ Bắc Kinh sau năm 2013 có độ tin cậy rất cao (họ có 35 trạm quan 
 
 *Hình 1. Xu hướng nồng độ bụi mịn ở Bắc Kinh và Hà Nội.*
 
-Trong khi chờ các cơ quan chức năng, hãy thử so sánh với những dữ liệu đã có sẵn (từ đại sứ quán Mỹ và IQAir-Air Visual, hình 1). 
-Theo số liệu từ 2 nguồn này thì chúng ta thấy nồng độ bụi mịn ở Bắc Kinh đã giảm xuống tương đương (có thể nói là thấp hơn) so với nồng độ bụi ở Hà Nội. 
+Ta hãy thử so sánh với những dữ liệu đã có sẵn (từ đại sứ quán Mỹ và IQAir-Air Visual, hình 1). 
+Theo dữ liệu từ 2 nguồn này thì chúng ta thấy nồng độ bụi mịn ở Bắc Kinh đã giảm xuống tương đương (có thể nói là thấp hơn) so với nồng độ bụi ở Hà Nội. 
 Theo báo cáo của IQAir thì năm 2018, Bắc Kinh và Hà Nội đứng lần lượt thứ 8 và thứ 12 trong top các thủ đô ô nhiễm bụi mịn nhất thế giới. 
 Năm 2019 thì Hà Nội ta đã vươn lên vị trí thứ 7 trong khi Bắc Kinh đã rơi xuống vị trí thứ 9.
 
 Tất nhiên chúng ta có quyền nghi ngờ số liệu của IQAir và điểm đo ở đại sứ quán Mỹ cũng không hẳn có thể đại diện cho toàn Hà Nội. 
-Số liệu của IQAir cho Bắc Kinh rất khớp với số liệu công bố từ chính phủ Trung Quốc. Còn cho Hà Nội thì IQAir cho biết số liệu họ thu thập từ 10 trạm của quan 
-trắc ở Cổng thông tin quan trắc môi trường Hà Nội, 7 trạm từ tổng cục môi trường, 1 điểm đo từ đại sứ quán Mỹ cộng với 3 nguồn cung cấp ẩn danh. 
+Số liệu của IQAir cho Bắc Kinh rất khớp với số liệu công bố từ chính phủ Trung Quốc. Còn cho Hà Nội thì IQAir cho biết số liệu họ thu thập từ 10 trạm quan 
+trắc Cổng thông tin quan trắc môi trường Hà Nội, 7 trạm từ tổng cục môi trường, 1 điểm đo từ đại sứ quán Mỹ cộng với 3 nguồn cung cấp ẩn danh. 
 
 Chúng ta cũng có quyền nghi ngờ phương pháp tính của IQAir, nhưng theo tôi nếu lấy trung bình năm thì sai số sẽ là nhỏ. 
 Một số các yếu tố khác có thể ảnh hưởng như ảnh hưởng của thời tiết hay sự bất thường trong năm 2020 bởi dịch Covid-19. 
