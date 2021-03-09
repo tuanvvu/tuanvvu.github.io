@@ -14,7 +14,7 @@ Dưới đây là suy nghĩ của tôi về nghiên cứu nguồn và chính sá
 
 Mời các bạn đọc bản hoàn chỉnh trên báo tạp chí tài nguyên & môi trường:
 
-Cảm ơn các anh chị (đặc biệt cảm ơn anh Phạm Tuyên và anh Dư Văn Toán) đã giới thiệu và đăng ý kiến của tôi lên mục trao đổi của quý báo.
+Cảm ơn các anh chị quý báo (đặc biệt cảm ơn anh Phạm Tuyên và anh Dư Văn Toán) đã giới thiệu và đăng ý kiến của tôi lên chuyên mục diễn đàn-trao đổi.
 
 Dưới đây là tóm tắt nhanh một số ý kiến của tôi:
 
@@ -26,17 +26,17 @@ Dưới đây là tóm tắt nhanh một số ý kiến của tôi:
 
 **2. Ô nhiễm không khí không chỉ có bụi PM2.5**
 
-- Hàm lượng bụi thô (PM2.5-10) ở Hà Nội còn cao nên cần quản lý nguồn bụi này.
-- Các chất ô nhiễm khác, đặc biệt các khí SO2, NOx, và VOCs, là tiền chất của bụi thứ cấp.
+- Hàm lượng bụi thô (PM2.5-10) ở Hà Nội còn cao nên cần quản lý nguồn bụi này
+- Các chất ô nhiễm khác, đặc biệt các khí SO2, NOx, và VOCs, là tiền chất của bụi thứ cấp
 - Hợp chất vòng thơm (PAHs) và kim loại nặng ở các khu công nghiệp, làng nghề
-- Nghiên cứu đóng góp bụi thứ hữu cơ hình thành từ các SVOCs.
-- Đóng góp bụi thứ cấp ammonium sulfate là lớn, chúng ta cần có bức tranh đo đạc toàn vùng cho khí SO2.
+- Nghiên cứu đóng góp bụi thứ hữu cơ hình thành từ các SVOCs
+- Đóng góp bụi thứ cấp ammonium sulfate là lớn, chúng ta cần có bức tranh đo đạc toàn vùng cho khí SO2
 
 **3. Ô nhiễm không khí không có biên giới giữa các tỉnh thành và quốc gia**
 
-- Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ.
-- Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan.
-- Ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn ONKK từ địa phương, vùng và vận chuyển dài hạn.
+- Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ
+- Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan
+- Ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn ONKK từ địa phương, vùng và vận chuyển dài hạn
 
 **4. Chính sách về ONKK**
 
