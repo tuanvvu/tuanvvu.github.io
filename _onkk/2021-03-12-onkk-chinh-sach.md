@@ -53,7 +53,7 @@ Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 
 - Một cách thực tế, chúng ta khó có thể đòi hỏi một nghiên cứu có thể chỉ ra được chính xác sự đóng góp của từng nguồn gây ô nhiễm, mà phải có sự tổng hợp của rất nhiều nghiên cứu với các phương pháp tiếp cận khác nhau. 
 Do đó, chúng ta không thể trông chờ một nghiên cứu hoàn hảo về nguồn ONKK rồi mới thi hành các chính sách.
-- Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần áp dùng song song nhiều chính sách, chứ không chỉ tập chung vào một nguồn. 
+- Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần áp dùng đồng thời nhiều chính sách lên các nguồn chính 
 - Kinh nghiệm từ các thành phố khác trên thế giới (đặc biệt về nguồn giao thông), tôi nghĩ chúng ta đã có thể xây dựng những chính sách phù hợp,
 ví dụ: như các chính sách về nâng cao tiêu chuẩn phát thải cho xe cộ hay chất lượng xăng dầu.
 - Kiểm soát chặt chẽ đốt than/sinh khối cũng như tăng cường tiêu chuẩn cho nguồn thải từ các lò hơi/công nghiệp
