@@ -1,5 +1,5 @@
 ---
-title:  Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ
+title:  "Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ"
 comments: true
 date:   2021-03-12 00:00:00 -0000
 layout: single
@@ -15,6 +15,8 @@ Dưới đây là suy nghĩ tóm tắt của tôi về nghiên cứu nguồn và
 
 Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 
+[Từ nghiên cứu tới chính sách về vấn đề ô nhiễm không khí ở Hà Nội](http://tapchimoitruong.vn/dien-dan--trao-doi-21/tu-nghien-cuu-toi-chinh-sach-ve-van-de-o-nhiem-khong-khi-o-ha-noi-23079?fbclid=IwAR3XqmapYW5NXwGx0abGyIzc8_0Y1b4aLf5LSzNT0Y6qcLmcYmCozX1Qg3Y)
+
 *Cảm ơn các anh chị quý báo (đặc biệt cảm ơn anh Phạm Tuyên và anh Dư Văn Toán) đã giới thiệu và đăng ý kiến của tôi lên chuyên mục diễn đàn-trao đổi*.
 
 **1. Nghiên cứu về nguồn ONKK ở Hà Nội**
@@ -26,6 +28,9 @@ Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 đặc biệt từ các nghiên cứu xác định nguồn tại điểm tiếp nhận, chúng ta đã có một số bức tranh sơ bộ về thành phần hóa học chính của bụi và các nguồn đóng góp lớn hiện nay.
 - Thành phần hóa học bụi: Các hợp chất hữu cơ, các ion amoni sulfat/nitrate + nước liên kết, các-bon đen, các nguyên tố tứ bề mặt vỏ trái đất, muối biển (NaCl), các siêu vết kim loại (hình 1). 
 - Các nguồn sơ cấp lớn có thể kể tới là hoạt động đốt sinh khối/than, ô nhiễm từ xa, hoạt động công nghiệp, sinh hoạt, giao thông, bụi đường/crustal3. Bụi thứ cấp hữu cơ và amoni sunfat cũng đóng góp không nhỏ trong thành phần bụi mịn. 
+
+![animation]({{ site.url }}/assets/images/onkk.composition.png) 
+*Hình 1. Thành phần hóa học bụi mịn.(modified from REF [1])* 
 
 **2. ONKK không chỉ có bụi PM2.5**
 
@@ -41,6 +46,9 @@ Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 - Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ
 - Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan (hình 2)
 
+![animation]({{ site.url }}/assets/images/onkk.ctw.png) 
+*Hình 2. Ảnh hưởng sự vận chuyển bụi từ xa tới Hà Nội.(reprint permision from REF [2])* 
+
 **4. Từ nghiên cứu tới chính sách về ONKK**
 
 - Một cách thực tế, chúng ta khó có thể đòi hỏi một nghiên cứu có thể chỉ ra được chính xác sự đóng góp của từng nguồn gây ô nhiễm, mà phải có sự tổng hợp của rất nhiều nghiên cứu với các phương pháp tiếp cận khác nhau. 
@@ -52,3 +60,10 @@ ví dụ: như các chính sách về nâng cao tiêu chuẩn phát thải cho x
 - Tăng cường tiêu chuẩn cho nguồn thải từ các lò hơi/công nghiệp
 
 **Những nghiên cứu liên ngành về ảnh hưởng của ONKK, đặc biệt từ góc độ kinh tế, năng lượng, sức khỏe và xã hội là quan trọng để có được những chính sách hiệu quả và phù hợp nhất với tình hình hiện tại của đất nước.**
+
+
+***Tài liệu tham khảo:***
+
+1.	[Weagle et al., 2018. Global Sources of Fine Particulate Matter: Interpretation of PM2.5 Chemical Composition Observed by SPARTAN using a Global Chemical Transport Model](https://pubs.acs.org/doi/10.1021/acs.est.8b01658)
+2.	[Ly et al., 2021. The effects of meteorological conditions and long-range transport on PM2.5 levels in Hanoi revealed from multi-site measurement using compact sensors and machine learning approach](https://www.sciencedirect.com/science/article/pii/S0021850220302019?dgcid=rss_sd_all)
+
