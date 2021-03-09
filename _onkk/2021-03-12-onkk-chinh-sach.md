@@ -10,13 +10,12 @@ header:
 ---
 
 Để có chính sách đúng đắn trong việc giảm thiểu ô nhiễm không khí thì không thể thiếu những nghiên cứu về các nguồn gây ra ô nhiễm không khí (ONKK).
-Dưới đây là suy nghĩ của tôi về nghiên cứu nguồn và chính sách để giảm thiểu ONKK ở Hà Nội:
+
+Dưới đây là suy nghĩ tóm tắt của tôi về nghiên cứu nguồn và chính sách để giảm thiểu ONKK ở Hà Nội:
 
 Mời các bạn đọc bản hoàn chỉnh trên báo tạp chí tài nguyên & môi trường:
 
 *Cảm ơn các anh chị quý báo (đặc biệt cảm ơn anh Phạm Tuyên và anh Dư Văn Toán) đã giới thiệu và đăng ý kiến của tôi lên chuyên mục diễn đàn-trao đổi*.
-
-Dưới đây là tóm tắt nhanh một số ý kiến của tôi:
 
 **1. Nghiên cứu về nguồn ONKK ở Hà Nội**
 
