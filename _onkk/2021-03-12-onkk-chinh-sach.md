@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.source.biomass.png
+  teaser: /assets/images/onkk.composition.png
 ---
 
 Để có chính sách đúng đắn trong việc giảm thiểu ô nhiễm không khí thì không thể thiếu những nghiên cứu về các nguồn gây ra ô nhiễm không khí (ONKK).
@@ -56,8 +56,8 @@ Do đó, chúng ta không thể trông chờ một nghiên cứu hoàn hảo v�
 - Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần áp dùng song song nhiều chính sách, chứ không chỉ tập chung vào một nguồn. 
 - Kinh nghiệm từ các thành phố khác trên thế giới (đặc biệt về nguồn giao thông), tôi nghĩ chúng ta đã có thể xây dựng những chính sách phù hợp,
 ví dụ: như các chính sách về nâng cao tiêu chuẩn phát thải cho xe cộ hay chất lượng xăng dầu.
-- Kiểm soát chặt chẽ đốt than/sinh khối
-- Tăng cường tiêu chuẩn cho nguồn thải từ các lò hơi/công nghiệp
+- Kiểm soát chặt chẽ đốt than/sinh khối cũng như tăng cường tiêu chuẩn cho nguồn thải từ các lò hơi/công nghiệp
+- Chính sách cho những đợt bụi kéo dài
 
 **Những nghiên cứu liên ngành về ảnh hưởng của ONKK, đặc biệt từ góc độ kinh tế, năng lượng, sức khỏe và xã hội là quan trọng để có được những chính sách hiệu quả và phù hợp nhất với tình hình hiện tại của đất nước.**
 
