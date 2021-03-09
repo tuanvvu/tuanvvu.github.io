@@ -13,7 +13,7 @@ header:
 
 Dưới đây là suy nghĩ tóm tắt của tôi về nghiên cứu nguồn và chính sách để giảm thiểu ONKK ở Hà Nội:
 
-Mời các bạn đọc bản hoàn chỉnh trên báo tài nguyên & môi trường:
+Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 
 *Cảm ơn các anh chị quý báo (đặc biệt cảm ơn anh Phạm Tuyên và anh Dư Văn Toán) đã giới thiệu và đăng ý kiến của tôi lên chuyên mục diễn đàn-trao đổi*.
 
