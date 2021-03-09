@@ -25,7 +25,7 @@ Dưới đây là tóm tắt nhanh một số ý kiến của tôi:
 - Kết hợp các mô hình khác nhau để xác định nguồn gây ONKK (một cách thường xuyên) 
 - Dựa trên những bằng chứng khoa học từ các nghiên cứu trước đó ở Hà Nội, 
 đặc biệt từ các nghiên cứu xác định nguồn tại điểm tiếp nhận, chúng ta đã có một số bức tranh sơ bộ về thành phần hóa học chính của bụi và các nguồn đóng góp lớn hiện nay.
-- Thành phần hóa học bụi: Các hợp chất hữu cơ, các ion amoni sulfat/nitrate + nước liên kết, các-bon đen, các nguyên tố tứ bề mặt vỏ trái đất, muối biển (NaCl), các siêu vết kim loại (hình 2). 
+- Thành phần hóa học bụi: Các hợp chất hữu cơ, các ion amoni sulfat/nitrate + nước liên kết, các-bon đen, các nguyên tố tứ bề mặt vỏ trái đất, muối biển (NaCl), các siêu vết kim loại (hình 1). 
 - Các nguồn sơ cấp lớn có thể kể tới là hoạt động đốt sinh khối/than, ô nhiễm từ xa, hoạt động công nghiệp, sinh hoạt, giao thông, bụi đường/crustal3. Bụi thứ cấp hữu cơ và amoni sunfat cũng đóng góp không nhỏ trong thành phần bụi mịn. 
 
 **2. ONKK không chỉ có bụi PM2.5**
@@ -38,9 +38,9 @@ Dưới đây là tóm tắt nhanh một số ý kiến của tôi:
 
 **3. ONKK không có biên giới giữa các tỉnh thành và quốc gia**
 
-- Ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn ONKK từ địa phương, vùng và vận chuyển dài hạn
+- Ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn ONKK từ địa phương, vùng và vận chuyển dài hạn 
 - Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ
-- Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan
+- Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan (hình 2)
 
 **4. Từ nghiên cứu tới chính sách về ONKK**
 
