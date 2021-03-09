@@ -43,7 +43,6 @@ Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 **3. ONKK không có biên giới giữa các tỉnh thành và quốc gia**
 
 - Ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn ONKK từ địa phương, vùng và vận chuyển dài hạn 
-- Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ
 - Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan (hình 2)
 
 ![animation]({{ site.url }}/assets/images/onkk.ctw.png) 
@@ -51,9 +50,9 @@ Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 
 **4. Từ nghiên cứu tới chính sách về ONKK**
 
-- Một cách thực tế, chúng ta khó có thể đòi hỏi một nghiên cứu có thể chỉ ra được chính xác sự đóng góp của từng nguồn gây ô nhiễm, mà phải có sự tổng hợp của rất nhiều nghiên cứu với các phương pháp tiếp cận khác nhau. 
-Do đó, chúng ta không thể trông chờ một nghiên cứu hoàn hảo về nguồn ONKK rồi mới thi hành các chính sách.
-- Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần áp dùng đồng thời nhiều chính sách lên các nguồn chính 
+- Một cách thực tế, chúng ta khó có thể đòi hỏi một nghiên cứu có thể chỉ ra được chính xác sự đóng góp của từng nguồn gây ô nhiễm, mà phải có sự tổng hợp của rất nhiều nghiên cứu với các phương pháp tiếp cận khác nhau. Do đó, chúng ta không thể trông chờ một nghiên cứu hoàn hảo về nguồn ONKK rồi mới thi hành các chính sách.
+- Các nguồn ô nhiễm bụi chính ở Hà Nội có tỉ lệ khá tương đồng nên cần áp dùng đồng thời nhiều chính sách lên các nguồn này.
+- Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ 
 - Kinh nghiệm từ các thành phố khác trên thế giới (đặc biệt về nguồn giao thông), tôi nghĩ chúng ta đã có thể xây dựng những chính sách phù hợp,
 ví dụ: như các chính sách về nâng cao tiêu chuẩn phát thải cho xe cộ hay chất lượng xăng dầu.
 - Kiểm soát chặt chẽ đốt than/sinh khối cũng như tăng cường tiêu chuẩn cho nguồn thải từ các lò hơi/công nghiệp
