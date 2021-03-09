@@ -16,7 +16,7 @@ Mời các bạn đọc bản hoàn chỉnh trên báo tạp chí tài nguyên &
 
 Cảm ơn các anh chị (đặc biệt cảm ơn anh Phạm Tuyên và anh Dư Văn Toán) đã giới thiệu và đăng ý kiến của tôi lên mục trao đổi của quý báo.
 
-Tôi xin tóm tắt một số ý kiến của tôi như sau:
+Dưới đây là tóm tắt nhanh một số ý kiến của tôi:
 
 **1. Nguồn ô nhiễm không khí ở Hà Nội**
 
@@ -34,9 +34,9 @@ Tôi xin tóm tắt một số ý kiến của tôi như sau:
 
 **3. Ô nhiễm không khí không có biên giới giữa các tỉnh thành và quốc gia**
 
-- Cần có những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ.
-- Sự đóng góp đáng kể của nguồn ô nhiễm từ xa cũng đòi hòi cần phải có thêm những nghiên cứu cộng tác cùng các quốc gia láng giềng như Trung Quốc và Thái Lan.
-- Cần ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn địa phương, vùng và vận chuyển dài hạn.
+- Kết hợp đồng bộ những chính sách ở các địa phương xung quanh, đặc biệt từ các tỉnh phía đông đồng bằng Bắc Bộ.
+- Tăng cường cộng tác nghiên cứu cùng các quốc gia láng giềng như Trung Quốc và Thái Lan.
+- Ứng dụng phương pháp tiếp cận đã có cho bài toán phân bổ nguồn ONKK từ địa phương, vùng và vận chuyển dài hạn.
 
 **4. Chính sách về ONKK**
 
