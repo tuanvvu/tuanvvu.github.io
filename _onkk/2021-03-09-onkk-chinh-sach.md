@@ -1,7 +1,7 @@
 ---
 title:  "Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ"
 comments: true
-date:   2021-03-12 00:00:00 -0000
+date:   2021-03-09 00:00:00 -0000
 layout: single
 classes: wide
 author_profile: true
@@ -27,7 +27,7 @@ Mời các bạn đọc bản hoàn chỉnh trên tạp chí môi trường:
 - Dựa trên những bằng chứng khoa học từ các nghiên cứu trước đó ở Hà Nội, 
 đặc biệt từ các nghiên cứu xác định nguồn tại điểm tiếp nhận, chúng ta đã có một số bức tranh sơ bộ về thành phần hóa học chính của bụi và các nguồn đóng góp lớn hiện nay.
 - Thành phần hóa học bụi: Các hợp chất hữu cơ, các ion amoni sulfat/nitrate + nước liên kết, các-bon đen, các nguyên tố tứ bề mặt vỏ trái đất, muối biển (NaCl), các siêu vết kim loại (hình 1). 
-- Các nguồn sơ cấp lớn có thể kể tới là hoạt động đốt sinh khối/than, ô nhiễm từ xa, hoạt động công nghiệp, sinh hoạt, giao thông, bụi đường/crustal3. Bụi thứ cấp hữu cơ và amoni sunfat cũng đóng góp không nhỏ trong thành phần bụi mịn. 
+- Các nguồn sơ cấp lớn có thể kể tới là hoạt động đốt sinh khối/than, ô nhiễm từ xa, hoạt động công nghiệp, sinh hoạt, giao thông, bụi đường/crustal. Bụi thứ cấp hữu cơ và amoni sunfat cũng đóng góp không nhỏ trong thành phần bụi mịn. 
 
 ![animation]({{ site.url }}/assets/images/onkk.composition.png) 
 *Hình 1. Thành phần hóa học bụi mịn.(modified from REF [1])* 
