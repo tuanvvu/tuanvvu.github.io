@@ -10,8 +10,8 @@ header:
 ---
 
 Trong năm vừa qua có rất nhiều báo cáo phân tích sự ảnh hưởng của đại dịch Covid tới chất lượng không khí.
-Rất nhiều các báo cáo đó khi so sánh chất lượng không khí trước và sau khi lockdown chưa tính tới ảnh hưởng
-của thời tiết ngắn hạn và giao mùa, dẫn tới kết quả so sánh chưa được chính xác. 
+Hầu hết các báo cáo đó khi so sánh chất lượng không khí trước và sau khi lockdown chưa tính tới ảnh hưởng
+của thời tiết ngắn hạn và sự giao mùa, dẫn tới kết quả so sánh chưa được chính xác. 
 
 **Ảnh hưởng của COVID-19 tới chất lượng không khí ở các thành phố lớn trên thế giới**
 
@@ -21,7 +21,7 @@ Bài báo may mắn khi nhận được khá nhiều quan tâm từ báo chí (t
 
 Nội dung bài báo cũng đơn giản: Vì Covid mà anh chị em ta không la cà bia bọt được, 
 khiến lượng phát thải giảm rồi dẫn tới chất lượng không khí được cải thiện đáng kể (cái gì cũng có 2 mặt, hehe!). 
-Tuy nhiên sự cải thiện này nhỏ hơn ta mong đợi và so với những báo cáo trước khi khi họ chưa tính tới yếu tố thời tiết (như hình 1). 
+Tuy nhiên sự cải thiện này nhỏ hơn ta mong đợi và so với những báo cáo trước khi họ chưa tính tới yếu tố thời tiết (như hình 1). 
 
 ![animation]({{ site.url }}/assets/images/onkk.covid.1.png)
 
