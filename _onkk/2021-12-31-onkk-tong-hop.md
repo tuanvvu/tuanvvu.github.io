@@ -22,16 +22,11 @@ header:
 #### Chính sách ở Anh Quốc 
 
 ### II. Nguồn gây ô nhiễm không khí
-#### 1. Giới thiệu
-- [Mô hình xác định nguồn ô nhiễm bụi mịn: Thế giới và Hà Nội](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/)
-#### 2. Giao thông
-- [Đặc trưng, sự đóng góp và chính sách giảm thiểu ONKK từ nguồn giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
-#### 3. Đốt sinh khối
-- [Đặc trưng, sự đóng góp và chính sách giảm thiểu ONKK từ nguồn đốt sinh khối](https://tuanvvu.github.io/onkk/2021-01-30-onkk-nguon-biomass/)
-#### 4. Vận chuyển từ xa
-- [Ô nhiễm không khí ở Hà Nội: Ảnh hưởng nguồn vận chuyển từ xa tới nồng độ bụi](https://tuanvvu.github.io/onkk/2021-02-27-onkk-nguon-long-range/)
-#### 5. Công nghiệp
-- [Ô nhiễm không khí Hà Nội: Điện than?](https://tuanvvu.github.io/onkk/2021-02-20-onkk-nguon-coal_plant/)
+1. [Mô hình xác định nguồn ô nhiễm bụi mịn: Thế giới và Hà Nội](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/)
+2. [Đặc trưng, sự đóng góp và chính sách giảm thiểu ONKK từ nguồn giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
+3. [Đặc trưng, sự đóng góp và chính sách giảm thiểu ONKK từ nguồn đốt sinh khối](https://tuanvvu.github.io/onkk/2021-01-30-onkk-nguon-biomass/)
+4. [Ảnh hưởng nguồn vận chuyển từ xa tới nồng độ bụi](https://tuanvvu.github.io/onkk/2021-02-27-onkk-nguon-long-range/)
+5. [Điện than?](https://tuanvvu.github.io/onkk/2021-02-20-onkk-nguon-coal_plant/)
 
 ### III. Giới thiệu nghiên cứu và sách
 #### 1. Nghiên cứu về ONKK ở VN
