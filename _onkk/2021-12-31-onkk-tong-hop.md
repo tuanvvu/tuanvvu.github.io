@@ -10,7 +10,7 @@ header:
 ---
 
 ### I. Xu hướng và chính sách
-1. [Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ](https://tuanvvu.github.io/onkk/2021-03-12-onkk-chinh-sach/)
+1. [Từ nghiên cứu tới hoạch định chính sách về ONKK: Một vài suy nghĩ](https://tuanvvu.github.io/onkk/2021-03-12-onkk-chinh-sach/) .
     Bài đã đăng trên [tạp chí môi trường](http://tapchimoitruong.vn/dien-dan--trao-doi-21/tu-nghien-cuu-toi-chinh-sach-ve-van-de-o-nhiem-khong-khi-o-ha-noi-23079)
 2. [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/)
 3. [Ảnh hưởng của Covid-19 tới chất lượng ONKK ở các thành phố trên thế giới](https://tuanvvu.github.io/onkk/2021-03-01-onkk-covid/)
