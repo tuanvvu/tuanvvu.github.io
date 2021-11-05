@@ -15,7 +15,8 @@ header:
 2. [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/)
 3. [Ảnh hưởng của Covid-19 tới chất lượng ONKK ở các thành phố trên thế giới](https://tuanvvu.github.io/onkk/2021-03-01-onkk-covid/)
 4. [Nghiên cứu ô nhiễm không khí ở Việt Nam: Chặng đường phía trước](https://tuanvvu.github.io/onkk/2021-01-01-onkk-vn-status/)
-#### Chính sách bên Trung Quốc
+
+#### Chính sách ở Trung Quốc
 1.  [Bắc Kinh có thành công trong kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí?](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
 2. [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
 #### Chính sách ở Anh Quốc 
@@ -34,4 +35,11 @@ header:
 
 ### III. Giới thiệu nghiên cứu và sách
 #### 1. Nghiên cứu về ONKK ở VN
+1. [Ảnh hướng Covid tới bụi mịn và CO ở Hà Nội](https://aaqr.org/articles/aaqr-21-04-oa-0081)
+2. [Ảnh hưởng điều kiện thời tiết và vận chuyển từ xa tới nộng độ bụi PM2.5 ở Hà Nội](https://www.sciencedirect.com/science/article/abs/pii/S0021850220302019) 
+#### 2. Tài liệu nghiên cứu
+1. [Phân tích dữ liệu ô nhiễm không khí- giới thiệu R-package openair](https://tuanvvu.github.io/onkk/2020-08-04-data-analysis-openair/)
+2. [Giới thiệu sách về ô nhiễm khí quyển và bụi (Phần 1)](https://tuanvvu.github.io/onkk/2020-01-01-onkk-book-1/)
+3. [Ô nhiễm không khí ở Hà Nội: Ngày ấy bây giờ?](https://tuanvvu.github.io/onkk/2021-02-19-onkk-history/)
+
 
