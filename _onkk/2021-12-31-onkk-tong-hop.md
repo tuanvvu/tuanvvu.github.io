@@ -19,6 +19,7 @@ header:
 #### Chính sách ở Trung Quốc
 1.  [Bắc Kinh có thành công trong kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí?](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
 2. [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
+
 #### Chính sách ở Anh Quốc 
 
 ### II. Nguồn gây ô nhiễm không khí
@@ -27,11 +28,13 @@ header:
 3. [Đặc trưng, sự đóng góp và chính sách giảm thiểu ONKK từ nguồn đốt sinh khối](https://tuanvvu.github.io/onkk/2021-01-30-onkk-nguon-biomass/)
 4. [Ảnh hưởng nguồn vận chuyển từ xa tới nồng độ bụi](https://tuanvvu.github.io/onkk/2021-02-27-onkk-nguon-long-range/)
 5. [Điện than?](https://tuanvvu.github.io/onkk/2021-02-20-onkk-nguon-coal_plant/)
+6. [Phơi nhiễm ô nhiễm không khí trong nhà thời đại dịch coronavirus (COVID-19)](https://tuanvvu.github.io/onkk/2021-10-02-Phoi-nhiem-onkk-trong-nha/)
 
 ### III. Giới thiệu nghiên cứu và sách
 #### 1. Nghiên cứu về ONKK ở VN
 1. [Ảnh hướng Covid tới bụi mịn và CO ở Hà Nội](https://aaqr.org/articles/aaqr-21-04-oa-0081)
 2. [Ảnh hưởng điều kiện thời tiết và vận chuyển từ xa tới nộng độ bụi PM2.5 ở Hà Nội](https://www.sciencedirect.com/science/article/abs/pii/S0021850220302019) 
+
 #### 2. Tài liệu nghiên cứu
 1. [Phân tích dữ liệu ô nhiễm không khí- giới thiệu R-package openair](https://tuanvvu.github.io/onkk/2020-08-04-data-analysis-openair/)
 2. [Giới thiệu sách về ô nhiễm khí quyển và bụi (Phần 1)](https://tuanvvu.github.io/onkk/2020-01-01-onkk-book-1/)
