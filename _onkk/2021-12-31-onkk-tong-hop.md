@@ -15,9 +15,10 @@ header:
 2. [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/)
 3. [Ảnh hưởng của Covid-19 tới chất lượng ONKK ở các thành phố trên thế giới](https://tuanvvu.github.io/onkk/2021-03-01-onkk-covid/)
 4. [Nghiên cứu ô nhiễm không khí ở Việt Nam: Chặng đường phía trước](https://tuanvvu.github.io/onkk/2021-01-01-onkk-vn-status/)
-5. Chính sách bên Trung Quốc
--  [Bắc Kinh có thành công trong kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí?](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
-- [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
+#### Chính sách bên Trung Quốc
+1.  [Bắc Kinh có thành công trong kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí?](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
+2. [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
+#### Chính sách ở Anh Quốc 
 
 ### II. Nguồn gây ô nhiễm không khí
 #### 1. Giới thiệu
