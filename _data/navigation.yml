@@ -8,8 +8,8 @@ main:
     url: /blog/
   - title: "Tiếng Việt"
     url: /vietnamese/
-  - title: "articles"
-    url: /selected-papers/
+  # title: "articles"
+  #  url: /selected-papers/
   - title: "talks"
     url: /talks/
   - title: "research"
