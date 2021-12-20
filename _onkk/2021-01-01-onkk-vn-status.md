@@ -8,10 +8,12 @@ author_profile: true
 header:
   teaser: /assets/images/onkk.source.traffic.png
 ---
-Update: Bài này đã được biên tập và đăng trên Tia Sáng số 23, tháng 12/2021, theo đường dẫn dưới đây:
-[Ô nhiễm không khí: Cần một đề tài mang tính liên hợp](https://tiasang.com.vn/-quan-ly-khoa-hoc/O-nhiem-khong-khi-Can-mot-de-tai-mang-tinh-lien-hop-28705)
+
 
 ### Lời dẫn
+
+Update: Bài này đã được biên tập và đăng trên Tia Sáng số 23, tháng 12/2021, theo đường dẫn dưới đây:
+[Ô nhiễm không khí: Cần một đề tài mang tính liên hợp](https://tiasang.com.vn/-quan-ly-khoa-hoc/O-nhiem-khong-khi-Can-mot-de-tai-mang-tinh-lien-hop-28705)
 
 Khi tôi viết những dòng này, Luân Đôn chuẩn bị bước qua những khoảnh khắc cuối cùng của năm 2020 trong giá lạnh và sự cô lập.
 Thành phố đang trải qua lệnh phong tỏa lần thứ hai để ngăn chặn sự lây nhiễm siêu nhanh của virus biến thể mới. 
