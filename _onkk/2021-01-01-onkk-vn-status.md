@@ -8,6 +8,8 @@ author_profile: true
 header:
   teaser: /assets/images/onkk.source.traffic.png
 ---
+Update: Bài này đã được biên tập và đăng trên Tia Sáng số 23, tháng 12/2021, theo đường dẫn dưới đây:
+[Ô nhiễm không khí: Cần một đề tài mang tính liên hợp](https://tiasang.com.vn/-quan-ly-khoa-hoc/O-nhiem-khong-khi-Can-mot-de-tai-mang-tinh-lien-hop-28705)
 
 ### Lời dẫn
 
