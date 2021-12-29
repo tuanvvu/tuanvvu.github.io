@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/onkk.guardian.png
 ---
 
-### Ô Nhiễm Không Khí trên báo chí
+### Ô nhiễm không khí từ báo chí nước ta
 
 Những năm gần đây vấn đề ô nhiễm không khí (ONKK) đã được nhận được sự phản ảnh nhiều hơn từ các cơ quan truyền thông báo chí.
 Tuy vậy, khi lướt qua nhiều tờ báo mạng lớn ở nước ta không có chuyên mục về môi trường và thông tin về ONKK rất ít.
@@ -19,16 +19,15 @@ Cứ mỗi đợt ONKK kéo dài vào mùa đông, vấn đề này lại rộ l
 Mặc dù vấn đề ONKK ở nước ta đã xảy ra trầm trọng hơn chục năm qua, 
 đây vẫn được cho là vấn đề mới do có tính phức tạp hơn so với ô nhiễm thực phẩm, nguồn nước hay đất. 
 Thêm vào đó, tuy ảnh hưởng của ONKK tới sức khỏe người dân là rất lớn nhưng lại không rõ mồn một hay nhãn tiền như ngộ độc thực phẩm.
-Do đó trên thực tế nhiều người dân và nhiều cấp chính quyền cơ sở vẫn chưa nhận thức đầy đủ được sự nguy hại của ONKK.
+Thực tế nhiều người dân và nhiều cấp chính quyền cơ sở vẫn chưa nhận thức đầy đủ được sự nguy hại của ONKK.
 Trên truyền thông, chúng ta gặp nhiều tin bài về cam kết của chính phủ về tăng trưởng xanh, 
 nền kinh tế tuần hoàn hay tuyên bố không đánh đổi kinh tế
 với môi trường, tuy vậy các cấp quản lý từ trung ương tới địa phương có thật 
 sự hiểu rõ về nền kinh tế toàn và tác hại của ô nhiễm môi trường đặc biệt là về 
 ONKK hay tăng trưởng xanh chỉ là khẩu hiệu tuyên truyền?
 
-Sự thiếu quan tâm của công chúng và truyền thông hiện nay ở nước ta có thể chưa đủ lớn để tạo nên sức ép chính trị 
-để buộc chính quyền phải có những hành động quyết liệt như ra đạo luật không khí sạch nhằm giảm thiếu tình hình ONKK hiện nay. 
-Do tính chất phức tạp của ONKK, nâng cao nhận thức của người dân và cả những người làm quản lý cũng như các phóng viên môi trường về vấn đề này là không đơn giản và đòi hỏi sự tham gia nhiều hơn của các nhà nghiên cứu khoa học.
+Sự thiếu quan tâm của công chúng và truyền thông hiện nay ở nước ta có thể chưa đủ lớn để tạo nên sức ép chính trị buộc chính quyền phải có những hành động quyết liệt như ra đạo luật không khí sạch nhằm cải thiện chất lượng không khí. 
+Do đó, nâng cao nhận thức của người dân và cả những người làm quản lý cũng như các phóng viên môi trường về vấn đề này là rất quan trọng. Tuy vậy, đây là một việc không đơn giản và đòi hỏi sự tham gia nhiều hơn của các nhà nghiên cứu khoa học.
 
 ### Báo chí nước ngoài quan tâm tới vấn đề môi trường và ONKK như thế nào?
 
