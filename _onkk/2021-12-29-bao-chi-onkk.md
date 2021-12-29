@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.guardian.bmp
+  teaser: /assets/images/onkk.guardian.png
 ---
 
 ### Ô Nhiễm Không Khí trên báo chí
@@ -36,6 +36,9 @@ Do tính chất phức tạp của ONKK, nâng cao nhận thức của người 
 với nhiều thông tin thiết thực và đa dạng từ ONKK tới biến đổi khí hậu toàn cầu.
 Đối với trang tin về ONKK, tôi rất ấn tượng với chuyên mục [Pollutionwatch](https://www.theguardian.com/environment/series/pollutionwatch)
 (dịch nhanh: Quan sát ô nhiễm?) của tờ The Guardian. 
+
+![animation]({{ site.url }}/assets/images/onkk.guardian.png)
+
 Trong trang tin này, anh bạn đồng nghiệp, tiến sĩ Fuller, đều đặn viết 2 bài mỗi tháng về tình hình ONKK trong 8 năm qua.
 Đây đều là những bài báo hoặc tin cho đại chúng nhưng chứa nhiều thông tin học thuật hữu ích được trình bày một cách rất dễ hiểu.
 
