@@ -1,7 +1,7 @@
 ---
 title: "Thấy gì từ một dự án hợp tác nghiên cứu quốc tế giữa Vương Quốc Anh và Trung Quốc?"
 comments: true
-date: 2021-10-02 00:00:00 -0000
+date: 2021-12-30 00:00:00 -0000
 layout: single
 classes: wide
 author_profile: true
