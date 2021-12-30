@@ -26,7 +26,7 @@ với môi trường, tuy vậy các cấp quản lý từ trung ương tới đ
 sự hiểu rõ về nền kinh tế toàn và tác hại của ô nhiễm môi trường đặc biệt là về 
 ONKK hay tăng trưởng xanh chỉ là khẩu hiệu tuyên truyền?
 
-Sự thiếu quan tâm của công chúng và truyền thông hiện nay ở nước ta có thể chưa đủ lớn để tạo nên sức ép chính trị buộc chính quyền phải có những hành động quyết liệt như ra đạo luật không khí sạch nhằm cải thiện chất lượng không khí. 
+Sự quan tâm của công chúng và truyền thông hiện nay ở nước ta có lẽ chưa đủ lớn để tạo nên sức ép chính trị buộc chính quyền phải có những hành động quyết liệt như ra đạo luật không khí sạch nhằm cải thiện chất lượng không khí. 
 Do đó, nâng cao nhận thức của người dân và cả những người làm quản lý cũng như các phóng viên môi trường về vấn đề này là rất quan trọng. Tuy vậy, đây là một việc không đơn giản và đòi hỏi sự tham gia nhiều hơn của các nhà nghiên cứu khoa học.
 
 ### Báo chí nước ngoài quan tâm tới vấn đề môi trường và ONKK như thế nào?
