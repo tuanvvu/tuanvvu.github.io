@@ -62,7 +62,7 @@ Một điểm nổi bật của báo cáo này chính ra nó đã kể ra nhữn
 9) So sánh dữ liệu và các công cụ đo đạc; 10) Truy cập, chia sẻ và công bố dữ liệu; 11) Nhiều cách tiếp cận cho cùng một vấn để khoa học
 ; 12) Trao đổi với các nhà khoa học quốc tế và cuối cùng là 14) Sự tương tác với các nhà tài trợ.
 
-Từ những câu chuyện trên khi liên hệ với Việt Nam, tôi cho rằng chúng ta có thể học hỏi qua các điểm quan trong như:
+Từ những câu chuyện trên khi liên hệ với Việt Nam, tôi cho rằng chúng ta có thể học hỏi qua các điểm quan trọng như:
 
 1) Hợp tác: Tăng cường hợp tác giữa các nhóm nghiên cứu trong và liên ngành dựa trên sự tin cậy và khả năng tương hỗ,
  cần tạo ra một nền tảng để chia sẻ dữ liệu nghiên cứu giữa các nhóm nghiên cứu.
