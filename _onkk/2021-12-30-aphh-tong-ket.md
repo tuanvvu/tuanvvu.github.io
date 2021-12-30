@@ -77,6 +77,6 @@ Sau cùng tôi cho rằng chất lượng không khí ở Bắc Kinh được c�
 Các nhóm nghiên cứu ở đó thực sự rất mạnh không kém gì ở Vương Quốc Anh. Họ đã được đầu tư hiệu quả về mặt vật chất lẫn con người 
 trong một thời gian đáng kể trước khi kế hoạch hành động giảm thiểu ô nhiễm được tiến hành.
 
-P/S:Tôi đã tham gia dự án từ lúc bắt đầu cho tới khi gần kết thúc vào cuối năm 2019 (khi tôi nhận vị trí mới ở KCL và ICL).
+P/S: Tôi đã tham gia dự án từ lúc bắt đầu cho tới khi gần kết thúc vào cuối năm 2019 (khi tôi nhận vị trí mới ở KCL và ICL).
 Đây là dự án mà tôi đã bỏ rất nhiều công sức từ tổ chức kế hoạch thu mẫu, thực nghiệm, phân tích trong phòng thí nghiệm tới 
 phát triển mô hình mô phỏng và tham gia viết ý tưởng nghiên cứu cho giai đoạn 2 của dự án. 
