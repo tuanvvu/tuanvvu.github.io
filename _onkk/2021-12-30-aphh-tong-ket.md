@@ -9,9 +9,9 @@ header:
   teaser: /assets/images/onkk.aphh.final.png
 ---
 
-Sau 5 năm kể khi bắt đầu (năm 2016) dự án Ô nhiễm không khí và sức khỏe con người ở siêu đô thị Bắc Kinh 
+Sau 5 năm kể khi (năm 2016) dự án Ô nhiễm không khí và sức khỏe con người ở siêu đô thị Bắc Kinh được khởi động 
 (Atmospheric Pollution and Human Health (APHH) in a Chinese Megacity (APHH-Beijing)),
-đầu năm nay dự án đã công bố [báo cáo tổng kết](http://epapers.bham.ac.uk/3381/). 
+đầu năm nay nhóm nghiên cứu dự án đã công bố [báo cáo tổng kết](http://epapers.bham.ac.uk/3381/). 
 
 [Phần giới thiệu về dự án này đã được công bố trên tạp chí Vật Lý và Hóa Học khí quyển](https://acp.copernicus.org/articles/19/7519/2019/).
 Dự án kéo dài trong 4 năm (2016-2020), được đồng tài trợ bởi Hội đồng Nghiên cứu Môi trường Tự nhiên (NERC) và 
@@ -29,22 +29,22 @@ Một nhóm hơn 150 nhà khoa học đã dành 5 năm để thực hiện một
 tạo ra cái nhìn sâu sắc mới về ô nhiễm không khí và sức khỏe con người bằng cách sử dụng các công cụ quan sát và mô hình mới. 
 Kết quả dự án đã chỉ ra rằng:
 
-1. Chất lượng không khí của Bắc Kinh được cải thiện đáng kể trong vài năm qua, 
-nhờ vào việc giảm phát thải sau khi thực hiện các hành động không khí sạch.
+1. Chất lượng không khí của Bắc Kinh được cải thiện đáng kể trong vài năm qua 
+nhờ vào việc giảm phát thải sau khi thực hiện các hành động kiểm soát ô nhiễm không khí.
 
 2. Các nguồn gây ô nhiễm không khí chính ở trung tâm thành phố, bao gồm các hạt mịn, hợp chất hữu cơ dễ bay hơi (VOC)
 và carbon đen thấp hơn nhiều so với dự đoán, nhưng nồng độ vẫn tương đối cao trong năm 2016 và 2017,
 cho thấy chúng được tạo ra bên ngoài trung tâm thành phố.
 
-3. Quá trình chuyển đổi năng lượng sạch của Trung Quốc để sử dụng trong gia đình ở nông thôn đã làm giảm mức PM2.5 xung quanh,
- nhưng việc đốt nhiên liệu rắn trong nước vẫn tạo ra khoảng 20% PM2.5 xung quanh trong năm 2012.
+3. Quá trình chuyển đổi năng lượng sạch của Trung Quốc để sử dụng trong gia đình ở nông thôn đã làm giảm nồng độ bụi PM2.5,
+ nhưng việc đốt nhiên liệu hóa thạch trong nước vẫn tạo ra khoảng 20% PM2.5 trong năm 2012.
  
 4. Đốt sinh khối và đốt than bên ngoài trung tâm thành phố Bắc Kinh tạo ra các hạt mịn (PM2.5) 
 được đưa vào thành phố bằng các khối khí dọc theo các tuyến đường chính ra khỏi tỉnh Bắc Sơn Tây, 
 Hà Trạch và các thành phố lân cận như Thiên Tân và Đường Sơn.
 
 5. Ô nhiễm ôzôn cao vào mùa hè và có thể trầm trọng hơn với các biện pháp kiểm soát NOx và PM2.5 trong tương lai, 
-trừ khi lượng khí thải VOC quan trọng được quy định.
+trừ khi lượng khí thải VOC được kiểm soát.
 
 6. Việc cắt giảm lượng khí thải amoniac có thể làm giảm đáng kể nồng độ của PM2.5.
 
