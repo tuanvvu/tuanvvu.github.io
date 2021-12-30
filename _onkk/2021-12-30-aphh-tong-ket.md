@@ -67,11 +67,11 @@ Từ những câu chuyện trên khi liên hệ với Việt Nam, tôi cho rằn
 1) Hợp tác: Tăng cường hợp tác giữa các nhóm nghiên cứu trong và liên ngành dựa trên sự tin cậy và khả năng tương hỗ,
  cần tạo ra một nền tảng để chia sẻ dữ liệu nghiên cứu giữa các nhóm nghiên cứu.
  
-3) Minh bạch: Công khai dữ liệu với cộng đồng và trao đổi trực tiếp với các nhà hoạch định chính sách.
+2) Minh bạch: Công khai dữ liệu với cộng đồng và trao đổi trực tiếp với các nhà hoạch định chính sách.
 
-4) Bài bản: Chuẩn hóa dữ liệu cũng như phát triển và tích hợp các công cụ nghiên cứu.
+3) Bài bản: Chuẩn hóa dữ liệu cũng như phát triển và tích hợp các công cụ nghiên cứu.
 
-5) Đào tạo: Đào tạo các nhà khoa học trẻ để tiếp nối và phát triển những di sản từ dự án
+4) Đào tạo: Đào tạo các nhà khoa học trẻ để tiếp nối và phát triển những di sản từ dự án
 
 Sau cùng tôi cho rằng chất lượng không khí ở Bắc Kinh được cái thiện do sự quyết tâm chính trị lớn của chính quyền Bắc Kinh cũng như từ trung ương.
 Các nhóm nghiên cứu ở đó thực sự rất mạnh không kém gì ở Vương Quốc Anh. Họ đã được đầu tư hiệu quả về mặt vật chất lẫn con người 
