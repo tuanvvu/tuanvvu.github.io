@@ -1,12 +1,12 @@
 ---
 title: Tổng hợp bài viết về ô nhiễm không khí 2019-2021
 comments: true
-date: 2021-12-21 00:00:00 -0000
+date: 2021-12-31 23:00:00 -0000
 layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.emission.png
+  teaser: /assets/images/onkk.aphh.final.png
 ---
 
 ### I. Xu hướng và chính sách
@@ -18,8 +18,11 @@ header:
 #### Kinh nghiệm và chính sách từ Trung Quốc
 1.  [Bắc Kinh có thành công trong kế hoạch hành động 5 năm (2013-2017) kiểm soát ô nhiễm không khí?](https://tuanvvu.github.io/onkk/2019-10-14-onkk-bac-kinh/)
 2. [Chính sách sử dụng năng lượng trong việc kiểm soát chất lượng không khí tại Trung Quốc](https://tuanvvu.github.io/onkk/2019-10-13-onkk-china-energy/)
+3. [Thấy gì từ một dự án hợp tác nghiên cứu quốc tế giữa Vương Quốc Anh và Trung Quốc?](https://tuanvvu.github.io/onkk/2021-12-30-aphh-tong-ket/)
 
-#### Kinh nghiệm và chính sách từ Anh Quốc 
+#### Kinh nghiệm và chính sách từ Anh Quốc
+1. [Nhóm chuyên gia về chất lượng không khí](https://tuanvvu.github.io/onkk/2021-12-30-aqeg/)
+2. [Báo chí với vấn đề ô nhiễm không khí](https://tuanvvu.github.io/onkk/2021-12-29-bao-chi-onkk/)
 
 ### II. Nguồn gây ô nhiễm không khí
 1. [Mô hình xác định nguồn ô nhiễm bụi mịn: Thế giới và Hà Nội](https://tuanvvu.github.io/onkk/2020-12-13-onkk-sa/)
