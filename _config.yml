@@ -301,7 +301,7 @@ defaults:
   # _notevn
   - scope:
       path: ""
-      type: expressions
+      type: notevn
     values:
       layout: single
       author_profile: true
