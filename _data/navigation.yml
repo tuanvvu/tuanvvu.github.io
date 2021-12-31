@@ -8,8 +8,8 @@ main:
     url: /blog/
   - title: "ONKK"
     url: /vietnamese/
-  # title: "articles"
-  #  url: /selected-papers/
+  - title: "VDVT"
+    url: /notes/
   - title: "talks"
     url: /talks/
   - title: "research"
