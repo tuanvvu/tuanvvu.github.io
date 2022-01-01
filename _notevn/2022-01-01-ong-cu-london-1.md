@@ -8,8 +8,7 @@ author_profile: true
 
 ---
 
-Bữa rồi đi ăn phở ở [Soho](https://vi.wikipedia.org/wiki/Soho), một khu phố nhộn nhịp ở trung tâm Luân-Đôn, 
-đang tự nhiên lại nhớ tới ông "cụ" (người ai cũng biết là ai ở nước Nam ta). 
+Bữa rồi đi ăn phở ở [Soho](https://vi.wikipedia.org/wiki/Soho), một khu phố nhộn nhịp ở trung tâm Luân-Đôn, tự nhiên lại nhớ tới ông "cụ" (người ai cũng biết là ai ở nước Nam ta). 
 Là yêu thích chuyện xưa và thích tưởng tượng nên tôi ghi chép một số thông tin ra đây làm vui trong lúc nghỉ lễ tết.
 
 ### Ông cụ ở Luân-Đôn
