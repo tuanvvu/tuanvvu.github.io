@@ -28,6 +28,7 @@ Sự biết tới chủ nghĩa cộng sản của ông cụ ở Luân-Đôn tớ
 Ngay cả thời điểm ông cụ ở Luân-Đôn cũng còn gây một số tranh cãi. 
 Biên niên sử ông cụ thì ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
 tiểu sử của ông cụ cũng được nhà nước cân đo đong đếm sửa đi sửa lại nhiều lần!).
+
 Trong cuốn "Hồ Chí Minh: Những năm tháng chưa được biết đến" của bà Sophie Quinn thì viết "Vào năm 1913 hoặc đầu năm 1914, Hồ Chí Minh dường như đã rời bỏ cuộc sống lang thang trên biển và quyết định định cư ở Anh".
 Thời điểm trở lại Pháp cũng có một số nhận định khác, như bà Thụy Khuê cho rằng ông cụ trở lại Pháp [năm 1919](http://thuykhue.free.fr/NVGP/NVGP-01-1215-R-pdf-04.pdf). 
 Tuy vậy, đa số đều nhận định ông cụ tới Anh Quốc vào đầu năm 1913 và rời Anh tới Pháp vào cuối 1917, tổng cộng là gần 5 năm.
@@ -63,7 +64,9 @@ nhưng thú thật đây không phải công việc đơn giản vì thiếu d�
 Ngoài tính chất công việc độc hại thì môi trường làm việc cũng độc hại không kém khi đồng nghiệp ông cụ không được thân thiện cho lắm. 
 Ông cụ kể "Người bạn tôi là một người âm thầm, có lẽ anh ta câm. Suốt hai ngày làm việc, anh ta không hề nói một tiếng. Khi nào anh ta cần tôi làm việc thì anh ta ra hiệu. Nhưng không nói một tiếng".
 
-Thôi thì không giao tiếp do tập trung làm việc còn có thể chấp nhận được, nhưng vụ đồng nghiệp "vừa làm việc vừa hút thuốc" thì quả thật khó chịu. Lúc đó ở Anh Quốc chưa có luật cấm hút thuốc trong nhà hoặc nơi làm việc như bây giờ. Phơi nhiễm gián tiếp do hút thuộc vậy độc không kém so với từ than đá. 
+Thôi thì không giao tiếp do tập trung làm việc còn có thể chấp nhận được, nhưng vụ đồng nghiệp "vừa làm việc vừa hút thuốc" thì quả thật khó chịu. Lúc đó ở Anh Quốc chưa có luật cấm hút thuốc trong nhà hoặc nơi làm việc như bây giờ. 
+
+Phơi nhiễm gián tiếp do hút thuốc như vậy độc không kém so với hít phải bụi từ đốt than đá. 
 Ông cụ hồi làm thủy thủ chưa có hút thuốc, có thể nào ông cụ đã bắt đầu hút thuốc trong thời gian này?
 May là ông cụ không chịu nổi và đã nghỉ việc sau hai tuần.
 
@@ -83,5 +86,5 @@ Mấy 4 tháng rưỡi nay thì chỉ làm với Tây, nói tiếng Tây luôn l
 Tuy ở Anh song chẳng khác gì ở Pháp và tháng ngày luống những chỉ lo làm khỏi đói, chớ chẳng học được bao nhiêu. 
 Và cháu ước ao rằng 4, 5 tháng nữa lúc gặp Bác thì sẽ nói và hiểu được tiếng Anh nhiều nhiều".
 
-P/S: Chuyện kì này đã dài, lần nào rảnh viết tiếp chứ chuyện ông cụ ở Luân-Đôn còn rất hấp dẫn như ông cụ có học trường nào không, gặp những ai, chơi gì (bên Pháp ông cụ thi thoáng đi pubs oánh bi-da, có lẽ do học từ khi làm ở bên Anh or trên tàu, hehe), có đi lính không? Lần sau xin hầu tiếp.
+P/S: Chuyện kỳ này đã dài, lần nào rảnh viết tiếp chứ chuyện ông cụ ở Luân-Đôn còn rất hấp dẫn hơn cả phim ấy chớ như việc ông cụ có học trường nào không, gặp những ai, chơi gì (bên Pháp ông cụ thi thoáng đi pubs oánh bi-da, có lẽ do học từ khi làm ở bên Anh or trên tàu, hehe), có đi lính không? Lần sau xin hầu tiếp.
 (Còn nữa!)
