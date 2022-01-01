@@ -66,7 +66,7 @@ Ngoài tính chất công việc độc hại thì môi trường làm việc c�
 Thôi thì không giao tiếp do tập trung làm việc còn có thể chấp nhận được, nhưng vụ đồng nghiệp "vừa làm việc vừa hút thuốc" thì quả thật khó chịu. Lúc đó ở Anh Quốc chưa có luật cấm hút thuốc trong nhà hoặc nơi làm việc như bây giờ. 
 
 Phơi nhiễm gián tiếp do hút thuốc như vậy độc không kém so với hít phải bụi từ đốt than đá. 
-Ông cụ hồi làm thủy thủ chưa có hút thuốc, có thể nào ông cụ đã bắt đầu hút thuốc trong thời gian này?
+Ông cụ hồi làm phụ bếp trên tàu chu du sang Mỹ chưa có hút thuốc, có thể nào ông cụ đã bắt đầu hút thuốc trong thời gian này?
 May là ông cụ không chịu nổi và đã nghỉ việc sau hai tuần.
 
 ### Lương ông cụ
