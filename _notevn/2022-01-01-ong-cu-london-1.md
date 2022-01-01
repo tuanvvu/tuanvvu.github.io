@@ -14,7 +14,7 @@ Là yêu thích chuyện xưa và thích tưởng tượng nên tôi ghi chép m
 
 ### Ông cụ ở Luân-Đôn
 
-Theo biên niên sử ông cụ thì ông cụ có lấy địa chỉ thư tín ở nhà số 8, [đường Xteephen, Tốt-ten-ham(https://www.google.com/maps/place/Tottenham+Court+Rd+%26+Stephen+St,+London+W1T+7QT/@51.5181547,-0.1340236,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2daddd1df1:0xf11f5cf37a9acaca!8m2!3d51.5181514!4d-0.1318349).
+Theo biên niên sử ông cụ thì ông cụ có lấy địa chỉ thư tín ở nhà số 8, [đường Xteephen, Tốt-ten-ham](https://www.google.com/maps/place/Tottenham+Court+Rd+%26+Stephen+St,+London+W1T+7QT/@51.5181547,-0.1340236,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2daddd1df1:0xf11f5cf37a9acaca!8m2!3d51.5181514!4d-0.1318349).
 
 Hồi ấy đây là một khu nhộn nhịp bậc nhất ở thủ đô Luân-Đôn với nhiều nhà hàng, quán rượu và nhà hát. 
 Khu Soho bây giờ vẫn rất nhộn nhịp, có phố Tàu- nơi chắc chắn đông đúc và to hơn so với thời ông cụ ở đó. 
@@ -29,15 +29,16 @@ Ngay cả thời điểm ông cụ ở Luân-Đôn cũng còn gây một số tr
 Biên niên sử ông cụ thì ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
 tiểu sử của ông cụ cũng được nhà nước cân đo đong đếm sửa đi sửa lại nhiều lần!).
 Trong cuốn "Hồ Chí Minh: Những năm tháng chưa được biết đến" của bà Sophie Quinn thì viết "Vào năm 1913 hoặc đầu năm 1914, Hồ Chí Minh dường như đã rời bỏ cuộc sống lang thang trên biển và quyết định định cư ở Anh".
-Thời điểm trở lại Pháp cũng có một số nhận định khác, như bà Thụy Khuê cho rằng ông cụ trở lại Pháp [năm 1919] (http://thuykhue.free.fr/NVGP/NVGP-01-1215-R-pdf-04.pdf). 
+Thời điểm trở lại Pháp cũng có một số nhận định khác, như bà Thụy Khuê cho rằng ông cụ trở lại Pháp [năm 1919](http://thuykhue.free.fr/NVGP/NVGP-01-1215-R-pdf-04.pdf). 
 Tuy vậy, đa số đều nhận định ông cụ tới Anh Quốc vào đầu năm 1913 và rời Anh tới Pháp vào cuối 1917, tổng cộng là gần 5 năm.
 
 Trong ["Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch"](http://www.talawas.org/talaDB/showFile.php?res=9151&rb=08)
 ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". Là dân nghiên cứu khí quyển nên tôi khá thích thông tin này.
+
 Luân-Đôn lâu lắm rồi cũng không có tuyết,
 hoặc chỉ có một ít vài hạt li ti. Hôm tối đi ăn phở, trời mùa đông, cũng lạnh lắm, nhưng không có tuyết.
-Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều. 
-Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố đã nóng hơn nhiều so với trước kia.
+Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều.  Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố đã nóng hơn nhiều so với trước kia.
+
 Tìm hiểu về lịch sử đo đạc của Anh Quốc khiến tôi rất ấn tượng, họ đã xây dựng những trạm đo từ thế kỷ 19.
 Thảo nào họ mạnh về khoa học khí quyển vậy, bởi vì họ có số liệu rất khoa học và đây là những số liệu rất quan trọng trong
 các mô hình để dự báo thời tiết. Thấy tương lai khi nhìn về quá khứ hóa ra là vậy. 
