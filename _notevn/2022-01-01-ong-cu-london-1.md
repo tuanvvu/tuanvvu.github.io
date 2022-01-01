@@ -33,15 +33,14 @@ Thời điểm trở lại Pháp cũng có một số nhận định khác, như
 Tuy vậy, đa số đều nhận định ông cụ tới Anh Quốc vào đầu năm 1913 và rời Anh tới Pháp vào cuối 1917, tổng cộng là gần 5 năm.
 
 Trong ["Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch"](http://www.talawas.org/talaDB/showFile.php?res=9151&rb=08)
-ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". Là dân nghiên cứu khí quyển nên tôi khá thích thông tin này.
-
-Luân-Đôn lâu lắm rồi cũng không có tuyết,
+ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". Là dân nghiên cứu khí quyển nên tôi khá thích thông tin này. Luân-Đôn lâu lắm rồi cũng không có tuyết,
 hoặc chỉ có một ít vài hạt li ti. Hôm tối đi ăn phở, trời mùa đông, cũng lạnh lắm, nhưng không có tuyết.
-Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều.  Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố đã nóng hơn nhiều so với trước kia.
+
+Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều. Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố đã nóng hơn nhiều so với trước kia.
 
 Tìm hiểu về lịch sử đo đạc của Anh Quốc khiến tôi rất ấn tượng, họ đã xây dựng những trạm đo từ thế kỷ 19.
 Thảo nào họ mạnh về khoa học khí quyển vậy, bởi vì họ có số liệu rất khoa học và đây là những số liệu rất quan trọng trong
-các mô hình để dự báo thời tiết. Thấy tương lai khi nhìn về quá khứ hóa ra là vậy. 
+các mô hình để dự báo thời tiết. Phương ngôn "Thấy tương lai từ quá khứ" ấy là vậy!
 Việt Nam ta thì tới số liệu đo đạc bụi cũng không có liên tục vì nhiều bác lãnh đạo nghĩ đo cũng có để làm gì đâu!
 
 Khi nào có thời gian, tôi nhất định vào vào thư khố Anh để tra cứu xem những đợt tuyết đó xảy ra vào năm nào và độ tuyết dày bao nhiêu mà làm ông cụ "Một công việc rất mệt nhọc. Mình mẩy tôi đẫm mồ hôi mà tay chân thì rét cóng. Sau tám giờ làm công việc này, tôi mệt lử và đói bụng. Tôi đành phải bỏ việc"
