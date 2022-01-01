@@ -43,7 +43,7 @@ Thảo nào họ mạnh về khoa học khí quyển vậy, bởi vì họ có s
 các mô hình để dự báo thời tiết. Phương ngôn "Thấy tương lai từ quá khứ" ấy là vậy!
 Việt Nam ta thì tới số liệu đo đạc bụi cũng không có liên tục vì nhiều bác lãnh đạo nghĩ đo cũng có để làm gì đâu!
 
-Khi nào có thời gian, tôi nhất định vào vào thư khố Anh để tra cứu xem những đợt tuyết đó xảy ra vào năm nào và độ tuyết dày bao nhiêu mà làm ông cụ "Một công việc rất mệt nhọc. Mình mẩy tôi đẫm mồ hôi mà tay chân thì rét cóng. Sau tám giờ làm công việc này, tôi mệt lử và đói bụng. Tôi đành phải bỏ việc"
+Khi nào có thời gian, tôi nhất định vào vào thư khố để tra cứu xem những đợt tuyết đó xảy ra vào năm, tháng và ngày nào và độ tuyết dày bao nhiêu mà làm ông cụ "Một công việc rất mệt nhọc. Mình mẩy tôi đẫm mồ hôi mà tay chân thì rét cóng. Sau tám giờ làm công việc này, tôi mệt lử và đói bụng. Tôi đành phải bỏ việc". Tra cứu thêm quãng đường tàu đi từ Mỹ sang Anh biết đâu có thể ước lượng được thời điểm ông cụ đặt chân tới Anh.
 
 ### Làm, học, ăn, yêu và chơi ở Luân-Đôn
 
