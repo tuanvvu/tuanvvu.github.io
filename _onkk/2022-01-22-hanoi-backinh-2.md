@@ -1,5 +1,5 @@
 ---
-title: "Ô nhiễm không khí: Hà Nội tiếp tục vượt Bắc Kinh?"
+title: "Ô nhiễm không khí: Hà Nội tiếp tục vượt Bắc Kinh năm 2021?"
 comments: true
 date:   2022-01-26 00:00:00 -0000
 layout: single
@@ -19,13 +19,12 @@ Tất nhiên với số liệu đã được chuẩn hóa và minh bạch. Như 
 
 Bản tin dẫn lời ông phó giám đốc sở môi trường Bắc Kinh cho biết năm qua thành phố đã chứng kiến 288 ngày có chất lượng không khí tốt trong năm ngoái, tăng 112 ngày so với năm 2013 và chỉ có 8 ngày ô nhiễm không khí nặng.
 
-Tuy ai cũng biết để đạt được chất lượng không khí như EU thì Trung Quốc còn phải nỗ lực nhiều hơn nữa vì giảm nồng độ bụi từ 40 xuống 15 ug/m3 khó rất nhiều lần so với việc giảm từ 100 xuống 40 ug/m3.
+Tuy ai cũng biết để đạt được chất lượng không khí như EU thì Trung Quốc còn phải nỗ lực nhiều hơn nữa vì giảm nồng độ bụi từ 40 xuống 15 ug/m3 khó rất nhiều lần so với việc giảm từ 100 xuống 40 ug/m3. Ngay khi tôi đang viết dòng này thì Bắc Kinh đang hứng một đợt ô nhiễm nặng trước thềm Olympic mùa đông.
 
 Tuy vậy không thể phủ nhận cố gắng lớn của chính quyền Trung Quốc trong vấn đề xử lý ô nhiễm không khí trong những năm qua! 
 
-Đây là điều đáng để chúng ta học hỏi. 
+### Tại sao chúng ta rất quan tâm tới những chính sách về môi trường ở Bắc Kinh?
 
-### Vậy tại sao chúng ta cần quan tâm tới những chính sách về môi trường ở Bắc Kinh?
+Xin dành câu trả lời ở những bài viết sau. 
 
-Xin dành câu trả lời ở những tút sau.
-
+P/S: Xin chúc mừng năm mới và hi vọng về một thủ đô Hà Nội xanh sạch đẹp.
