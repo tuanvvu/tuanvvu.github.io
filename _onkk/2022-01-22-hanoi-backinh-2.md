@@ -15,15 +15,16 @@ Theo đó, nồng độ trung bình bụi mịn ở Bắc Kinh năm qua là 33 m
 Tôi chưa có thời gian để tổng hợp dữ liệu ở Hà Nội, tuy vậy theo tôi rất có đây là năm thứ 3 liên tiếp thủ đô của chúng vượt mặt thủ đô họ về ô nhiễm bụi mịn! Bạn nào muốn coi so sánh nồng độ bụi mịn ở Hà Nội và Bắc Kinh những năm qua, xin mời đọc ở bài tôi viết hồi năm ngoái ở đây: [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/).
 
 Tôi rất mong các cơ quan quản lý môi trường của ta có thể đưa ra những thông báo về hiện trạng bụi mịn vào mỗi dịp đầu năm như họ.
-Tất nhiên với số liệu đã được chuẩn hóa và minh bạch. Như tôi đã nói ở bài trước, từ 2013 trở đi số liệu quan trắc ở Bắc Kinh rất đáng tin cậy.
+Tất nhiên với số liệu đã được chuẩn hóa và minh bạch. Như tôi đã nói ở bài trước, số liệu quan trắc ở Bắc Kinh sau năm 2013 đã được công khai và rất đáng tin cậy. Mặc dù tôi được biết chúng ta đã có kết hoạch xây mạng lưới quan trắc quốc gia, nhưng có vẻ việc này còn rất chậm chạp!
 
-Bản tin dẫn lời ông phó giám đốc sở môi trường Bắc Kinh cho biết năm qua thành phố đã chứng kiến 288 ngày có chất lượng không khí tốt trong năm ngoái, tăng 112 ngày so với năm 2013 và chỉ có 8 ngày ô nhiễm không khí nặng.
+Bản tin dẫn lời ông phó giám đốc sở sinh thái và môi trường Bắc Kinh cho biết năm qua thành phố đã chứng kiến 288 ngày có chất lượng không khí tốt, tăng 112 ngày so với năm 2013 và chỉ có 8 ngày ô nhiễm không khí nặng.
 
-Tuy ai cũng biết để đạt được chất lượng không khí như EU thì Trung Quốc còn phải nỗ lực nhiều hơn nữa vì giảm nồng độ bụi từ 40 xuống 15 ug/m3 khó rất nhiều lần so với việc giảm từ 100 xuống 40 ug/m3. Ngay khi tôi đang viết dòng này thì Bắc Kinh đang hứng một đợt ô nhiễm nặng trước thềm Olympic mùa đông.
+Tuy ai cũng biết để đạt được chất lượng không khí như EU thì Trung Quốc còn phải nỗ lực nhiều hơn nữa vì giảm nồng độ bụi từ 35 xuống 15 ug/m3 khó rất nhiều lần so với việc giảm từ 100 xuống 35 ug/m3. Bắc Kinh vẫn còn đối mặt nhiều vấn đề nan giải trong việc giảm thiểu ô nhiễm không khí. 
 
+Ngay khi tôi đang viết dòng này thì Bắc Kinh đang hứng một đợt ô nhiễm nặng trước thềm Olympic mùa đông 2022.
 Tuy vậy không thể phủ nhận cố gắng lớn của chính quyền Trung Quốc trong vấn đề xử lý ô nhiễm không khí trong những năm qua! 
 
-### Tại sao chúng ta rất quan tâm tới những chính sách về môi trường ở Bắc Kinh?
+### Tại sao chúng ta cần quan tâm tới những chính sách về môi trường ở Bắc Kinh?
 
 Xin dành câu trả lời ở những bài viết sau. 
 
