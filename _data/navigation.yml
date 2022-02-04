@@ -6,14 +6,14 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: Blog
     url: /blog/
+  - title: "research"
+    url: https://tuanvvu.github.io/profile/research.html
+  - title: "talks"
+    url: /talks/
   - title: "ONKK"
     url: /vietnamese/
   - title: "tám"
     url: /notes-vn/
-  - title: "talks"
-    url: /talks/
-  - title: "research"
-    url: https://tuanvvu.github.io/profile/research.html
   - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
   
