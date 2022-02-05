@@ -4,12 +4,12 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
-  - title: Blog
-    url: /blog/
   - title: "research"
-    url: https://tuanvvu.github.io/profile/research.html
+    url: /research/
   - title: "talks"
     url: /talks/
+  - title: blog
+    url: /blog/
   - title: "ONKK"
     url: /vietnamese/
   - title: "tám"
