@@ -4,7 +4,7 @@ title: "research"
 permalink: /research/
 author_profile: true
 header:
-
+  teaser: /assets/images/onkk.source.traffic.png
 ---
 
 My research has focused on better understanding air pollution, from emissions through atmospheric chemical and physical transformations to exposure and effects on human health & climate change. 
