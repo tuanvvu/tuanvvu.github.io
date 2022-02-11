@@ -6,13 +6,19 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.beijing.trend1.png
+  teaser: /assets/images/onkk.hn.bk.2.png
 ---
 
 Đầu năm nay (4/1), [Tân Hoa Xã đưa tin chất lượng không khí ở Bắc Kinh đã đạt được mức đột phá trong năm 2021](http://www.xinhuanet.com/english/20220104/c5a0b79377684910ad50c5dc83db860c/c.html#:~:text=The%20city's%20average%20concentration%20of,bureau%2C%20told%20a%20press%20briefing.).
 Theo đó, nồng độ trung bình bụi mịn ở Bắc Kinh năm qua là 33 microgam trên mét khối, thấp hơn so với tiêu chuẩn quốc gia (35 microngram/mét khối). 
 
 Tôi chưa có thời gian để tổng hợp dữ liệu ở Hà Nội, tuy nhiên có đây sẽ là năm thứ 3 liên tiếp thủ đô của chúng vượt mặt thủ đô họ về ô nhiễm bụi mịn! Bạn nào muốn coi so sánh nồng độ bụi mịn ở Hà Nội và Bắc Kinh những năm qua, xin mời đọc ở bài tôi viết hồi năm ngoái ở đây: [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/).
+
+Cập nhật: Tôi vừa thử plot số liệu thô xem sao như hình dưới:
+
+![animation]({{ site.url }}/assets/images/onkk.hn.bk.2.png)
+
+*Hình 1. Xu hướng nồng độ bụi mịn ở Bắc Kinh và Hà Nội. (Ghí chú là số liệu trống từ US Embassy cho Hà Nội năm 2021 chiếm 2.8%-tối chưa có thời gian xử lý)*
 
 Tôi rất mong các cơ quan quản lý môi trường của ta có thể đưa ra những thông báo về hiện trạng bụi mịn vào mỗi dịp đầu năm như họ.
 Tất nhiên với số liệu đã được chuẩn hóa và minh bạch. Như tôi đã nói ở bài trước, số liệu quan trắc ở Bắc Kinh sau năm 2013 đã được công khai và rất đáng tin cậy. Mặc dù tôi được biết chúng ta đã có kế hoạch xây mạng lưới quan trắc quốc gia, nhưng có vẻ còn rất chậm chạp trong quá trình triển khai! Dẫn tới, chúng ta vẫn thiếu những dữ liệu chuẩn cần thiết để có thể đánh giá chính xác thực trạng ô nhiễm.
