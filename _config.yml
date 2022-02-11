@@ -216,7 +216,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  articles:
+  research:
     output: true
     permalink: /:collection/:path/
   expressions:
@@ -272,10 +272,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _articles
+  # _research
   - scope:
       path: ""
-      type: articles
+      type: research
     values:
       layout: single
       author_profile: true
