@@ -1,14 +1,18 @@
 # main links
 main:
-  - title: "research"
-    url: https://tuanvvu.github.io/profile/research.html    
-  - title: "talks"
-    url: /talks/   
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: "blog"
-    url: /blog/    
-  - title: "onkk"
-    url: /vietnamese/    
+    url: /blog/
+  - title: "research"
+    url: https://tuanvvu.github.io/profile/research.html
+  - title: "talks"
+    url: /talks/
+  - title: "ONKK"
+    url: /vietnamese/
   - title: "tám"
-    url: /notes-vn/   
+    url: /notes-vn/
   - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
