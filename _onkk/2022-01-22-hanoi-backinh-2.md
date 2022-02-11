@@ -12,10 +12,10 @@ header:
 Đầu năm nay (4/1), [Tân Hoa Xã đưa tin chất lượng không khí ở Bắc Kinh đã đạt được mức đột phá trong năm 2021](http://www.xinhuanet.com/english/20220104/c5a0b79377684910ad50c5dc83db860c/c.html#:~:text=The%20city's%20average%20concentration%20of,bureau%2C%20told%20a%20press%20briefing.).
 Theo đó, nồng độ trung bình bụi mịn ở Bắc Kinh năm qua là 33 microgam trên mét khối, thấp hơn so với tiêu chuẩn quốc gia (35 microngram/mét khối). 
 
-Tôi chưa có thời gian để tổng hợp dữ liệu ở Hà Nội, tuy vậy theo tôi rất có đây là năm thứ 3 liên tiếp thủ đô của chúng vượt mặt thủ đô họ về ô nhiễm bụi mịn! Bạn nào muốn coi so sánh nồng độ bụi mịn ở Hà Nội và Bắc Kinh những năm qua, xin mời đọc ở bài tôi viết hồi năm ngoái ở đây: [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/).
+Tôi chưa có thời gian để tổng hợp dữ liệu ở Hà Nội, tuy nhiên có đây sẽ là năm thứ 3 liên tiếp thủ đô của chúng vượt mặt thủ đô họ về ô nhiễm bụi mịn! Bạn nào muốn coi so sánh nồng độ bụi mịn ở Hà Nội và Bắc Kinh những năm qua, xin mời đọc ở bài tôi viết hồi năm ngoái ở đây: [Ô nhiễm không khí: Hà Nội đã vượt Bắc Kinh?](https://tuanvvu.github.io/onkk/2021-03-05-hanoi-backinh/).
 
 Tôi rất mong các cơ quan quản lý môi trường của ta có thể đưa ra những thông báo về hiện trạng bụi mịn vào mỗi dịp đầu năm như họ.
-Tất nhiên với số liệu đã được chuẩn hóa và minh bạch. Như tôi đã nói ở bài trước, số liệu quan trắc ở Bắc Kinh sau năm 2013 đã được công khai và rất đáng tin cậy. Mặc dù tôi được biết chúng ta đã có kết hoạch xây mạng lưới quan trắc quốc gia, nhưng có vẻ việc này còn rất chậm chạp!
+Tất nhiên với số liệu đã được chuẩn hóa và minh bạch. Như tôi đã nói ở bài trước, số liệu quan trắc ở Bắc Kinh sau năm 2013 đã được công khai và rất đáng tin cậy. Mặc dù tôi được biết chúng ta đã có kế hoạch xây mạng lưới quan trắc quốc gia, nhưng có vẻ còn rất chậm chạp trong quá trình triển khai! Dẫn tới, chúng ta vẫn thiếu những dữ liệu chuẩn cần thiết để có thể đánh giá chính xác thực trạng ô nhiễm.
 
 Bản tin dẫn lời ông phó giám đốc sở sinh thái và môi trường Bắc Kinh cho biết năm qua thành phố đã chứng kiến 288 ngày có chất lượng không khí tốt, tăng 112 ngày so với năm 2013 và chỉ có 8 ngày ô nhiễm không khí nặng.
 
