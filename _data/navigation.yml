@@ -7,7 +7,7 @@ main:
   - title: blog
     url: /blog/
   - title: "research"
-    url: https://tuanvvu.github.io/profile/research.html
+    url: /research/
   - title: "talks"
     url: /talks/
   - title: "onkk"
