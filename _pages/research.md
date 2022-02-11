@@ -7,27 +7,18 @@ header:
   teaser: /assets/images/onkk.hn.bk.2.png
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+My research has focused on better understanding air pollution, 
+from emissions through atmospheric chemical and physical transformations to exposure and effects on human health & climate change. 
+Toward that end, I have carried out many sampling campaigns of air pollution (mainly aerosols) in UK, Spain, 
+Italy, Czech, South Korea and currently in China and India.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Selected research projects:
+01.NERC grant, “An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme” (role: key researcher): £1.4m, 2019-22
+02.NERC grant, “Quantitative attribution of secondary organic aerosol in Beijing to its precursors” (role: proposal writer & key researcher): £273k, 2019-21
+03.NERC grant, “Sources and emissions of air pollutants in Beijing” (key researcher): £1.4m, 2016-20
+04.H2020-EU grant, “Human exposure to aerosol contaminants in modern microenvironments” (ECR fellowship): £413k, 2013-16
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+My publication list can be found on the Google Scholar website
 
 <nbsp>
 
