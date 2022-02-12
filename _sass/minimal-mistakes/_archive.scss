@@ -20,7 +20,7 @@
 
 .archive__item {
   position: relative;
-  font-size: 1em;
+  font-size: 0.9em;
 
   a {
     position: relative;
@@ -204,7 +204,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
   }
 
   .archive__item-excerpt {
@@ -244,7 +244,7 @@
 .feature__item {
   position: relative;
   margin-bottom: 2em;
-  font-size: 1.125em;
+  font-size: 0.9em;
 
   @include breakpoint($small) {
     float: left;
@@ -293,7 +293,7 @@
     margin-right: 0;
     width: 100%;
     clear: both;
-    font-size: 1.125em;
+    font-size: 0.9em;
 
     .archive__item {
       float: left;
@@ -334,7 +334,7 @@
     margin-right: 0;
     width: 100%;
     clear: both;
-    font-size: 1.125em;
+    font-size: 0.9em;
 
     .archive__item {
       float: left;
@@ -377,7 +377,7 @@
     margin-right: 0;
     width: 100%;
     clear: both;
-    font-size: 1.125em;
+    font-size: 0.9em;
 
     .archive__item {
       float: left;
@@ -419,7 +419,7 @@
   .feature__wrapper {
     .archive__item-title {
       margin-top: 0.25em;
-      font-size: 1em;
+      font-size: 0.9em;
     }
   }
 
@@ -427,7 +427,7 @@
   .feature__item--left,
   .feature__item--center,
   .feature__item--right {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 }
 
