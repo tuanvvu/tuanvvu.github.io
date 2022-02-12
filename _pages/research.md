@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/onkk.hn.bk.2.png
 ---
 
-My main research focuses on better understanding air pollution, 
+<font size=1> My main research focuses on better understanding air pollution, 
 from emissions through atmospheric physico-chemical transformations to exposure and effects on human health.
-I am also interested in studying the interactions between air pollution, climate and the biosphere.
+I am also interested in studying the interactions between air pollution, climate and the biosphere. </font> 
 
 ### Research grants/projects
 
