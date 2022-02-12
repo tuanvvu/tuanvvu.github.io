@@ -34,19 +34,19 @@ My research topics are: 1) Physico-chemical properties of air pollutants; 2) Sou
   {% include archive-single.html type="grid" %}
 {% endfor %}
 
-
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+.
+. 
+.
+.  
+. 
+. 
+.  
+. 
+.  
+.  
+.  
+.  
+.  
 <nbsp>
 
 ##### Publications
