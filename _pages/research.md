@@ -7,11 +7,11 @@ header:
   teaser: /assets/images/onkk.hn.bk.2.png
 ---
 
-<font size=1> My main research focuses on better understanding air pollution, 
+<font size=3> My main research focuses on better understanding air pollution, 
 from emissions through atmospheric physico-chemical transformations to exposure and effects on human health.
-I am also interested in studying the interactions between air pollution, climate and the biosphere. </font> 
+I am also interested in studying the interactions between air pollution, climate and the biosphere. 
 
-### Research grants/projects
+#### Research grants/projects
 
 06. [West London Healthy Home and Environment Study, NERC £2.9m, 2021-2025](https://gtr.ukri.org/projects?ref=NE%2FW002116%2F1#/tabOverview). *Role:* ***Research co-PI***
 05. [An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme, NERC £1.4m, 2019-2022](https://gtr.ukri.org/project/6D2FF57F-BE97-4070-B074-685CC802D05F). *Role: Researcher*
@@ -22,7 +22,7 @@ I am also interested in studying the interactions between air pollution, climate
 
 ### Research topics
 
-Main main research topics: 1) Physico-chemical properties of air pollutants; 2) Source apportionment of aerosols; 3) Human exposure and health impacts of air pollution; 4) Air quality policy.  
+Main main research topics: 1) Physico-chemical properties of air pollutants; 2) Source apportionment of aerosols; 3) Human exposure and health impacts of air pollution; 4) Air quality policy.  </font> 
 
 <nbsp>
 
