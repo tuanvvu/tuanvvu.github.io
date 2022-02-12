@@ -8,6 +8,8 @@ main:
     url: /blog/
   - title: "research"
     url: /research/
+  - title: "projects"
+    url: /projects/
   - title: "talks"
     url: /talks/
   - title: "onkk"
