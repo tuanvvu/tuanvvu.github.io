@@ -219,7 +219,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  expressions:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -281,10 +281,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expressions
+  # _publications
   - scope:
       path: ""
-      type: expressions
+      type: publications
     values:
       layout: single
       author_profile: true
