@@ -22,7 +22,7 @@ I am also interested in studying the interactions between air pollution, climate
 
 ##### Research topics
 
-<font size=4> My research topics are: 1) Physico-chemical properties of air pollutants; 2) Source apportionment of aerosols; 3) Human exposure and health impacts of air pollution; 4) Air quality policy</font>. 
+<font size=4> My research topics are: 1) Physico-chemical properties of air pollutants; 2) Source apportionment of aerosols; 3) Human exposure and health impacts of air pollution; 4) Air quality policy.</font> 
 
 <nbsp>
 
