@@ -4,14 +4,14 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
-  - title: blog
-    url: /blog/
   - title: "research"
     url: /research/
   - title: "projects"
     url: /projects/
   - title: "talks"
     url: /talks/
+  - title: blog
+    url: /blog/
   - title: "onkk"
     url: /vietnamese/
   - title: "tám"
