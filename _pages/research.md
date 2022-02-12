@@ -18,7 +18,7 @@ I am also interested in studying the interactions between air pollution, climate
 04. [<font size=4>Cognitive DeveLopment in the Urban Environment, MRC £618k, 2018-2021 </font>](https://gtr.ukri.org/projects?ref=MR%2FR00322X%2F1). *<font size=4>Role: Researcher</font>*
 03. [<font size=4> Quantitative attribution of secondary organic aerosol in Beijing to its precursors, NERC £319k, 2019-2021</font>](https://gtr.ukri.org/projects?ref=NE%2FS006699%2F1&pn=0&fetchSize=10&selectedSortableField=date&selectedSortOrder=ASC#/tabOverview). *<font size=4>Role: </font>* ***<font size=4>Case of Support writer and Researcher</font>***
 02. [<font size=4> Sources and emissions of air pollutants in Beijing, NERC £1.4m, 2016-2020</font>](https://gtr.ukri.org/projects?ref=NE%2FN007190%2F1). *<font size=4>Role: Researcher</font>*
-01. [<font size=4>Human exposure to aerosol contaminants in modern microenvironments, H2020 £3.2, 2013-2016/font>](https://cordis.europa.eu/project/id/315760/reporting). *<font size=4>Role: </font>* ***<font size=4>ECR fellowship</font>***
+01. [<font size=4>Human exposure to aerosol contaminants in modern microenvironments, H2020 £3.2, 2013-2016</font>](https://cordis.europa.eu/project/id/315760/reporting). *<font size=4>Role: </font>* ***<font size=4>ECR fellowship</font>***
 
 ##### Research topics
 
