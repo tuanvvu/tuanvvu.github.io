@@ -4,7 +4,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
-  - title: "research"
+  - title: "Research"
     url: /research/
   - title: "projects"
     url: /projects/
@@ -12,11 +12,11 @@ main:
     url: /publications/
   - title: "talks"
     url: /talks/
-  - title: blog
-    url: /blog/
   - title: "onkk"
     url: /vietnamese/
   - title: "tám"
     url: /notes-vn/
+  - title: blog
+    url: /blog/
   - title: "about me"
     url: https://tuanvvu.github.io/profile/index.html
