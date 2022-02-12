@@ -1,17 +1,14 @@
 ---
 layout: single
 title: "Research Projects"
-permalink: /research/
+permalink: /projects/
 author_profile: true
 header:
   teaser: /assets/images/onkk.hn.bk.2.png
 ---
 
 
-My main research focuses on better understanding **air pollution**, 
-from *emissions* through *atmospheric physico-chemical transformations* and *interactions between air pollution, climate and the biosphere* to *exposure and effects on human health*.
-
-I am also interested in applied **machine learning and AI** for air quality modelling. 
+I have carried out many sampling campaigns of air pollution (mainly aerosols) in UK, Spain, Italy, Czech, South Korea and currently in China and India. 
 
 ##### Research projects
 
