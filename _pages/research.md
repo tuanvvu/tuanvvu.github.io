@@ -11,9 +11,9 @@ header:
 from emissions through atmospheric physico-chemical transformations to exposure and effects on human health.
 I am also interested in studying the interactions between air pollution, climate and the biosphere. </font> 
 
-#### Research grants/projects
+##### Research grants/projects
 
-06. [<font size=4> West London Healthy Home and Environment Study, NERC £2.9m, 2021-2025 </font>](https://gtr.ukri.org/projects?ref=NE%2FW002116%2F1#/tabOverview).<font size=4> *Role:* ***Research co-PI***</font> 
+06. [<font size=4> West London Healthy Home and Environment Study, NERC £2.9m, 2021-2025 </font>](https://gtr.ukri.org/projects?ref=NE%2FW002116%2F1#/tabOverview). *<font size=4>Role: </font>* ***<font size=4>Research co-PI</font>***
 05. [<font size=4>An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme, NERC £1.4m, 2019-2022 </font>](https://gtr.ukri.org/project/6D2FF57F-BE97-4070-B074-685CC802D05F).<font size=4> *Role: Researcher*</font> 
 04. [<font size=4>Cognitive DeveLopment in the Urban Environment, MRC £618k, 2018-2021 </font>](https://gtr.ukri.org/projects?ref=MR%2FR00322X%2F1). *Role: Researcher*
 03. [Quantitative attribution of secondary organic aerosol in Beijing to its precursors, NERC £319k, 2019-2021](https://gtr.ukri.org/projects?ref=NE%2FS006699%2F1&pn=0&fetchSize=10&selectedSortableField=date&selectedSortOrder=ASC#/tabOverview). *Role:* ***Case of Support writer and Researcher***
