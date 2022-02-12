@@ -12,6 +12,8 @@ main:
     url: /publications/
   - title: "talks"
     url: /talks/
+  - title: "software"
+    url: /software/
   - title: "onkk"
     url: /vietnamese/
   - title: "tám"
