@@ -12,4 +12,4 @@ In this work, we have applied a **machine learning (i.e Random Forest algorithm)
 
 We also use our air pollution **dispersion (CMAQ-urban) model** to predict the future air quality in different scenerios.
 
-Please find our publications from the [link](https://github.com/tuanvvu/tuanvvu.github.io/blob/master/_pages/publications.md#ii-air-quality-policies).
+Please find our publications from the [link](https://tuanvvu.github.io/publications/#ii-air-quality-policies).
