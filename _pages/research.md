@@ -1,13 +1,14 @@
 ---
 layout: single
 classes: wide
-title: "Research Interest"
+#title: "Research Interest"
 permalink: /research/
 author_profile: true
 header:
-  teaser: /assets/images/onkk.hn.bk.2.png
+  teaser: /assets/images/research/human_exposure.png
 ---
 
+#### Research interest
 
 My main research focuses on better understanding **air pollution**, 
 from *emissions* through *atmospheric physico-chemical transformations* and *interactions between air pollution, climate and the biosphere* to *exposure and effects on human health*.
@@ -16,8 +17,7 @@ I am also interested in applied **machine learning** for air quality modelling.
 
 #### Current work and research topics
 
-My current work is to develop a new **Hybrid Exposure Model (ERG-HEM)** to estimate human exposure and dose to air pollution.   
-This model integrates the outdoor air pollution dispersion model (CMAQ-Urban, grid of 20x20m), indoor-outdoor air exchange model (CONTAM/EnergyPlus models,
+My current work is to develop a new **Hybrid Exposure Model (ERG-HEM)** to estimate human exposure and dose to air pollution. This model integrates the outdoor air pollution dispersion model (CMAQ-Urban, grid of 20x20m), indoor-outdoor air exchange model (CONTAM/EnergyPlus models,
 UK Building Stock model) and transportation models (mass balance model, ABM and machine learning).
 
 Before joining [ERG air pollution modelling team](https://www.imperial.ac.uk/school-public-health/environmental-research-group/research/modelling/), I carried out many air pollution sampling campaigns (in the UK, EU, China, India, etc.) and labwork using [a wide range of measurement techniques](https://tuanvvu.github.io/profile/other.html). 
