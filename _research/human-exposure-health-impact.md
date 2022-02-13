@@ -1,5 +1,5 @@
 ---
-title: "Modelling of Human exposure to Air Pollution"
+title: "Human exposure and Health impacts of Air Pollution"
 layout: single-portfolio
 excerpt: "<img src='/assets/images/research/human_exposure.png' alt=''>"
 collection: research
