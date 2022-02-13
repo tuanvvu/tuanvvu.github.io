@@ -10,7 +10,7 @@ header:
 
 
 
-##### Main research projects
+#### Main research projects
 
 1. [**WellHome**](https://gtr.ukri.org/projects?ref=NE%2FW002116%2F1#/tabOverview): West London Healthy Home and Environment Study, NERC £2.9m, *Role:* **Research co-PI**, 2021-2025.
 2. [**APeX**](https://gtr.ukri.org/project/6D2FF57F-BE97-4070-B074-685CC802D05F): An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme, NERC £1.4m, Researcher, 2019-2022.
