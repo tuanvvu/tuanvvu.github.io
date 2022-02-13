@@ -1,20 +1,21 @@
 ---
 layout: single
 title: ""
+classes: wide
 permalink: /publications/
 author_profile: true
-header:
-  teaser: /assets/images/onkk.hn.bk.2.png
+#header:
+#  teaser: /assets/images/onkk.hn.bk.2.png
 ---
+
+Some papers organized by topic (please see [Google Schoolar](https://scholar.google.com/citations?user=RMcjLFEAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Tuan-V-Vu) for full list)
 
 ##### Principal research publications
 
-[1] Roy M. Harrison, Tuan, V. Vu, Hanan Jafar, and Zongbo Shi. “More mileage in reducing urban air pollution from
-road traffic”. In: Environment International 149 (2021), p. 106329.
-
-[2] Zongbo Shi, Congbo Song, Bowen Liu, Gongda Lu, Jingsha Xu, Tuan, V. Vu, Robert J. R. Elliott, Weijun Li,
-William J. Bloss, and Roy M. Harrison. “Abrupt but smaller than expected changes in surface air quality attributable
-to COVID-19 lockdowns”. In: Science Advances 7 (2021), eabd6696.
+[1] [More mileage in reducing urban air pollution from
+road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*
+[2] [Abrupt but smaller than expected changes in surface air quality attributable
+to COVID-19 lockdowns.](https://www.researchgate.net/publication/348475570_Abrupt_but_smaller_than_expected_changes_in_surface_air_quality_attributable_to_COVID-19_lockdowns) *In: Science Advances 7 (2021), eabd6696*
 
 [3] Tuan, V. Vu, Zongbo Shi, and Roy M. Harrison. “Estimation of hygroscopic growth properties of source-related
 sub-micrometre particle types in a mixed urban aerosol”. In: npj Climate and Atmospheric Science 4 (2021), p. 21.
