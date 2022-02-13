@@ -14,7 +14,7 @@ from *emissions* through *atmospheric physico-chemical transformations* and *int
 
 I am also interested in applied **machine learning** for air quality modelling. 
 
-##### Current work and research topics
+#### Current work and research topics
 
 My current work is to develop a new **Hybrid Exposure Model (ERG-HEM)** to estimate human exposure and dose to air pollution.   
 This model integrates the outdoor air pollution dispersion model (CMAQ-Urban, grid of 20x20m), indoor-outdoor air exchange model (CONTAM/EnergyPlus models,
