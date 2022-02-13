@@ -19,7 +19,7 @@ Below papers organized by topic (please see my [CV](https://tuanvvu.github.io/pr
 3. [Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique.](https://www.researchgate.net/publication/335670835_Assessing_the_impact_of_clean_air_action_on_air_quality_trends_in_Beijing_using_a_machine_learning_technique) *In: Atmos. Chem. Phys. 19 (2019), pp. 11303–11314*  
 4. [Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor to indoor environments.](https://www.researchgate.net/publication/324884453_Factors_controlling_the_lung_dose_of_road_traffic-generated_sub-micrometre_aerosols_from_outdoor_to_indoor_environments) *In: Air Quality, Atmosphere and
 Health 11 (2018), pp. 615–625*    
-5. [Physical properties and lung deposition of particles emitted from five major indoor sources.](https://www.researchgate.net/publication/306525152_Physical_properties_and_lung_deposition_of_particles_emitted_from_five_major_indoor_sources) *In: Air quality,atmosphere & health 10 (2017), pp. 1–14*
+5. [Loss processes affecting submicrometer particles in a house heavily affected by road traffic emissions.](https://www.researchgate.net/publication/317630596_Loss_processes_affecting_submicrometre_particles_in_a_house_heavily_affected_by_road_traffic_emissions) *In: Aerosol Science and Technology 51 (2017), pp. 1201–1211*
 
 ##### I. Sources Apportionment of Air Pollutants
 
