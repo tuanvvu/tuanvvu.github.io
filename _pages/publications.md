@@ -14,10 +14,8 @@ Below papers organized by topic (please see my [CV](https://tuanvvu.github.io/pr
 
 ##### Selected papers
 
-1. [More mileage in reducing urban air pollution from
-road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*  
-2. [Abrupt but smaller than expected changes in surface air quality attributable
-to COVID-19 lockdowns.](https://www.researchgate.net/publication/348475570_Abrupt_but_smaller_than_expected_changes_in_surface_air_quality_attributable_to_COVID-19_lockdowns) *In: Science Advances 7 (2021), eabd6696*  
+1. [More mileage in reducing urban air pollution from road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*  
+2. [Abrupt but smaller than expected changes in surface air quality attributable to COVID-19 lockdowns.](https://www.researchgate.net/publication/348475570_Abrupt_but_smaller_than_expected_changes_in_surface_air_quality_attributable_to_COVID-19_lockdowns) *In: Science Advances 7 (2021), eabd6696*  
 3. [Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique.](https://www.researchgate.net/publication/335670835_Assessing_the_impact_of_clean_air_action_on_air_quality_trends_in_Beijing_using_a_machine_learning_technique) *In: Atmos. Chem. Phys. 19 (2019), pp. 11303–11314*  
 4. [Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor to indoor environments.](https://www.researchgate.net/publication/324884453_Factors_controlling_the_lung_dose_of_road_traffic-generated_sub-micrometre_aerosols_from_outdoor_to_indoor_environments) *In: Air Quality, Atmosphere and
 Health 11 (2018), pp. 615–625*    
