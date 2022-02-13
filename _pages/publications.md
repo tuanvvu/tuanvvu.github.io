@@ -75,7 +75,7 @@ direct-infusion ultrahigh-resolution mass spectrometry.](https://www.researchgat
 ##### V. Risk Assessment, Lung Deposition and Health Impacts of Air Pollution
 
 1. [Atmospheric conditions and composition that influence PM2.5 oxidative potential in
-Beijing, China.] (https://www.researchgate.net/publication/350821749_Atmospheric_conditions_and_composition_that_influence_PM25_oxidative_potential_in_Beijing_China) *In: Atmos. Chem. Phys.21 (2021), pp.5549–5573*  
+Beijing, China.](https://www.researchgate.net/publication/350821749_Atmospheric_conditions_and_composition_that_influence_PM25_oxidative_potential_in_Beijing_China) *In: Atmos. Chem. Phys.21 (2021), pp.5549–5573*  
 2. [Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor to indoor environments.](https://www.researchgate.net/publication/324884453_Factors_controlling_the_lung_dose_of_road_traffic-generated_sub-micrometre_aerosols_from_outdoor_to_indoor_environments) *In: Air Quality, Atmosphere and Health 11 (2018), pp. 615–625*  
 3. [Physical properties and lung deposition of particles emitted from five major indoor sources.](https://www.researchgate.net/publication/306525152_Physical_properties_and_lung_deposition_of_particles_emitted_from_five_major_indoor_sources) *In: Air quality,atmosphere & health 10 (2017), pp. 1–14*
 4. [Source apportionment of the lung dose of ambient submicrometre particulate matter.](https://www.researchgate.net/publication/288056696_Source_Apportionment_of_the_Lung_Dose_of_Ambient_Submicrometre_Particulate_Matter) *In: Aerosol and Air Quality Research 16 (2016), pp. 1548–1557*  
