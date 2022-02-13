@@ -8,11 +8,11 @@ author_profile: true
 #  teaser: /assets/images/onkk.hn.bk.2.png
 ---
 
-#### Publications
-
+### Publications
+  
 Below papers organized by topic (please see my [CV](https://tuanvvu.github.io/profile/CV_tuanvu.pdf) or [Google Schoolar](https://scholar.google.com/citations?user=RMcjLFEAAAAJ&hl=en)/[Research Gate](https://www.researchgate.net/profile/Tuan-V-Vu) for full list)
 
-##### Selected research publications
+##### Selected papers
 
 1. [More mileage in reducing urban air pollution from
 road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*  
