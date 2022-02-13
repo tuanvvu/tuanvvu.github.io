@@ -1,7 +1,7 @@
 ---
 title: "Indoor-Outdoor Air Pollution Exchange and Building Stock Models"
 layout: single-portfolio
-excerpt: "<img src='/assets/images/research/Physicochemical_properties.png' alt=''>"
+excerpt: "<img src='/assets/images/research/Indoor_outdoor_air_exchange.png' alt=''>"
 collection: research
 order_number: 10
 header: 
