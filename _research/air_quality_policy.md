@@ -8,5 +8,7 @@ header:
   teaser: /assets/images/research/air_quality_policy.png
 ---
 
-My current research is develop a hybird human exposure model to air pollution. 
-This model integrates the CAMQ-Urban model, indoor model, and transportation model.
+In this work, we have applied a **machine learning (i.e Random Forest algorithm)** to analyze trends of air quality.
+We also use our air pollution **dispersion (CMAQ-urban) model** to predict the future air quality in different scenerios.
+
+Please find our publications from the [link](https://github.com/tuanvvu/tuanvvu.github.io/blob/master/_pages/publications.md#ii-air-quality-policies).
