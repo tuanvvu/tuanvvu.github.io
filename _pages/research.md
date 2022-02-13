@@ -22,7 +22,7 @@ UK Building Stock model) and transportation models (mass balance model, ABM and 
 
 Before joining [ERG air pollution modelling team](https://www.imperial.ac.uk/school-public-health/environmental-research-group/research/modelling/), I carried out many air pollution sampling campaigns (in the UK, EU, China, India, etc.) and labwork using [a wide range of measurement techniques](https://tuanvvu.github.io/profile/other.html). 
 
-**My research topics:** 1) Human exposure and health impacts of air pollution; 2) Air quality policy; 3) Indoor-outdoor air and building stock models;  4) Source apportionment of PM2.5; 5) Physico-chemical properties of air pollutants (please find more details below).
+**Research topics:** 1) Human exposure and health impacts of air pollution; 2) Air quality policy; 3) Indoor-outdoor air and building stock models;  4) Source apportionment of PM2.5; 5) Physico-chemical properties of air pollutants (please find more details below).
 
 <nbsp>
 
