@@ -8,6 +8,6 @@ header:
   teaser: /assets/images/research/human_exposure.png
 ---
 
-My current research is develop a hybird human exposure model to air pollution. 
-This model integrates the CAMQ-Urban model, indoor model, and transportation model.
+My current research focuses on developing a new Hybird Human Exposure Model to air pollution. 
+
 
