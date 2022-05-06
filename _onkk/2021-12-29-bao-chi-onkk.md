@@ -9,17 +9,18 @@ header:
   teaser: /assets/images/onkk.guardian.png
 ---
 
-### Ô nhiễm không khí từ báo chí nước ta
+### Ô nhiễm không khí nhìn từ báo chí nước ta
 
 Những năm gần đây vấn đề ô nhiễm không khí (ONKK) đã được nhận được sự phản ảnh nhiều hơn từ các cơ quan truyền thông báo chí.
-Tuy vậy, khi lướt qua nhiều tờ báo mạng lớn ở nước ta không có chuyên mục về môi trường và thông tin về ONKK rất ít.
+Tuy vậy, khi lướt qua nhiều tờ báo mạng lớn ở nước ta không có chuyên mục riêng về môi trường và thông tin về ONKK rất khiêm tốn.
 Cứ mỗi đợt ONKK kéo dài vào mùa đông, vấn đề này lại rộ lên trên báo chí vài bữa rồi tắt ngấm sau đó. 
-Điều này làm tôi có cảm tưởng chúng ta đang tuyên truyền về ONKK theo phong trào, chứ chưa có một kế hoạch hay lộ trình cụ thể.
+Điều này làm tôi có cảm tưởng chúng ta đang tuyên truyền về ONKK theo phong trào.
+Cũng như một số chiến lược về cải thiện chất lượng môi trường cũng như chất lương không khí của bộ/ngành, vẫn cứ chung chung chứ thực ra chưa có một kế hoạch hay lộ trình cụ thể.
 
 Mặc dù vấn đề ONKK ở nước ta đã xảy ra trầm trọng hơn chục năm qua, 
 đây vẫn được cho là vấn đề mới do có tính phức tạp hơn so với ô nhiễm thực phẩm, nguồn nước hay đất. 
 Thêm vào đó, tuy ảnh hưởng của ONKK tới sức khỏe người dân là rất lớn nhưng lại không rõ mồn một hay nhãn tiền như ngộ độc thực phẩm.
-Thực tế nhiều người dân và nhiều cấp chính quyền cơ sở vẫn chưa nhận thức đầy đủ được sự nguy hại của ONKK.
+Dẫn tới, thực tế nhiều người dân và nhiều cấp chính quyền cơ sở vẫn chưa nhận thức đầy đủ được sự nguy hại của ONKK.
 Trên truyền thông, chúng ta gặp nhiều tin bài về cam kết của chính phủ về tăng trưởng xanh, 
 nền kinh tế tuần hoàn hay tuyên bố không đánh đổi kinh tế
 với môi trường, tuy vậy các cấp quản lý từ trung ương tới địa phương có thật 
