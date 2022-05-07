@@ -15,20 +15,18 @@ Những năm gần đây vấn đề ô nhiễm không khí (ONKK) đã được
 Tuy vậy, khi lướt qua nhiều tờ báo mạng lớn ở nước ta không có chuyên mục riêng về môi trường và thông tin về ONKK rất khiêm tốn.
 Cứ mỗi đợt ONKK kéo dài vào mùa đông, vấn đề này lại rộ lên trên báo chí vài bữa rồi tắt ngấm sau đó. 
 Điều này làm tôi có cảm tưởng chúng ta đang tuyên truyền về ONKK theo phong trào.
-Cũng như một số chiến lược về cải thiện chất lượng môi trường cũng như chất lương không khí của bộ/ngành, vẫn cứ chung chung chứ thực ra chưa có một kế hoạch hay lộ trình cụ thể.
 
 Mặc dù vấn đề ONKK ở nước ta đã xảy ra trầm trọng hơn chục năm qua, 
 đây vẫn được cho là vấn đề mới do có tính phức tạp hơn so với ô nhiễm thực phẩm, nguồn nước hay đất. 
 Thêm vào đó, tuy ảnh hưởng của ONKK tới sức khỏe người dân là rất lớn nhưng lại không rõ mồn một hay nhãn tiền như ngộ độc thực phẩm.
-Dẫn tới, thực tế nhiều người dân và nhiều cấp chính quyền cơ sở vẫn chưa nhận thức đầy đủ được sự nguy hại của ONKK.
+Dẫn tới, thực tế nhiều người dân và nhiều cấp chính quyền cơ sở và trung ương vẫn chưa nhận thức đầy đủ được sự nguy hại của ONKK.
 Trên truyền thông, chúng ta gặp nhiều tin bài về cam kết của chính phủ về tăng trưởng xanh, 
 nền kinh tế tuần hoàn hay tuyên bố không đánh đổi kinh tế
-với môi trường, tuy vậy các cấp quản lý từ trung ương tới địa phương có thật 
-sự hiểu rõ về nền kinh tế toàn và tác hại của ô nhiễm môi trường đặc biệt là về 
-ONKK hay tăng trưởng xanh chỉ là khẩu hiệu tuyên truyền?
+với môi trường, tôi tự hỏi các cấp quản lý từ trung ương tới địa phương có thật 
+sự hiểu rõ về nền kinh tế tuần hoàn và tác hại của ô nhiễm môi trường? Tôi cho rằng chúng ta cần những tin bài cụ thể, và có chiều sâu hơn là những bài viết tuyên truyền, chung chung hay cảm tính.
 
 Sự quan tâm của công chúng và truyền thông hiện nay ở nước ta có lẽ chưa đủ lớn để tạo nên sức ép chính trị buộc chính quyền phải có những hành động quyết liệt như ra đạo luật không khí sạch nhằm cải thiện chất lượng không khí. 
-Do đó, nâng cao nhận thức của người dân và cả những người làm quản lý cũng như các phóng viên môi trường về vấn đề này là rất quan trọng. Tuy vậy, đây là một việc không đơn giản và đòi hỏi sự tham gia nhiều hơn của các nhà nghiên cứu khoa học.
+Do đó, nâng cao nhận thức của người dân và cả những người làm quản lý cũng như các phóng viên môi trường về vấn đề này là rất quan trọng. Tuy vậy, đây là một việc không đơn giản và đòi hỏi sự tham gia nhiều hơn của các nhà nghiên cứu khoa học. 
 
 ### Báo chí nước ngoài quan tâm tới vấn đề môi trường và ONKK như thế nào?
 
@@ -41,6 +39,7 @@ với nhiều thông tin thiết thực và đa dạng từ ONKK tới biến đ
 
 Trong trang tin này, anh bạn đồng nghiệp, tiến sĩ Fuller, đều đặn viết 2 bài mỗi tháng về tình hình ONKK trong 8 năm qua.
 Đây đều là những bài báo hoặc tin cho đại chúng nhưng chứa nhiều thông tin học thuật hữu ích được trình bày một cách rất dễ hiểu.
+Sự tham gia nhiều hơn của các nhà khoa học và chuyên gia thực sự sẽ đưa những thông tin chính xác hơn tới người dân cũng chống lại những thông tin giả hay dân túy tràn lan trên mạng hiện nay.   
 
 Tôi hi vọng các trang tin và báo chí nước nhà cũng sẽ có một chuyên mục riêng về môi trường,
 nơi đó không những phản ảnh tình hình ô nhiễm mà còn mang kiến thức tới người dân hàng ngày.
