@@ -8,8 +8,7 @@ author_profile: true
 
 ---
 
-Bữa rồi đi ăn phở ở [Soho](https://vi.wikipedia.org/wiki/Soho), một khu phố nhộn nhịp ở trung tâm Luân-Đôn, tự nhiên lại nhớ tới ông "cụ" (người ai cũng biết là ai ở nước Nam ta). 
-Là một người yêu thích chuyện xưa và thích tưởng tượng nên tôi ghi chép một số thông tin ra đây làm vui trong lúc nghỉ lễ tết.
+Bữa rồi đi ăn phở ở [Soho](https://vi.wikipedia.org/wiki/Soho), một khu phố nhộn nhịp ở trung tâm Luân-Đôn, tự nhiên lại nhớ tới ông "cụ" (người ai cũng biết là ai ở nước Nam ta). Rảnh việc nên tôi ghi chép một số thông tin ra đây làm vui trong lúc nghỉ lễ tết.
 
 ### Ông cụ ở Luân-Đôn
 
@@ -21,7 +20,7 @@ Khu Soho bây giờ vẫn rất nhộn nhịp, có phố Tàu- nơi chắc chắ
 Đối với người Việt tha hương, dù là cộng sản hay không cộng sản, mùi vị những món ăn quê nhà là điều không thể nào quên.
 
 Khoảng 65 năm trước khi ông cụ sang Anh, cụ Các-Mác, ông tổ của chủ nghĩa cộng sản, cũng bắt đầu cuộc sống tha hương ở khu Soho, cụ thể ở số nhà 28 [đường Dean](https://www.google.com/maps/place/Dean+St,+London+W1D+3RY/@51.5142667,-0.134924,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d3259c77ff:0x7d244d6746a23bc9!8m2!3d51.514277!4d-0.1326631), cách chỗ ông cụ chỉ tầm 10 phút đi bộ! 
-Lúc ấy không biết ông cụ có mình ngay gần chỗ ở với người thầy vĩ đại của vô sản thế giới không, hehe. 
+Lúc ấy không biết ông cụ có mình ngay gần chỗ ở với "người thầy vĩ đại" của vô sản thế giới không, hehe. 
 Sự biết tới chủ nghĩa cộng sản của ông cụ ở Luân-Đôn tới giờ vẫn đang còn là câu hỏi chưa có lời đáp.
 
 Ngay cả thời điểm ông cụ ở Luân-Đôn cũng còn gây một số tranh cãi. 
@@ -33,22 +32,23 @@ Thời điểm trở lại Pháp cũng có một số nhận định khác, như
 Tuy vậy, đa số đều nhận định ông cụ tới Anh Quốc vào đầu năm 1913 và rời Anh tới Pháp vào cuối 1917, tổng cộng là gần 5 năm.
 
 Trong ["Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch"](http://www.talawas.org/talaDB/showFile.php?res=9151&rb=08)
-ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". Là dân nghiên cứu khí quyển nên tôi khá thích thông tin này. Luân-Đôn lâu lắm rồi cũng không có tuyết,
+ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". Là dân nghiên cứu khí quyển nên tôi khá thích thông tin này. 
+Luân-Đôn lâu lắm rồi cũng không có tuyết,
 hoặc chỉ có một ít vài hạt li ti. Hôm tối đi ăn phở, trời mùa đông, cũng lạnh lắm, nhưng không có tuyết.
 
-Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều. Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố đã nóng hơn nhiều so với trước kia.
+Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều. Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố thời nay đã nóng hơn nhiều so với trước kia.
 
 Tìm hiểu về lịch sử đo đạc của Anh Quốc khiến tôi rất ấn tượng, họ đã xây dựng những trạm đo từ thế kỷ 19.
-Thảo nào họ mạnh về khoa học khí quyển vậy, bởi vì họ có số liệu rất khoa học và đây là những số liệu rất quan trọng trong
-các mô hình để dự báo thời tiết. Phương ngôn "Thấy tương lai từ quá khứ" ấy là vậy!
+Thảo nào họ mạnh về khoa học khí quyển tới vậy. Những số liệu được thu thập rất khoa học từ cách đây cả 2 thế kỷ chính là những dữ liệu rất quan trọng trong việc phát triển và đánh giá các mô hình để dự báo thời tiết. 
+Phương ngôn "Thấy tương lai từ quá khứ" ấy là vậy!
 Việt Nam ta thì tới số liệu đo đạc bụi cũng không có liên tục vì nhiều bác lãnh đạo nghĩ đo cũng có để làm gì đâu!
 
 Khi nào có thời gian, tôi nhất định vào vào thư khố để tra cứu xem những đợt tuyết đó xảy ra vào năm, tháng và ngày nào và độ tuyết dày bao nhiêu mà làm ông cụ "Một công việc rất mệt nhọc. Mình mẩy tôi đẫm mồ hôi mà tay chân thì rét cóng. Sau tám giờ làm công việc này, tôi mệt lử và đói bụng. Tôi đành phải bỏ việc". Tra cứu thêm quãng đường tàu đi từ Mỹ sang Anh biết đâu có thể ước lượng được thời điểm ông cụ đặt chân tới Anh.
 
-### Làm, học, ăn, yêu và chơi ở Luân-Đôn
+### Làm, ăn, học và chơi ở Luân-Đôn
 
-Như vậy thì ông cụ ở Anh Quốc khi ông cụ đang thời thanh xuân sôi nổi (23-27 tuổi). 
-Như bao người yêu chuyện xưa, tôi luôn tò mò về đời sống của người thanh niên yêu nước ấy.
+Như vậy thì ông cụ ở Anh Quốc khi ông cụ đang thời "thanh xuân sôi nổi" (23-27 tuổi). 
+Vốn bản tính hay lắm chuyện, tôi luôn tò mò về đời sống của người thanh niên "tìm đường cứu nước" khi ở xứ sở sương mù ấy.
 
 Thời gian đầu ông cụ sống ở Anh rất vất vả. Sau khi cào tuyết thât bại, ông cụ đã chuyển sang làm công việc đốt lò.
 Ơ, hóa ra cụ tổng "đốt lò" hiện tại đang kế thừa công việc trước kia của ông cụ!
@@ -72,18 +72,32 @@ May là ông cụ không chịu nổi và đã nghỉ việc sau hai tuần.
 ### Lương ông cụ
 
 Thế là tôi đâm tìm hiểu xem hồi đó ông cụ được trả công bao nhiêu và học hành ra sao.
-Khi ông cụ cào tuyết tám tiếng cho một trường học, được ông hiệu trưởng tốt bụng "trả cho tôi cả ngày làm việc sáu đồng".
+Khi ông cụ cào tuyết tám tiếng cho một trường học, được ông hiệu trưởng "trả cho tôi cả ngày làm việc sáu đồng".
 Ông hiệu trưởng quả thật tốt bụng! Sáu đồng hồi đó tương đương tầm 120 đồng (£) bây giờ (?), như vậy là hơn mức lương cơ bản 
 và có lẽ đủ ông cụ sống tằn tiện một tuần.
 Nên nhớ trước đó khi ông cụ đi ở cho một nhà giàu bên Mỹ, một tháng lương của ông cụ chỉ được $44 và những năm 60s khi ông cụ làm 
 chủ tịch nước thì lương ông cụ còn thấp hơn có $40/tháng. (Sẽ nói thu nhập thời kì đỉnh cao của ông cụ sau, he he).
 
-Lúc làm đốt lò thì ông cụ có lẽ được trả mức lương cơ bản hoặc thấp hơn. Sau hai tuần làm việc đã đủ thể để ông cụ "trả tiền phòng, tiền bơ và bánh mì, và sáu bài học chữ Anh". Và khi chỉ còn sáu hào, thì ông cụ đến sở tìm việc ở Soho, và bắt đầu công việc chạy bàn.
+Lúc làm đốt lò thì ông cụ có lẽ được trả mức lương cơ bản hồi đó hoặc thấp hơn. 
+Sau hai tuần làm việc đã đủ thể để ông cụ "trả tiền phòng, tiền bơ và bánh mì, và sáu bài học chữ Anh". Và khi chỉ còn sáu hào, thì ông cụ đến sở tìm việc ở Soho, và bắt đầu công việc chạy bàn.
+
+Ông cụ hồi đó sang Luân-Đôn, tiếng tăm thì bập bè vậy mà vẫn năng động làm đủ mọi việc để có ăn và học tiếng. 
+Nếu ông cụ không quen ai thì tính ra hồi đó ở Anh Quốc cũng khá dễ kiếm việc chân tay :)
 
 Kể từ khi sang Anh, ông cụ rất chịu khó học hành (haizz, thiệt là so với tiền nhân thì tôi thấy bây giờ chúng tôi còn phải học dài về sự tự học!). Ông cụ có biên thư cho cụ Phan Châu Trinh bên Pháp như sau: "Nay cháu đã tìm được nơi để học tiếng. 
 Mấy 4 tháng rưỡi nay thì chỉ làm với Tây, nói tiếng Tây luôn luôn. 
 Tuy ở Anh song chẳng khác gì ở Pháp và tháng ngày luống những chỉ lo làm khỏi đói, chớ chẳng học được bao nhiêu. 
 Và cháu ước ao rằng 4, 5 tháng nữa lúc gặp Bác thì sẽ nói và hiểu được tiếng Anh nhiều nhiều".
 
-P/S: Chuyện kỳ này đã dài, lần nào rảnh viết tiếp chứ chuyện ông cụ ở Luân-Đôn còn rất hấp dẫn hơn cả phim ấy chớ như việc ông cụ có học trường nào không, gặp những ai, chơi gì (bên Pháp ông cụ thi thoáng đi pubs oánh bi-da, có lẽ do học từ khi làm ở bên Anh or trên tàu, hehe), có đi lính không? Lần sau xin hầu tiếp.
-(Còn nữa!)
+Sau đó ông cụ được nhận làm trong "team" đầu bếp nổi tiếng Ét-cốt–phi–e.
+Lại trong những mẩu chuyện, "bạn ông cụ" kể: "Công việc làm từ tám giờ đến mười hai giờ và chiều từ năm giờ đến mười giờ. Hàng ngày, buổi sáng sớm và buổi chiều, anh Ba ngồi trong vườn hoa Hay–đơ (Hyde), tay cầm một quyển sách và một cái bút chì. Hàng tuần vào ngày nghỉ, anh đi học tiếng Anh với một giáo sư người Ý" - Cứ chiểu theo đây thì ông cụ làm ngày 10-12 tiếng, thời gian này hợp lý đối với người làm nhà hàng. 
+Nhưng không hiểu sao ông cụ không học tiếng Anh với thầy giáo người Anh, lại đi học với người Ý?
+Vườn hoa Hay-đơ chắc là công viên Hyde Park bây giờ, đây là công viên rộng tới 140 ha, trung tâm thủ đô và được coi là lá phổi của Luân-Đôn.
+
+Luân-Đôn cũng chính là nơi "Tuyên ngôn của Đảng Cộng Sản" được xuất bản lần đầu tiên bằng tiếng Đức năm 1848 rồi sau đó bằng tiếng Anh 2 năm sau đó, cách thời điểm ông cụ tới khoảng 60 năm. Nhưng có lẽ ông cụ lúc đó cũng chưa có điều kiện tiếp xúc hay quan tâm tới các trước tác của ông Mác.
+Sau này khi tham dự vào đảng xã hội Pháp, ông cụ thừa nhận ông cụ không hiểu mô tê gì về "chủ nghĩa tư bản, giai cấp vô sản, bóc lột, chủ nghĩa xã hội, cách mạng, không tưởng khoa học, Xi–mông, Phu–ri–ê, Mác". Thậm chí ông cụ còn nhức đầu vì khó hiểu.
+
+Có lẽ do học với giáo sư người Ý nên ông cụ lại thích đọc Rô-meo-ô và Ju-li-ét- hay Ô-li-vơ Truýt hơn :D
+
+P/S: Chuyện kỳ này đã dài, lần nào rảnh viết tiếp chứ chuyện ông cụ ở Luân-Đôn còn rất hấp dẫn hơn cả phim ấy chớ như việc ông cụ có học trường nào không, gặp những ai, chơi gì (bên Pháp ông cụ thi thoáng đi pubs oánh bi-da, có lẽ do học từ khi làm ở bên Anh or trên tàu, hehe), có đi lính không? À mà ông cụ đang tuổi thanh niên, chắc phải có yêu nữa chứ- không biết cụ có "cục gạch" nào ở Luân-Đôn để sưởi ấm như ở Pa-ri không nhỉ? Lần sau xin hầu tiếp.
+
