@@ -43,8 +43,9 @@ Health 11 (2018), pp. 615–625*
 4. [More mileage in reducing urban air pollution from road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*  
 5. [Assessment of strict autumn-winter emission controls on air quality in the Beijing-Tianjin-Hebei region.](https://www.researchgate.net/publication/353645786_Assessment_of_strict_autumn-winter_emission_controls_on_air_quality_in_the_Beijing-Tianjin-Hebei_region) *In: Atmos. Chem. Phys. Discussion (2021)*  
 6. [Significant changes in chemistry of fine particles in wintertime Beijing from 2007 to 2017: impact of clean air actions.](https://www.researchgate.net/publication/337546924_Significant_Changes_in_Chemistry_of_Fine_Particles_in_Wintertime_Beijing_from_2007_to_2017_Impact_of_Clean_Air_Actions) *In: Environmental Science and Technology 54 (2020), pp. 1344–1352*  
-7. [Assessing the impact of traffic emissions on fine particulate matter and carbon monoxide levels in Hanoi through COVID-19 social distancing periods.](https://www.researchgate.net/publication/353487709_Assessing_the_Impact_of_Traffic_Emissions_on_Fine_Particulate_Matter_and_Carbon_Monoxide_Levels_in_Hanoi_through_COVID-19_Social_Distancing_Periods) *In:
-Aerosol and Air Quality Research 21 (2021), p. 210081*
+7. [Assessing the impact of traffic emissions on fine particulate matter and carbon monoxide levels in Hanoi through COVID-19 social distancing periods.](https://www.researchgate.net/publication/353487709_Assessing_the_Impact_of_Traffic_Emissions_on_Fine_Particulate_Matter_and_Carbon_Monoxide_Levels_in_Hanoi_through_COVID-19_Social_Distancing_Periods) *In: Aerosol and Air Quality Research 21 (2021), p. 210081*
+8. [A Review of Characteristics, Causes, and Formation Mechanisms of Haze in Southeast Asia.]([https://www.researchgate.net/publication/353487709_Assessing_the_Impact_of_Traffic_Emissions_on_Fine_Particulate_Matter_and_Carbon_Monoxide_Levels_in_Hanoi_through_COVID-19_Social_Distancing_Periods](https://www.researchgate.net/publication/360948861_A_Review_of_Characteristics_Causes_and_Formation_Mechanisms_of_Haze_in_Southeast_Asia)) *In:
+Current Pollution Reports (2022), May*
 
 ##### III. Indoor vs Outdoor Air Pollution
 
@@ -84,31 +85,3 @@ Beijing, China.](https://www.researchgate.net/publication/350821749_Atmospheric_
 5. [A review of hygroscopic growth factors of submicron aerosols from different sources and its implication for calculation of lung deposition efficiency of ambient aerosols.](https://www.researchgate.net/publication/281123111_A_review_of_hygroscopic_growth_factors_of_submicron_aerosols_from_different_sources_and_its_implication_for_calculation_of_lung_deposition_efficiency_of_ambient_aerosols) *In: Air Quality, Atmosphere and Health 8 (2015), pp. 429–440*  
 6. [Assessment of carcinogenic risk due to inhalation of polycyclic aromatic hydrocarbons in PM10 from an industrial city: A Korean case-study.](https://www.researchgate.net/publication/50375596_Assessment_of_carcinogenic_risk_due_to_inhalation_of_polycyclic_aromatic_hydrocarbons_in_PM10_from_an_industrial_city_A_Korean_case-study) *In: Journal of Hazardous Materials 189 (2011), pp. 349–356*
 7. [Sources, distribution and toxicity of polyaromatic hydrocarbons (PAHs) in particulate matter.](https://www.researchgate.net/publication/221909149_Sources_Distribution_and_Toxicity_of_Polyaromatic_Hydrocarbons_PAHs_in_Particulate_Matter) *In: Air Pollution, Vanda Villanyi, IntechOpen, 2010* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
