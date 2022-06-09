@@ -43,11 +43,11 @@ Anh X lại hỏi tiếp: Chú thấy thủ đô có thay đổi gì không?
 
 Tôi mới về được có vài ngày, đã đi được mấy mà "chém". 
 Thôi thì nhìn quanh cái bờ hồ và quang cảnh bên đường, tôi bạo dạn: Thay đổi ác anh ơi! 
-Chúng ta đã bê tông hóa hoàn toàn thủ đô.
+Thủ đô đã hoàn toàn được bê tông mông má.
 
 Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoại thành nông thôn nữa đấy nhé!
 
-Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu họ cũng đã nông thôn hóa thành thị thành công không kém, mà nghĩ lại thôi.
+Định nói với anh là ngoài xi-măng hóa thì từ lâu họ cũng đã nông thôn hóa thành thị thành công không kém, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
 Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất: Ấy là cái đôi câu đối lệch treo trước quán, hihi :)
 
