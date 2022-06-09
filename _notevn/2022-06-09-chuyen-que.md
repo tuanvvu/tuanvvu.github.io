@@ -18,7 +18,7 @@ Ngoại trừ việc mệt mỏi xếp hàng dài khai báo y tế khi nhập c�
 Khi nhìn vào chính sách ze-rô Covid bên Tàu hay việc nhập cảnh rườm rà của Thái Lan, 
 tôi cảm thấy vui vì lần này nước nhà đã có chính sách mở và đúng đắn hơn các nước láng giếng! (Sau hai năm vật vã vì đại dịch).
 
-Lần này về vui, được gặp nhiều người, cũ lẫn mới. Toàn chuyện vui nên tôi ghi ra đây một vài chuyện làm kỷ niệm.
+Lần này về vui, được gặp nhiều người, cũ lẫn mới. Toàn chuyện thú vị nên tôi ghi ra đây một vài chuyện làm kỷ niệm.
 
 ### Chuyện thứ nhất: Gặp anh X- một giảng viên trường kt. 
 
