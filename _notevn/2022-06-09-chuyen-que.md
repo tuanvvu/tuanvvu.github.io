@@ -11,6 +11,7 @@ header:
 
 Tháng rồi nghỉ lễ phục sinh bên Anh, tôi về nước. 
 Lần gần nhất đã cách đây hơn 3 năm (trước lúc đại dịch Covid xảy rả).
+
 Ôi! Thời gian nào có đợi ai, vài chục chuyến về quê như thế biết có còn ở trọ trần gian.
 
 Ngoại trừ việc mệt mỏi xếp hàng dài khai báo y tế khi nhập cảnh tại sân bay Tân Sơn Nhất thì mọi thủ tục khác đều ổn thỏa.
@@ -42,7 +43,7 @@ Chúng ta đã bê tông hóa thành công thủ đô.
 
 Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoại thành nông thôn nữa đấy nhé!
 
-Định nói với anh là ngoài bê tông hóa thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩlại thôi.
+Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
 Tuy nhiên cả hai đầu nhứt trí một cái mãi chưa thấy đổi, ấy là cái khẩu hiểu giăng trước mặt quán :)
 
