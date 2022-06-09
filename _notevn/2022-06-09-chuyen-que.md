@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/notes.khauhieu.jpg
 ---
 
-Tháng rồi nghỉ lễ phục sinh bên Anh, tôi về nước. 
+Tháng tư nghỉ lễ phục sinh, tôi về nước. 
 Lần gần nhất đã 3 năm (trước đại dịch Covid bùng phát vài tháng!).
 
 Ôi! Thời gian nào có đợi ai, vài chục chuyến về quê nữa biết có còn ở trọ trần gian.
