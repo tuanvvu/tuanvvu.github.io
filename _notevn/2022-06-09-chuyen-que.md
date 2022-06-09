@@ -25,15 +25,15 @@ Lần này về vui, được gặp nhiều người, cũ lẫn mới. Toàn chu
 Gặp ở quán Y thơ mộng gần Bờ Hồ. Sau mươi phút tay bắt mặt mừng, gọi ca-phê trà đào, cập nhật gia cảnh.
 Anh X hỏi:
 
-- Thế nào, lâu không về chú thấy sao?
+"-" Thế nào, lâu không về chú thấy sao?
 
-- Dạ, em khỏe (tự nghĩ rõ ngu ngơ vì vừa gặp ảnh đã hỏi khỏe không rồi!)
+"-" Dạ, em khỏe (tự nghĩ rõ ngu ngơ vì vừa gặp ảnh đã hỏi khỏe không rồi!)
 
-- Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh là chú thấy tình hình đất nước ta thế nào?
+"-" Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh là chú thấy tình hình đất nước ta thế nào?
 
 Tôi đùa: 
 
-- Nước em chưa tìm hiểu, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói về mảnh này mảnh kia làm em choáng hết cả đầu, hu hu.
+"-" Nước em chưa tìm hiểu, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói về mảnh này mảnh kia làm em choáng hết cả đầu, hu hu.
 
 Wow! Vậy là anh H thao thao bất tuyệt về sự phát triển kinh tế nước nhà, tựu chung là vầng sáng hửng hồng của phương Đông.
 Tôi thì mù tịt về kinh tế, không có ngo ngoe. 
