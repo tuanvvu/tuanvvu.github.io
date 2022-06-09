@@ -26,7 +26,7 @@ Gặp ở quán Y thơ mộng gần Bờ Hồ. Sau mươi phút tay bắt mặt 
 
 Anh X: Thế nào, lâu không về chú thấy sao?
 
-Tôi: Dạ, em khỏe (tự nghĩ không hiểu gì vì ảnh vừa rồi ảnh mới hỏi khỏe không!)
+Tôi: Dạ, em khỏe (tự nghĩ không hiểu gì vì vừa gặp ảnh đã hỏi khỏe không rồi!)
 
 Anh X: Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh là chú thấy tình hình đất nước ta thế nào?
 
@@ -45,9 +45,9 @@ Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoạ
 
 Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
-Tuy nhiên cả hai đều nhứt trí cao độ một cái mãi chưa thấy đổi thay gì sất, ấy là cái khẩu hiểu giăng trước mặt quán :)
+Tuy nhiên cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất, ấy là cái đôi câu đối lệch giăng trước mặt quán :)
 
-![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp ở bờ hồ- ngày x tháng 4 2022*
+![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp người người trẩy hội ở bờ hồ- đêm tháng 4 2022*
 
 ### Chuyện thứ hai: Gặp chị L
 
