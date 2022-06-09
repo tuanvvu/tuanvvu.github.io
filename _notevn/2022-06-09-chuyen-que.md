@@ -38,14 +38,14 @@ Bữa trước có thấy bảng kim ngạch xuất nhập khẩu giữa nước
 
 Anh X lại hỏi tiếp: Chú thấy thủ đô có thay đổi gì không?
 
-Tôi mới về được có vài ngày, đã đi được mấy mà "chém". Thôi thì nhìn quanh cái bờ hồ và quanh cảnh bên đường, tôi bạo dạn: Thay đổi chứ anh ơi! 
+Tôi mới về được có vài ngày, đã đi được mấy mà "chém". Thôi thì nhìn quanh cái bờ hồ và quang cảnh bên đường, tôi bạo dạn: Thay đổi chứ anh ơi! 
 Chúng ta đã bê tông hóa thành công thủ đô.
 
 Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoại thành nông thôn nữa đấy nhé!
 
 Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
-Tuy nhiên cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất, ấy là cái đôi câu đối lệch giăng trước mặt quán :)
+Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất. Ây là cái đôi câu đối lệch giăng trước mặt quán :)
 
 ![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp người người trẩy hội ở bờ hồ- đêm tháng 4 2022*
 
