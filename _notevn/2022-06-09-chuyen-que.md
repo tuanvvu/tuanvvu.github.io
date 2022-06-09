@@ -10,15 +10,15 @@ header:
 ---
 
 Tháng rồi nghỉ lễ phục sinh bên Anh, tôi về nước. 
-Lần gần nhất đã cách đây hơn 3 năm (trước lúc đại dịch Covid xảy rả).
+Lần gần nhất đã 3 năm (trước đại dịch Covid bùng phát vài tháng!).
 
-Ôi! Thời gian nào có đợi ai, vài chục chuyến về quê như thế biết có còn ở trọ trần gian.
+Ôi! Thời gian nào có đợi ai, vài chục chuyến về quê nữa biết có còn ở trọ trần gian.
 
 Ngoại trừ việc mệt mỏi xếp hàng dài khai báo y tế khi nhập cảnh tại sân bay Tân Sơn Nhất thì mọi thủ tục khác đều ổn thỏa.
 Khi nhìn vào chính sách ze-rô Covid bên Tàu hay việc nhập cảnh rườm rà của Thái Lan, 
 tôi cảm thấy vui vì lần này nước nhà đã có chính sách mở và đúng đắn hơn các nước láng giếng! (Sau hai năm vật vã vì đại dịch).
 
-Lần này về vui, được gặp nhiều người cũ và mới. Toàn chuyện vui nên tôi ghi ra đây một vài chuyện làm kỷ niệm.
+Lần này về vui, được gặp nhiều người, cũ lẫn mới. Toàn chuyện vui nên tôi ghi ra đây một vài chuyện làm kỷ niệm.
 
 ### Chuyện thứ nhất: Gặp anh X- một giảng viên trường kt. 
 
@@ -45,7 +45,7 @@ Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoạ
 
 Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
-Tuy nhiên cả hai đều nhứt trí cao độ một cái mãi chưa thấy đổi gì sất, ấy là cái khẩu hiểu giăng trước mặt quán :)
+Tuy nhiên cả hai đều nhứt trí cao độ một cái mãi chưa thấy đổi thay gì sất, ấy là cái khẩu hiểu giăng trước mặt quán :)
 
 ![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp ở bờ hồ- ngày x tháng 4 2022*
 
