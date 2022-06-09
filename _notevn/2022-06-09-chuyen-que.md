@@ -32,7 +32,7 @@ Anh X: Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh
 
 Tôi đùa: Nước em chưa tìm hiểu, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói về mảnh này mảnh kia làm em choáng hết cả đầu, hu hu.
 
-Wow! Vậy là anh H thao thao bất tuyệt về sự phát triển kinh tế nước nhà, tựu chung là vầng sáng hửng hồng của phương Đông đấy hihi.
+Wow! Vậy là anh H thao thao bất tuyệt về sự phát triển kinh tế nước nhà, tựu chung là vầng sáng hửng hồng của phương Đông.
 Tôi thì mù tịt về kinh tế, không có ngo ngoe. 
 Bữa trước có thấy bảng kim ngạch xuất nhập khẩu giữa nước ta và Tây lẫn Tàu, đoán bừa năm rồi Tàu, Mỹ nó còn khỏe, còn cơm ăn thì ta hãy còn có cháo húp.
 
@@ -45,7 +45,7 @@ Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoạ
 
 Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
-Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất: Ấy là cái đôi câu đối lệch treo trước quán :)
+Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất: Ấy là cái đôi câu đối lệch treo trước quán, hihi :)
 
 ![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp người người trẩy hội ở bờ hồ- đêm tháng 4 2022*
 
