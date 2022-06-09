@@ -1,4 +1,4 @@
----
+ đa---
 title: "Một chuyến về quê"
 comments: true
 date: 2022-06-09 00:00:00 -0000
@@ -22,15 +22,18 @@ Lần này về vui, được gặp nhiều người, cũ lẫn mới. Toàn chu
 
 ### Chuyện thứ nhất: Gặp anh X- một giảng viên trường kt. 
 
-Gặp ở quán Y thơ mộng gần Bờ Hồ. Sau mươi phút tay bắt mặt mừng, gọi ca-phê trà đào, cập nhật gia cảnh,...
+Gặp ở quán Y thơ mộng gần Bờ Hồ. Sau mươi phút tay bắt mặt mừng, gọi ca-phê trà đào, cập nhật gia cảnh.
+Anh X hỏi:
 
-Anh X: Thế nào, lâu không về chú thấy sao?
+- Thế nào, lâu không về chú thấy sao?
 
-Tôi: Dạ, em khỏe (tự nghĩ không hiểu gì vì vừa gặp ảnh đã hỏi khỏe không rồi!)
+- Dạ, em khỏe (tự nghĩ rõ ngu ngơ vì vừa gặp ảnh đã hỏi khỏe không rồi!)
 
-Anh X: Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh là chú thấy tình hình đất nước ta thế nào?
+- Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh là chú thấy tình hình đất nước ta thế nào?
 
-Tôi đùa: Nước em chưa tìm hiểu, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói về mảnh này mảnh kia làm em choáng hết cả đầu, hu hu.
+Tôi đùa: 
+
+- Nước em chưa tìm hiểu, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói về mảnh này mảnh kia làm em choáng hết cả đầu, hu hu.
 
 Wow! Vậy là anh H thao thao bất tuyệt về sự phát triển kinh tế nước nhà, tựu chung là vầng sáng hửng hồng của phương Đông.
 Tôi thì mù tịt về kinh tế, không có ngo ngoe. 
@@ -38,7 +41,8 @@ Bữa trước có thấy bảng kim ngạch xuất nhập khẩu giữa nước
 
 Anh X lại hỏi tiếp: Chú thấy thủ đô có thay đổi gì không?
 
-Tôi mới về được có vài ngày, đã đi được mấy mà "chém". Thôi thì nhìn quanh cái bờ hồ và quang cảnh bên đường, tôi bạo dạn: Thay đổi chứ anh ơi! 
+Tôi mới về được có vài ngày, đã đi được mấy mà "chém". 
+Thôi thì nhìn quanh cái bờ hồ và quang cảnh bên đường, tôi bạo dạn: Thay đổi chứ anh ơi! 
 Chúng ta đã bê tông hóa thành công thủ đô.
 
 Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoại thành nông thôn nữa đấy nhé!
