@@ -45,7 +45,7 @@ Lần này thì anh gật gù: Chúng ta thành công bê tông hóa cả ngoạ
 
 Định nói với anh là ngoài xi-măng hóa thành công thì từ lâu chúng ta cũng đã nông thôn hóa thành thị thành công, mà nghĩ lại thôi.
 Mặc dù chúng tôi còn vài bất đồng quan điểm về một số thay đổi khác. 
-Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất. Ây là cái đôi câu đối lệch giăng trước mặt quán :)
+Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đổi thay gì sất: Ấy là cái đôi câu đối lệch treo trước quán :)
 
 ![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp người người trẩy hội ở bờ hồ- đêm tháng 4 2022*
 
