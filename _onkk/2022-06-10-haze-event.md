@@ -29,7 +29,8 @@ Cũng thiếu những chế tài cho những đợt ONKK do vận chuyển chuy�
 Mỗi đợt kéo dài từ 1-6 ngày và nồng độ bụi trung bình dao động từ 61  tới 116 μg.m-3.
 
 
-![animation]({{ site.url }}/assets/images/onkk.haze.jpg) 
+![animation]({{ site.url }}/assets/images/onkk.haze.jpg)
+
 *Nhứng đợt ô nhiễm nặng ở các thành phố Đông Nam Á, theo nồng độ trung bình ngày của bụi mịn.*
 
 Về mặt địa phương, theo tôi Hà Nội cần có những chính sách cụ thể để tăng cường kiểm soát những đợt ONKK nặng vào mùa đông. 
