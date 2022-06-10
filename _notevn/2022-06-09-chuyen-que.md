@@ -72,8 +72,8 @@ Chị nói đủ thứ trên trời dưới biển, từ ngành chị là giáo 
 Chờ mãi thì chị cũng nhớ tới tôi. Chị hỏi tôi làm về ô nhiễm không khí nhỉ? 
 Chưa kịp trả lời thì chị đã bảo chắc chẳng ai care đâu.
 
-Tôi bảo: vâng, ngành em VN chưa quan tâm. Theo quá trình phát triển thì các nước sẽ quan tâm đất nước đã rồi mới đến không khí.
-Ô nhiễm không khí nhiều khi nó vô hình, người ta thường tí để ý tới cái vô hình lắm, dù ai cũng phải thở hàng ngày.
+Tôi buồn: Vâng, ngành em VN không quan tâm. Các nước nhưu VN sẽ quan tâm ô nhiễm đất, nguồn nước đã rồi mới đến không khí.
+Ô nhiễm không khí nhiều khi nó vô hình, người ta thường ít để ý tới cái vô hình lắm, dù ai cũng phải thở hàng ngày.
 
 Chị đố tôi: Thế T có biết nước mình ô nhiễm gì nhất không?
 Tôi trả lời: Chắc ô nhiễm thực phẩm, thấy ti-vi, tin tức báo chí ra rả suốt.
