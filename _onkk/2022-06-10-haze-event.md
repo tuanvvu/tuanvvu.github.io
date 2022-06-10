@@ -31,7 +31,7 @@ Mỗi đợt kéo dài từ 1-6 ngày và nồng độ bụi trung bình dao đ�
 
 ![animation]({{ site.url }}/assets/images/onkk.haze.jpg)
 
-*Nhứng đợt ô nhiễm nặng ở các thành phố Đông Nam Á, theo nồng độ trung bình ngày của bụi mịn.*
+*Hình: Nhũng đợt ô nhiễm nặng ở các thành phố Đông Nam Á, theo nồng độ trung bình ngày của bụi mịn.*
 
 Về mặt địa phương, theo tôi Hà Nội cần có những chính sách cụ thể để tăng cường kiểm soát những đợt ONKK nặng vào mùa đông. 
 Ngoài ra cũng cần có những cảnh báo sớm và những ứng phó, chỉ dẫn cụ thể cho người dân khi những đợt ONKK này xảy ra.
