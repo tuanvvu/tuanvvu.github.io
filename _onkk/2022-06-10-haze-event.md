@@ -1,5 +1,5 @@
 ---
-title: "Hà Nội cần phải kiểm soát và dự báo những đợt ô nhiễm nặng"
+title: "Hà Nội cần phải kiểm soát và cảnh báo những đợt ô nhiễm nặng"
 comments: true
 date:   2022-06-10 00:00:00 -0000
 layout: single
@@ -10,7 +10,7 @@ header:
 ---
 
 Trong kế hoạch kiểm soát ô nhiễm không khí ở Bắc Kinh giai đoạn 2 (2018-2020) có một điểm rất đang chú ý là họ nhấn mạnh việc cần
-“kiểm soát ô nhiễm vào mùa thu và mùa đông, và tăng cường ứng phó với đợt ô nhiễm không khí (ONKK) nặng”.
+**“kiểm soát ô nhiễm vào mùa thu và mùa đông, và tăng cường ứng phó với đợt ô nhiễm không khí (ONKK) nặng”.**
 
 Những đợt ONKK nặng (haze events) nói trên thường xảy ra vào mùa thu/đông gây ra hậu quả nặng nề về mặt sức khỏe và kinh tế. 
 Nếu giảm được cường độ và biên độ của những đợt ONKK này sẽ giảm được rất đáng kể nồng độ bụi trung bình hàng năm. 
@@ -26,7 +26,7 @@ Còn thiếu nhiều nghiên cứu có chiều sâu về cơ chế hình thành 
 Cũng thiếu những chế tài cho những đợt ONKK do vận chuyển chuyển từ xa giữa các quốc gia ĐNA. 
 
 Ở Hà Nội, theo một nghiên cứu gần đây thì các đợt ONKK này chủ yếu xảy ra vào mùa đông, tầm 10-17 đợt. 
-Mỗi đợt kéo dài từ 1-6 ngày và nồng độ bụi trung bình giao động từ 61  tới 116 μg.m-3.
+Mỗi đợt kéo dài từ 1-6 ngày và nồng độ bụi trung bình dao động từ 61  tới 116 μg.m-3.
 
 
 ![animation]({{ site.url }}/assets/images/onkk.haze.jpg) 
