@@ -75,7 +75,7 @@ Chưa kịp trả lời thì chị đã bảo chắc chẳng ai care đâu.
 Tôi buồn: Vâng, ngành em VN không quan tâm. Các nước nhưu VN sẽ quan tâm ô nhiễm đất, nguồn nước đã rồi mới đến không khí.
 Ô nhiễm không khí nhiều khi nó vô hình, người ta thường ít để ý tới cái vô hình lắm, dù ai cũng phải thở hàng ngày.
 
-Chị đố tôi: Thế T có biết nước mình ô nhiễm gì nhất không?
+Chị đố tôi: Thế T có biết nước mình sợ ô nhiễm gì nhất không?
 Tôi trả lời: Chắc ô nhiễm thực phẩm, thấy ti-vi, tin tức báo chí ra rả suốt.
 
 Chị lắc đầu, nhìn nắng ven hồ rồi chỉ tay gõ gõ lên thái dương chị: Cái này nè. 
