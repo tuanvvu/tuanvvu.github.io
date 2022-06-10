@@ -10,15 +10,15 @@ header:
 ---
 
 Tháng tư nghỉ lễ phục sinh, tôi về nước. 
-Lần về gần nhất đã 3 năm (trước khi đại dịch Covid bùng phát).
+Lần về gần nhất đã 3 năm (ngay trước năm đại dịch Covid bùng phát).
 
 Ôi! Thời gian nào có đợi ai, vài chục chuyến về quê nữa biết có còn ở trọ trần gian.
 
-Ngoại trừ việc mệt mỏi xếp hàng dài khai báo y tế khi nhập cảnh tại sân bay Tân Sơn Nhất thì mọi thủ tục khác đều ổn thỏa.
+Ngoại trừ cảm thấy mệt mỏi xếp hàng dài khai báo y tế khi nhập cảnh tại sân bay Tân Sơn Nhất thì mọi thủ tục khác đều ổn thỏa.
 Khi nhìn vào chính sách ze-rô Covid bên Tàu hay việc nhập cảnh rườm rà của Thái Lan, 
 tôi cảm thấy vui vì lần này nước nhà đã có chính sách mở, đúng đắn và đi trước các nước láng giếng! (Sau hai năm vật vã vì đại dịch).
 
-Lần này về vui, được gặp nhiều người, cũ lẫn mới. Toàn chuyện thú vị nên tôi ghi ra đây một vài chuyện làm kỷ niệm.
+Lần này về được gặp nhiều người, cũ lẫn mới. Toàn chuyện thú vị nên tôi ghi ra đây một vài chuyện làm kỷ niệm.
 
 ### Chuyện thứ nhất: Gặp anh X- tskt. 
 
