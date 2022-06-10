@@ -31,9 +31,9 @@ Tôi nhanh nhẩu: Dạ, em khỏe (tự nghĩ rõ ngu ngơ vì vừa gặp ản
 
 '- Nhìn chú ai chả biết là khỏe rồi. Cái ý văn học của anh là chú thấy tình hình đất nước ta thế nào?'
 
-Chưa tám được gì đã đao to búa lớn quá, tôi đùa: 
-Nước em chưa được đi uống nhiều, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói đầu tư mảnh này miếng nọ làm em choáng hết cả đầu. 
-Ở thêm dăm bữa nữa nó thành đầu đất đúng nghĩa đen luôn hức hức.
+Chưa kịp uống hớp nước mà ảnh hỏi đao to búa lớn quá, tôi đùa: 
+Nước em chưa kịp uống hớp nào, chứ đất thì "sốt" ạ. Gặp ai cũng thấy nói mua mảnh này miếng nọ. 
+Ở thêm dăm bữa nữa đầu em chắc thành đầu đất đúng nghĩa đen luôn.
 
 Wow! Vậy là anh H thao thao bất tuyệt về sự phát triển kinh tế nước nhà, tựu chung là vầng sáng ửng hồng của phương Đông.
 Tôi thì mù tịt về kinh tế, không có ngo ngoe. 
@@ -54,6 +54,35 @@ Tuy vậy cả hai đều nhứt trí cao độ một thứ mãi chưa thấy đ
 ![animation]({{ site.url }}/assets/images/notes.khauhieu.jpg) *Hình chụp người người trẩy hội ở bờ hồ- đêm tháng 4 2022*
 
 ### Chuyện thứ hai: Gặp chị L -tsgd.
+
+Tám một hồi thì chị L tới. Chị L là bạn của tôi và anh X từ thời chúng tôi đi du học.
+Nhìn chị có vẻ ốm đi so với lần gặp trước. Nghe nói chị tập yoga rất đều đặn.
+Khuôn mặt chị tôi không biết dùng từ gì để tả cho đúng được.
+Mắt chị lá răm, miệng hơi rộng và có nốt ruồi nhỏ ở cuối mép. 
+Răng chị đều, trắng muốt.
+Chị hay khoe từ tấm bé ai gặp cũng khen chị nhìn đằm rất có duyên, tất cả là nhờ cái nốt ruồi đó.
+Ấy vậy mà chị còn độc thân. Có lẽ chị muốn thế.
+
+Các bạn chắc thắc mắc tại sao lại tả chị L mà không tả anh X. 
+Thú thật, từ khi chị tới, chị bắn một tràng, tôi chả kịp nói gì. 
+Đành ngồi đực mặt ra nhìn chị. Cơ mà chị nói hay, rất hấp dẫn và nói có duyên thật.
+Thi thoảng chị có hỏi: Em biết không, bla.. Nhưng tôi chưa kịp mở miệng chị đã trả lời luôn rồi.
+Chị nói đủ thứ trên trời dưới biển, từ ngành chị là giáo dục tới cả ngành tôi là môi trường :)
+
+Chờ mãi thì chị cũng nhớ tới tôi. Chị hỏi tôi làm về ô nhiễm không khí nhỉ? 
+Chưa kịp trả lời thì chị đã bảo chắc chẳng ai care đâu.
+
+Tôi bảo: vâng, ngành em VN chưa quan tâm. Theo quá trình phát triển thì các nước sẽ quan tâm đất nước đã rồi mới đến không khí.
+Ô nhiễm không khí nhiều khi nó vô hình, người ta thường tí để ý tới cái vô hình lắm, dù ai cũng phải thở hàng ngày.
+
+Chị đố tôi: Thế T có biết nước mình ô nhiễm gì nhất không?
+Tôi trả lời: Chắc ô nhiễm thực phẩm, thấy ti-vi, tin tức báo chí ra rả suốt.
+
+Chị lắc đầu, nhìn nắng ven hồ rồi chỉ tay lên trán chị: Cái này nè. 
+Ô nhiễm cái này có mấy đời may ra mới rửa được.
+
+Trán chị không cao, nhưng nhìn tổng thể với cặp mặt thì vẫn rất thông minh :)
+
 
 
 
