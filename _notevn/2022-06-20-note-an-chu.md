@@ -47,7 +47,7 @@ Nghe tới đây thì tôi với mấy đứa bấm nhau cười sặc nước.
 
 Khổ! Các cô bác ơi! Cháu nó ngày ngày ăn bánh mì uống sờ-ting thâu đêm ở quán điện tử, bi-da chứ có ăn chữ đâu ạ!
 
-## P/S:
+***Tái bút:***
 
 Câu chuyện trên là kỉ niệm thời đại học mà tôi pót lên mạng xã hội phây-búc mấy tuần trước.
 Vừa pót lên thì thằng C đã còm bóc phốt. Hơn chục năm, tưởng nó đã quên.
