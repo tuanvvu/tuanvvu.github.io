@@ -11,7 +11,7 @@ header:
 
 *Truyện bảy phần rất thật, ba phần gần thật. Tặng anh H- bạn pes*
 
-Hè 2010 về quê thằng T chơi. Có tôi, Cường-bi, Nam-chế, Hùng-pét và tất nhiên là phải có thằng T rồi.
+Hè 2006 về quê thằng T chơi. Có tôi, Cường-bi, Nam-chế, Hùng-pét và tất nhiên là phải có thằng T rồi.
 Hè trước về nhà tôi tám đứa, tính ra rụng ba. 
 
 Đi thi hồi ấy chỉ cốt lấy điểm 5! Dưới 5, thi lại, mất hè.
@@ -45,7 +45,7 @@ Khổ! Các cô bác ơi! Cháu nó ngày ngày ăn bánh mì uống sờ-ting t
 ***Tái bút:***
 
 Câu chuyện trên là kỉ niệm thời đại học mà tôi pót lên mạng xã hội phây-búc mấy tuần trước.
-Vừa pót lên thì thằng C đã còm bóc phốt. Hơn chục năm, tưởng nó đã quên.
+Vừa pót lên thì thằng C đã còm bóc phốt. Gần hai chục năm, tưởng nó đã quên.
 
 Tôi đành thú nhận, thằng T trong câu chuyện trên chính tôi, sinh viên "ăn chữ" ngày nào.
 Nhưng thằng C không nhớ còn có thằng T (T Bê) khác, nó không măy mắn như tôi. 
