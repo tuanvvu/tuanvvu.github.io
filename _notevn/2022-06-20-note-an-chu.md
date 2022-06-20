@@ -54,8 +54,8 @@ Tôi ngụm lặn cuối cùng vẫn còn ra trường được còn nó bị đ
 Thế hệ tôi- giữa 8x- không thiếu những học sinh cấp 4.
 
 Lũ chúng tôi được bao bọc từ nhỏ tới hết phổ thông.
-Chúng tôi đã từng là con ngoan trò giỏi,được rèn luyện dưới mái trường XHCN 
-với mục đích tới tuổi 18 là phải đậu đại học.
+Chúng tôi đã từng là con ngoan trò giỏi, "được" rèn luyện dưới mái trường XHCN 
+với mục đích duy nhất tới tuổi 18 là phải đậu đại học.
 
 Chúng tôi, những sinh viên tỉnh lẻ, lên thủ đô như những con chim được sổ lồng.
 Ngây thơ, vô tư giữa những cám dỗ thị thành. 
