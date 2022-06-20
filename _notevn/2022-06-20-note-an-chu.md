@@ -20,13 +20,14 @@ Hè trước về nhà tôi còn đủ, năm ấy rụng mấy đứa.
 Hồi đó, đi thi chỉ cốt lấy điểm 5! Dưới 5, thi lại, mất hè.
 
 Nhà thằng T nhìn khá giả lắm. Bố bác sĩ cơ mà. 
-Ấy vậy nhìn nó thật tỏng teo, gày trơ xương.
+Ấy vậy nhìn nó thật tỏng teo.
 
 Nó về mấy bà hàng xóm sang chơi, chuyện trò rôm rả. 
 Hóa ra mới biêt từ bé, nó nức tiếng học giỏi ngoan ngoãn ở xã. 
-Cả làng hồi đấy có mỗi nó đậu đại học, ai cũng quý, muốn con cái được như nó.
+Cả làng trước giờ có mỗi nó đậu đại học. Ai cũng quý. 
+Nó là tấm gương cho trẻ con cả xóm.
 
-Một cô hỏi nó:
+Bốn, năm bà con cô bác bu quanh nó. Một cô hỏi nó:
 
 "- Học vất vả lắm à cháu? Khổ nhìn lồi cả mắt đây này các bà"
 
