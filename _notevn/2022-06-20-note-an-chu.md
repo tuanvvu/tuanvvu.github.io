@@ -39,7 +39,7 @@ Một bà nhìn chúng tôi bảo: "Học mà dễ tôi cũng học được. Đ
 
 Một bà hùng hổ tuyên bố: 
 
-"- Chúng nó **Ăn chữ"** chứ có ăn cơm đâu đéo đâu!" 
+"- Chúng nó **Ăn chữ** chứ có ăn cơm đâu đéo đâu!" 
 
 Nghe tới đây thì tôi với mấy đứa phì cả nước đang uống. 
 Khổ, cháu nó ngày ngày ăn bánh mì uống sờ-ting, thức thâu đêm ở quán điện tử, bi-da chứ có ăn chữ đâu ạ!
