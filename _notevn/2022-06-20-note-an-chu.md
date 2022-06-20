@@ -11,7 +11,7 @@ header:
 
 ### Ăn Chữ
 
-*Tặng a H: bạn PES
+*Tặng a H: bạn PES*
 
 Hè 2010 về quê thằng T chơi. 
 Có tôi, Cường-bi, Nam-chế, Hải-pét và tất nhiên là phải có thằng T rồi.  
