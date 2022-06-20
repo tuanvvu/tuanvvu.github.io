@@ -58,7 +58,8 @@ Chúng tôi đã từng là con ngoan trò giỏi,được rèn luyện dưới 
 với mục đích tới tuổi 18 là phải đậu đại học.
 
 Chúng tôi, những sinh viên tỉnh lẻ, lên thủ đô như những con chim được sổ lồng.
-Những con chim tự do lao vào cám dỗ. Sợi dây ràng buộc với gia đình có lẽ là tiền cấp dưỡng hàng tháng.
+Ngây thơ, vô tư giữa những cám dỗ thị thành. 
+Sợi dây ràng buộc với gia đình có lẽ là tiền cấp dưỡng hàng tháng.
 
 Chúng tôi sống không hoài bão.
 Nếu có, chỉ là ước vọng của gia đình, làm sao ra trường có việc làm ổn định.
