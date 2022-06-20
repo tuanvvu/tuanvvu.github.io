@@ -31,13 +31,15 @@ Bốn, năm bà con cô bác bu quanh nó. Một cô hỏi nó:
 
 "- Học vất vả lắm à cháu? Khổ nhìn lồi cả mắt đây này các bà"
 
-Nó đứng như phỗng chỉ gật gật, dạ dạ. Bà cô khác nắn nắn cái tay với 2 cái xương đòn nó rồi chép miệng:
+Nó đứng như phỗng chỉ gật gật, dạ dạ. Bà cô khác nắn nắn cái tay với 2 cái xương đòn nó, chép miệng:
 
-"- Chứ còn sao! Cháu tôi nó gày trơ xương".
+"- Gầy trơ cả xương".
 
-Một bà nhìn chúng tôi bảo: "Học mà dễ tôi cũng học được. Đấy bà xem! Mấy đứa kia có đứa nào có tí thịt không!"
+Xong, bà cô nhìn chúng tôi bảo, lắc lắc đầu: 
 
-Một bà hùng hổ tuyên bố: 
+"- Gớm! Học mà dễ tôi cũng học được. Đấy bà xem! Mấy đứa kia có đứa nào có tí thịt không!"
+
+Một bà bác phốp pháp nhất hội hùng hổ kết luận: 
 
 "- Chúng nó **Ăn chữ** chứ có ăn cơm đâu đéo đâu!" 
 
