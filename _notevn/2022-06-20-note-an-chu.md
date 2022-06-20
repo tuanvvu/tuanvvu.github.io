@@ -15,7 +15,9 @@ header:
 
 Hè 2010 về quê thằng T chơi. 
 Có tôi, Cường-bi, Nam-chế, Hải-pét và tất nhiên là phải có thằng T rồi.  
-Hè trước về nhà tôi còn đầy đủ, năm nay rụng mấy đứa. Đi thi đúng là chỉ cốt lấy điểm 5 để khỏi mất hè!
+Hè trước về nhà tôi còn đủ, năm ấy rụng mấy đứa. 
+
+Hồi đó, đi thi chỉ cốt lấy điểm 5! Dưới 5, thi lại, mất hè.
 
 Nhà thằng T nhìn khá giả lắm. Bố bác sĩ cơ mà. 
 Ấy vậy nhìn nó thật tỏng teo, gày trơ xương.
