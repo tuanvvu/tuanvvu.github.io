@@ -20,13 +20,13 @@ Nhà thằng T nhìn khá giả lắm. Bố bác sĩ. Ấy vậy nó trông th�
 
 Nó về mấy bà hàng xóm sang chơi, chuyện trò rôm rả. 
 Từ bé nó đã nức tiếng học giỏi ngoan hiền ở xã. Cả làng trước giờ có mỗi nó đậu đại học, lại đậu những B.K- trường đỉnh nhất nước. 
-Hỏi nói, ai cũng quý, nhất là mấy bà hàng xóm. Nó là tấm gương cho trẻ con cả xóm.
+Khỏi nói, ai cũng quý, nhất là mấy bà hàng xóm. Nó là tấm gương cho trẻ con cả xóm.
 
 Các cô các bác bu quanh nó. Một cô hỏi nó:
 
 "- Học vất vả lắm à cháu? Khổ! Nhìn lồi cả mắt đây này mấy bà"
 
-Nó đứng như phỗng chỉ gật gật, dạ dạ. Bà cô khác nắn nắn cái tay với 2 cái xương đòn nó, chép miệng:
+Nó đứng như phỗng, thi thoảng gật gật, dạ dạ. Bà cô khác nắn nắn cái tay với 2 cái xương đòn nó, chép miệng:
 
 "- Gầy trơ cả xương! Ai bảo chăn trâu là khổ, đi học khổ hơn nhiều.".
 
