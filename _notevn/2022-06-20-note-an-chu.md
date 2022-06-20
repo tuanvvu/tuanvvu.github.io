@@ -20,11 +20,11 @@ Hè trước về nhà tôi còn đủ, năm ấy rụng mấy đứa.
 Hồi đó, đi thi chỉ cốt lấy điểm 5! Dưới 5, thi lại, mất hè.
 
 Nhà thằng T nhìn khá giả lắm. Bố bác sĩ cơ mà. 
-Ấy vậy nhìn nó thật tỏng teo.
+Ấy vậy nó trông thật tỏng teo.
 
 Nó về mấy bà hàng xóm sang chơi, chuyện trò rôm rả. 
-Hóa ra mới biêt từ bé, nó nức tiếng học giỏi ngoan ngoãn ở xã. 
-Cả làng trước giờ có mỗi nó đậu đại học. Ai cũng quý. 
+Hóa ra nó nức tiếng học giỏi ngoan ngoãn ở xã. 
+Cả mấy làng trước giờ có mỗi nó đậu đại học. Ai cũng quý. 
 Nó là tấm gương cho trẻ con cả xóm.
 
 Bốn, năm bà con cô bác bu quanh nó. Một cô hỏi nó:
