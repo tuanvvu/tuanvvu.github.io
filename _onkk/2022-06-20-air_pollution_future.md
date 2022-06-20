@@ -27,7 +27,20 @@ Cho dù tất cả xe chạy bằng điện thì nồng độ ô nhiễm bụi �
 Bạn đọc nào quan tâm về ONKK từ giao thông, xin mời đọc thêm thông tin từ các tút trước: 
 [Ô nhiễm không khí từ nguồn giao thông](https://tuanvvu.github.io/onkk/2020-12-21-onkk-nguon-giaothong/)
 
-**Khó khăn nào trong việc quản lý chất lượng ONKK từ giao thông ở Luân-Đôn?**
+
+**Chính sách nào để cải thiện tình hình ô nhiễm không khí từ giao thông ở các thành phố?**
+
+Khi trao đổi với các bạn sinh viên FUV tháng trước, có bạn hỏi: Chính sách nào để cải thiện tình hình ô nhiễm không khí từ giao thông ở các thành phố? 
+
+Thực sự không có một câu trả lời chung nào cho tất cả các thành phố. 
+Tùy thuộc hoàn cảnh từng đô thị cũng như điều kiện hạ tầng kinh tế ở các quốc gia khác nhau, 
+chúng ta có những giải pháp tối ưu riêng cho từng thành phố. Tuy vậy, nhóm mình cũng đưa ra những khuyến nghị về chính sách tiêu biểu cho các đô thị với các hoàn cảnh khác nhau. 
+
+Thí dụ cho Luân-Đôn: Khi các biện pháp kiểm soát kỹ thuật ngày càng tiến bộ đối với khí thải của phương tiện giao thông 
+nhưng chỉ có lợi ích ngày càng nhỏ với chi phí ngày càng cao thì câu trả lời cuối cùng cho các thành phố như Luân-Đôn 
+phải nằm ở việc ***giảm lưu lượng giao thông đường bộ***.
+
+**Khó khăn trong việc quản lý chất lượng ONKK từ giao thông ở Luân-Đôn?**
 
 Ảnh dưới là khi tôi trao đổi với các bạn sv ở VN về tương lai ô nhiễm không khí ở đô thị. 
 Trong slide là nồng độ ô nhiễm ở bến tàu điện ngầm ở Luân-Đôn, một trong những nơi ô nhiễm nhất ở đây. 
