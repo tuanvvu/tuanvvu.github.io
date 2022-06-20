@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/onkk.emission.standard.png
+  teaser: /assets/images/onkk.emission.stardard.png
 ---
 
 Đầu tuần vừa qua (08/06), các nhà lập pháp của nghị viện châu Âu đã biểu quyết đồng thuận điều luật cấm bán xe “mới” chạy bằng nhiên liệu xăng và dầu vào năm 2035. 
@@ -21,7 +21,7 @@ Lợi ích lớn hơn của việc này nằm ở giảm khí NO2/NOx, tuy nhiê
 Cho dù tất cả xe chạy bằng điện thì nồng độ ô nhiễm bụi ở gần đường giao thông cũng vượt quá tiêu chuẩn cũ của WHO (10 ug/m3). 
 Điều này do phần lớn lượng bụi mịn từ giao thông đường bộ ở Luân-Đôn tới từ bụi đường, phanh và lốp xe. 
 
-![animation]({{ site.url }}/assets/images/onkk.emission.standard.png) 
+![animation]({{ site.url }}/assets/images/onkk.emission.stardard.png) 
 *Hình 1, Phát thải NOx của xe xăng và diesel*
 
 Bạn đọc nào quan tâm về ONKK từ giao thông, xin mời đọc thêm thông tin từ các tút trước: 
