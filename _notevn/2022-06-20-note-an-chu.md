@@ -63,7 +63,7 @@ Những con chim tự do lao vào cám dỗ. Sợi dây ràng buộc với gia �
 Chúng tôi sống không hoài bão.
 Nếu có, chỉ là ước vọng của gia đình, làm sao ra trường có việc làm ổn định.
 
-Nghĩ lại, tôi còn thấy may mắn. 
+Nghĩ lại, tôi thấy mình may mắn. 
 Còn bao đứa bạn ham mê lô đề, cá độ bóng bánh khác. 
 T Bê ơi, mày đang ở đâu?
 
