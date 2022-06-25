@@ -58,7 +58,7 @@ Chúng tôi đã từng là con ngoan trò giỏi, "được" rèn luyện dư�
 với mục đích duy nhất tới tuổi 18 là phải đậu đại học.
 
 Chúng tôi, những sinh viên tỉnh lẻ, lên thủ đô như những con chim được sổ lồng.
-Ngây thơ, vô tư giữa những cám dỗ thị thành. 
+Ngây thơ giữathị thành, vô tâm với cuộc đời. 
 Sợi dây ràng buộc với gia đình có lẽ là tiền cấp dưỡng hàng tháng.
 
 Chúng tôi sống không hoài bão.
