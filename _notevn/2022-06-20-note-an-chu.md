@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/notes.khauhieu.jpg
 ---
 
-*Truyện bảy phần rất thật, ba phần gần thật. Tặng anh H- bạn pes*
+*Truyện bảy phần rất thật, ba phần gần thật.*
 
 Hè 2006 về quê thằng T chơi. Có tôi, Cường-bi, Nam-chế, Hùng-pét và tất nhiên là phải có thằng T rồi.
 Hè trước về nhà tôi tám đứa, tính ra rụng ba. 
