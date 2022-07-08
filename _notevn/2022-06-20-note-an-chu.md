@@ -11,16 +11,14 @@ header:
 
 *Truyện bảy phần rất thật, ba phần gần thật.*
 
-Hè 2006 về quê thằng T chơi. Có tôi, Cường-bi, Nam-chế, Hùng-pét và tất nhiên là phải có thằng T rồi.
-Hè trước về nhà tôi tám đứa, tính ra rụng ba. 
+Hè 2006 về quê thằng T chơi. Có tôi, Cường-bi (bida), Nam-chế (đế chế), Hoàng-pét (PES- những trò chơi điện tử thịnh hành hồi 2000s) và tất nhiên là phải có thằng T rồi. Hè trước về nhà tôi bảy đứa, tính ra rụng hai. 
 
 Đi thi hồi ấy chỉ cốt lấy điểm 5! Dưới 5, thi lại, mất hè.
 
 Nhà thằng T nhìn khá giả lắm. Bố bác sĩ. Ấy vậy nó trông thật tỏng teo.
 
-Nó về mấy bà hàng xóm sang chơi, chuyện trò rôm rả. 
-Từ bé nó đã nức tiếng học giỏi ngoan hiền ở xã. Cả làng trước giờ có mỗi nó đậu đại học, lại đậu những B.K- trường đỉnh nhất nước. 
-Khỏi nói, ai cũng quý, nhất là mấy bà hàng xóm. Nó là tấm gương cho trẻ con cả xóm.
+Nó về mấy bà hàng xóm sang chơi, chuyện trò rôm rả. Cả làng trước giờ có mỗi nó đậu đại học, lại đậu những BK- trường đỉnh nhất nước. 
+Khỏi nói, ai cũng quý, nhất là mấy bà hàng xóm thường lấy nó làm gương cho mấy đứa con.
 
 Các cô các bác bu quanh nó. Một cô hỏi nó:
 
@@ -34,7 +32,7 @@ Một bác khác ngoái nhìn chúng tôi, rồi lắc lắc cái đầu:
 
 "- Gớm! Học mà dễ tôi cũng học được. Đấy bà xem. Mấy đứa kia có đứa nào có tí thịt không?!"
 
-Một bà bác phốp pháp nhất hội hùng hổ kết luận: 
+Một bác phốp pháp nhất hội hùng hổ kết luận: 
 
 "- Chúng nó **Ăn chữ** chứ có ăn cơm đâu đéo đâu!" 
 
