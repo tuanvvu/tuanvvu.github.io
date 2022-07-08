@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  teaser: /assets/images/notes.khauhieu.jpg
+  teaser: /assets/images/leu_chong_di_thi_tai_nam_dinh_1897_01.jpg
 ---
 
 *Truyện bảy phần rất thật, ba phần gần thật.*
