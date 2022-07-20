@@ -14,11 +14,10 @@ Below papers organized by topic (please see my [CV](https://tuanvvu.github.io/pr
 
 ##### Selected papers
 
-1. [More mileage in reducing urban air pollution from road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*  
-2. [Abrupt but smaller than expected changes in surface air quality attributable to COVID-19 lockdowns.](https://www.researchgate.net/publication/348475570_Abrupt_but_smaller_than_expected_changes_in_surface_air_quality_attributable_to_COVID-19_lockdowns) *In: Science Advances 7 (2021), eabd6696*  
-3. [Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique.](https://www.researchgate.net/publication/335670835_Assessing_the_impact_of_clean_air_action_on_air_quality_trends_in_Beijing_using_a_machine_learning_technique) *In: Atmos. Chem. Phys. 19 (2019), pp. 11303–11314*  
-4. [Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor to indoor environments.](https://www.researchgate.net/publication/324884453_Factors_controlling_the_lung_dose_of_road_traffic-generated_sub-micrometre_aerosols_from_outdoor_to_indoor_environments) *In: Air Quality, Atmosphere and
-Health 11 (2018), pp. 615–625*    
+1. [Assessing the contributions of outdoor and indoor sources to air quality in London homes of the SCAMP cohort](https://www.researchgate.net/publication/361883750_Assessing_the_contributions_of_outdoor_and_indoor_sources_to_air_quality_in_London_homes_of_the_SCAMP_cohort) *In: Building and Environment (2022)*  
+2. [More mileage in reducing urban air pollution from road traffic.](https://www.researchgate.net/publication/349103486_More_mileage_in_reducing_urban_air_pollution_from_road_traffic) *In: Environment International 149 (2021), p. 106329*  
+3. [Abrupt but smaller than expected changes in surface air quality attributable to COVID-19 lockdowns.](https://www.researchgate.net/publication/348475570_Abrupt_but_smaller_than_expected_changes_in_surface_air_quality_attributable_to_COVID-19_lockdowns) *In: Science Advances 7 (2021), eabd6696*  
+4. [Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique.](https://www.researchgate.net/publication/335670835_Assessing_the_impact_of_clean_air_action_on_air_quality_trends_in_Beijing_using_a_machine_learning_technique) *In: Atmos. Chem. Phys. 19 (2019), pp. 11303–11314*   
 5. [Loss processes affecting submicrometer particles in a house heavily affected by road traffic emissions.](https://www.researchgate.net/publication/317630596_Loss_processes_affecting_submicrometre_particles_in_a_house_heavily_affected_by_road_traffic_emissions) *In: Aerosol Science and Technology 51 (2017), pp. 1201–1211*
 
 ##### I. Sources Apportionment of Air Pollutants
@@ -49,10 +48,11 @@ Current Pollution Reports (2022), May*
 
 ##### III. Indoor vs Outdoor Air Pollution
 
-1. [Chemical and physical properties of indoor aerosols.](https://www.researchgate.net/publication/332959605_Chemical_and_Physical_Properties_of_Indoor_Aerosols) *In: Indoor Air Pollution.The Royal Society of Chemistry, 2019, pp. 66–96* 
-2. [Loss processes affecting submicrometer particles in a house heavily affected by road traffic emissions.](https://www.researchgate.net/publication/317630596_Loss_processes_affecting_submicrometre_particles_in_a_house_heavily_affected_by_road_traffic_emissions) *In: Aerosol Science and Technology 51 (2017), pp. 1201–1211*
-3. [Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor to indoor environments.](https://www.researchgate.net/publication/324884453_Factors_controlling_the_lung_dose_of_road_traffic-generated_sub-micrometre_aerosols_from_outdoor_to_indoor_environments) *In: Air Quality, Atmosphere and Health 11 (2018), pp. 615–625*  
-4. [Physical properties and lung deposition of particles emitted from five major indoor sources.](https://www.researchgate.net/publication/306525152_Physical_properties_and_lung_deposition_of_particles_emitted_from_five_major_indoor_sources) *In: Air quality, atmosphere & health 10 (2017), pp. 1–14*  
+1. [Assessing the contributions of outdoor and indoor sources to air quality in London homes of the SCAMP cohort](https://www.researchgate.net/publication/361883750_Assessing_the_contributions_of_outdoor_and_indoor_sources_to_air_quality_in_London_homes_of_the_SCAMP_cohort) *In: Building and Environment (2022)*  
+2. [Chemical and physical properties of indoor aerosols.](https://www.researchgate.net/publication/332959605_Chemical_and_Physical_Properties_of_Indoor_Aerosols) *In: Indoor Air Pollution.The Royal Society of Chemistry, 2019, pp. 66–96* 
+3. [Loss processes affecting submicrometer particles in a house heavily affected by road traffic emissions.](https://www.researchgate.net/publication/317630596_Loss_processes_affecting_submicrometre_particles_in_a_house_heavily_affected_by_road_traffic_emissions) *In: Aerosol Science and Technology 51 (2017), pp. 1201–1211*
+4. [Factors controlling the lung dose of road traffic-generated sub-micrometre aerosols from outdoor to indoor environments.](https://www.researchgate.net/publication/324884453_Factors_controlling_the_lung_dose_of_road_traffic-generated_sub-micrometre_aerosols_from_outdoor_to_indoor_environments) *In: Air Quality, Atmosphere and Health 11 (2018), pp. 615–625*  
+5. [Physical properties and lung deposition of particles emitted from five major indoor sources.](https://www.researchgate.net/publication/306525152_Physical_properties_and_lung_deposition_of_particles_emitted_from_five_major_indoor_sources) *In: Air quality, atmosphere & health 10 (2017), pp. 1–14*  
 
 ##### IV. Physico-chemical Properties of Air Pollution from measurement and modelling.
 
