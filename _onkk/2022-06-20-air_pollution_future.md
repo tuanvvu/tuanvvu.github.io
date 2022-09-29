@@ -50,3 +50,7 @@ Nên nhớ nồng độ trung bình năm ở Hà Nội cỡ 40 ug/m3.
 
 Ở Luân-Đôn, tàu điện ngầm là một trong những phương tiện công cộng phổ biến, tuy nhiên quản lý chất lượng không khí ở đây không hề đơn giản 
 và gây rất nhiều khó khắn cho các nhà quản lý ở sở giao thông Luân-Đôn.
+
+Cập nhật: Một phiên bản khác của tút này được đăng trên tạp chí Môi Trường theo đường dẫn dưới đây:
+[Lời giải nào cho bài toán giảm thải ô nhiễm không khí đô thị từ nguồn giao thông đường bộ?](
+http://tapchimoitruong.vn/nhin-ra-the-gioi-65/loi-giai-nao-cho-bai-toan-giam-thai-o-nhiem-khong-khi-do-thi-tu-nguon-giao-thong-duong-bo-26989)
