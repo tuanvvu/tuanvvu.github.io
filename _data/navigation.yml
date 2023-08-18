@@ -6,6 +6,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: "Research"
     url: /research/
+  - title: "academic service"
+    url: /teaching/
   - title: "projects"
     url: /projects/
   - title: "publications"
