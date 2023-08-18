@@ -10,12 +10,16 @@ header:
 
 #### Teaching
 
-My main research focuses on better understanding **air pollution**, 
-from *emissions* through *atmospheric physico-chemical transformations* and *interactions between air pollution, climate change and the biosphere* to *exposure and effects on human health*. I have been recently worked on **domestic energy use** and the impacts of **Net Zero** pathways on
-future air quality in the UK.
+| Year          | Themes        | Lectures  | Universities        | Roles |
+| ------------- | ------------- |------------- |------------- | ----------- |
+| Since 2022    | STEM workshop |Human Exposure to Air Pollution Modelling | Imperial College London | Lecturer|
+| Since 2020    | Msc CEAP | Indoor Air Pollution and Personal Exposure | University of Birmingham | Visiting lecturer|
+| 2019          | Msc | Air Pollution Modelling | King's College London | Lecturer|
+| 2018 -2019    | Msc CEAP| Emissions sources & National emissions inventories, Indoor Air Pollution and Personal Exposure |University of Birmingham |  Lecturer|
 
-I am also interested in applied **machine learning** for air quality modelling and integrated assessment of the **emission-health-socioeconomics nexus** and air pollution **mitigation solutions & interventions**.
+You can find the materials/summary of my lectures as the link belows:
 
-#### Supervisor
+
+#### Supervising/mentoring
 
 #### Editoral board and reviewer
