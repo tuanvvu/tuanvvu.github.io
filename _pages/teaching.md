@@ -25,7 +25,7 @@ You can find the materials/summary of my lectures as the link belows:
 2. Mr Phillip Punter (PhD candidate at Imperial College London, 2022-) in: Metallic Aerosols in the Environment – building the next generation of exposure assessment models. - Co-supervisor with Sean, Dave (main) and Anja.
 3. Ms Yunzhe Chent (Msc at Imperial College London, 2023-) in: How do home design and location affect indoor air quality? 
  A Case Study of London New Built Flat. - Main supervisor with Sean.
-4. Ms Xinyuan Li (Msc at Imperial College London, 2022) in: Estimation of exposure to both outdoor and indoor air pollution using lowcost sensor. - Main supervisor with Sean.
+4. Ms Xinyuan Li (Msc at Imperial College London, 2022) in: Estimation of exposure to both outdoor and indoor air pollution using low-cost sensor. - Main supervisor with Sean.
 
 #### Editorial board, Technical Program Committee and Reviewers for Journals & Conferences
 
