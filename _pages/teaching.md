@@ -19,17 +19,19 @@ header:
 
 You can find the materials/summary of my lectures as the link belows:
 
-#### Supervising/mentoring
+#### Supervising
 
 1. Ms Fei Gao (PhD candidate at Imperial College London, 2022-) in: The Net Zero transition: How does Net Zero impact future energy use and indoor air quality in UK homes? - Co-supervisor with Sean (main) and Sani.
 2. Mr Phillip Punter (PhD candidate at Imperial College London, 2022-) in: Metallic Aerosols in the Environment – building the next generation of exposure assessment models. - Co-supervisor with Sean, Dave (main) and Anja.
-3. Ms Yunzhe Chent (Msc at Imperial College London, 2023-) in: How do home design and location affect indoor air quality? 
+3. Ms Yunzhe Chen (Msc at Imperial College London, 2023-) in: How do home design and location affect indoor air quality? 
  A Case Study of London New Built Flat. - Main supervisor with Sean.
 4. Ms Xinyuan Li (Msc at Imperial College London, 2022) in: Estimation of exposure to both outdoor and indoor air pollution using low-cost sensor. - Main supervisor with Sean.
 
-#### Editorial board, Technical Program Committee and Reviewers for Journals & Conferences
+#### Editorial board, Technical Program Committee  
 
 • Reviewer for Czech Academy of Science funding, 2020
+
+#### Reviewers for Journals & Conferences
 
 Below is the list of some journal which I have been a reviewer:
 • Atmospheric Chemistry and Physics
