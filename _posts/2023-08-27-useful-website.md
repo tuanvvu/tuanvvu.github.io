@@ -6,6 +6,6 @@ layout: single
 author_profile: true
 ---
 
-## 01. Jobs in atmospheric science/environments
+#### 01. Jobs in atmospheric science/environments
 
-1. Met-jobs [https://maillists.reading.ac.uk/scripts/wa-READING.exe?A0=MET-JOBS]: This website list not only positions for Msc/PhD students but also postdoc/tenured jobs
+1. Met-jobs[https://maillists.reading.ac.uk/scripts/wa-READING.exe?A0=MET-JOBS]. This website by the University of Reading lists not only positions for Msc/PhD students but also postdoc/tenured jobs
