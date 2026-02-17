@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Tuan V. Vu"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An atmospheric chemist, interested in applied statistics/machine learning for air quality modelling"
+  bio              : "An atmospheric & data scientist, interested in applied statistics/machine learning for climate, air quality and energy modelling"
   location         : "London, UK"
   # email            : "tuan.vu@imperial.ac.uk"
   links:
