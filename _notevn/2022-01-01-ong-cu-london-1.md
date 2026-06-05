@@ -22,11 +22,11 @@ Giờ tấp nập cũng chả kém, có phố Tàu nên đông đúc và to hơn
 Khoảng 65 năm trước khi ông cụ sang Anh, cụ Các-Mác, ông tổ của chủ nghĩa cộng sản, cũng bắt đầu cuộc sống tha hương ở khu Soho, cụ thể ở số nhà 28 [đường Dean](https://www.google.com/maps/place/Dean+St,+London+W1D+3RY/@51.5142667,-0.134924,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d3259c77ff:0x7d244d6746a23bc9!8m2!3d51.514277!4d-0.1326631), cách chỗ ông cụ chỉ tầm 10 phút đi bộ! 
 Lúc ấy không biết ông cụ có biết mình trọ ngay gần nhà của "người thầy vĩ đại" của vô sản thế giới không. 
 Chắc là không, chớ nếu có thì nhà thơ họ Chế đã viết:  
-"Tuyên ngôn đến Bác.Và Người đã khóc.  
+"Tuyên ngôn đến Bác. Và Người đã khóc.  
 Lệ Bác rơi trên chữ Mác En-gen", hehe.
 
 Thời điểm ông cụ ở Luân-Đôn còn gây một số tranh cãi. 
-Biên niên sử ông cụ thì ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
+Biên niên sử ông cụ của đảng ta thì ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
 tiểu sử của ông cụ cũng được nhà nước cân đo đong đếm sửa đi sửa lại nhiều lần!).
 
 Trong cuốn "Hồ Chí Minh: Những năm tháng chưa được biết đến" của bà Sophie Quinn thì viết "Vào năm 1913 hoặc đầu năm 1914, Hồ Chí Minh dường như đã rời bỏ cuộc sống lang thang trên biển và quyết định định cư ở Anh".
@@ -34,16 +34,15 @@ Thời điểm trở lại Pháp cũng có một số nhận định khác, như
 Tuy vậy, đa số đều nhận định ông cụ tới Anh Quốc vào đầu năm 1913 và rời Anh tới Pháp vào cuối 1917, tổng cộng là gần 5 năm.
 
 Trong ["Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch"](http://www.talawas.org/talaDB/showFile.php?res=9151&rb=08)
-ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". Là dân nghiên cứu khí quyển nên tôi khá thích thông tin này. 
+ông cụ có kể rằng "Hôm thứ nhất, tôi nhận việc cào tuyết trong một trường học". 
 Luân-Đôn lâu lắm rồi cũng không có tuyết,
 hoặc chỉ có một ít vài hạt li ti. Hôm tối đi ăn phở, trời mùa đông, cũng lạnh lắm, nhưng không có tuyết.
 
 Tra cứu thì đầu năm 1913 có đợt tuyết lạnh lịch sử ở Anh Quốc. Hóa ra cách đây 100 năm ở Luân-Đôn cũng có nhiều đợt tuyết rơi dày và nhiều. Có lẽ do biến đổi khí hậu và tăng nhiệt nền đô thị mà thành phố thời nay đã nóng hơn nhiều so với trước kia.
 
-Tìm hiểu về lịch sử đo đạc của Anh Quốc khiến tôi rất ấn tượng, họ đã xây dựng những trạm đo từ thế kỷ 19.
-Thảo nào họ mạnh về khoa học khí quyển tới vậy. Những số liệu được thu thập rất khoa học từ cách đây cả 2 thế kỷ chính là những dữ liệu rất quan trọng trong việc phát triển và đánh giá các mô hình để dự báo thời tiết. 
+Tìm hiểu về lịch sử đo đạc của Anh Quốc khiến tôi rất ấn tượng, họ đã xây dựng những trạm đo từ thế kỷ 19. Những số liệu được thu thập rất khoa học từ cách đây cả 2 thế kỷ chính là những dữ liệu rất quan trọng trong việc phát triển và đánh giá các mô hình để dự báo thời tiết. 
 Phương ngôn "Thấy tương lai từ quá khứ" ấy là vậy!
-Việt Nam ta thì tới số liệu đo đạc bụi cũng không có liên tục vì nhiều bác lãnh đạo nghĩ đo cũng có để làm gì đâu!
+Việt Nam ta thì tới số liệu đo đạc cũng không có liên tục vì nhiều bác lãnh đạo nghĩ đo cũng có để làm gì đâu!
 
 Khi nào có thời gian, tôi nhất định vào vào thư khố để tra cứu xem những đợt tuyết đó xảy ra vào năm, tháng và ngày nào và độ tuyết dày bao nhiêu mà làm ông cụ "Một công việc rất mệt nhọc. Mình mẩy tôi đẫm mồ hôi mà tay chân thì rét cóng. Sau tám giờ làm công việc này, tôi mệt lử và đói bụng. Tôi đành phải bỏ việc". Tra cứu thêm quãng đường tàu đi từ Mỹ sang Anh biết đâu có thể ước lượng được thời điểm ông cụ đặt chân tới Anh.
 
