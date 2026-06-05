@@ -25,7 +25,7 @@ Chắc là không, chớ nếu có thì nhà thơ họ Chế đã viết:
 "Tuyên ngôn đến Bác. Và Người đã khóc.  
 Lệ Bác rơi trên chữ Mác En-gen", hehe.
 
-Thời điểm ông cụ ở Luân-Đôn còn gây một số tranh cãi. 
+Thời gian ông cụ ở Luân-Đôn còn gây một số tranh cãi. 
 Biên niên sử ông cụ của đảng ta ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
 tiểu sử của ông cụ cũng được nhà nước cân đo đong đếm sửa đi sửa lại nhiều lần!).
 
