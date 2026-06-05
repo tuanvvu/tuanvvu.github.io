@@ -26,7 +26,7 @@ Chắc là không, chớ nếu có thì nhà thơ họ Chế đã viết:
 Lệ Bác rơi trên chữ Mác En-gen", hehe.
 
 Thời điểm ông cụ ở Luân-Đôn còn gây một số tranh cãi. 
-Biên niên sử ông cụ của đảng ta thì ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
+Biên niên sử ông cụ của đảng ta ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
 tiểu sử của ông cụ cũng được nhà nước cân đo đong đếm sửa đi sửa lại nhiều lần!).
 
 Trong cuốn "Hồ Chí Minh: Những năm tháng chưa được biết đến" của bà Sophie Quinn thì viết "Vào năm 1913 hoặc đầu năm 1914, Hồ Chí Minh dường như đã rời bỏ cuộc sống lang thang trên biển và quyết định định cư ở Anh".
