@@ -12,7 +12,7 @@ Bữa rồi đi ăn phở ở [Soho](https://vi.wikipedia.org/wiki/Soho), một 
 
 ### Ông cụ ở Luân-Đôn
 
-Theo biên niên sử ông cụ thì ông cụ có lấy địa chỉ thư tín ở nhà số 8, [đường Xteephen, Tốt-ten-ham] khu Xâu-hâu (Soho) (https://www.google.com/maps/place/Tottenham+Court+Rd+%26+Stephen+St,+London+W1T+7QT/@51.5181547,-0.1340236,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2daddd1df1:0xf11f5cf37a9acaca!8m2!3d51.5181514!4d-0.1318349).
+Theo biên niên sử ông cụ thì ông cụ có lấy địa chỉ thư tín ở nhà số 8, [đường Xteephen, Tốt-ten-ham] khu Xâu-hâu [(Soho)] (https://www.google.com/maps/place/Tottenham+Court+Rd+%26+Stephen+St,+London+W1T+7QT/@51.5181547,-0.1340236,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2daddd1df1:0xf11f5cf37a9acaca!8m2!3d51.5181514!4d-0.1318349).
 
 Xưa đây là một khu nhộn nhịp bậc nhất ở thủ đô Luân-Đôn với nhiều nhà hàng, quán rượu và nhà hát. 
 Giờ tấp nập cũng chả kém, có phố Tàu đông đúc và to hơn thời ông cụ ấy chớ. 
