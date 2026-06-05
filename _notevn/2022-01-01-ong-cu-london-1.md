@@ -12,18 +12,20 @@ Bữa rồi đi ăn phở ở [Soho](https://vi.wikipedia.org/wiki/Soho), một 
 
 ### Ông cụ ở Luân-Đôn
 
-Theo biên niên sử ông cụ thì ông cụ có lấy địa chỉ thư tín ở nhà số 8, [đường Xteephen, Tốt-ten-ham](https://www.google.com/maps/place/Tottenham+Court+Rd+%26+Stephen+St,+London+W1T+7QT/@51.5181547,-0.1340236,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2daddd1df1:0xf11f5cf37a9acaca!8m2!3d51.5181514!4d-0.1318349).
+Theo biên niên sử ông cụ thì ông cụ có lấy địa chỉ thư tín ở nhà số 8, [đường Xteephen, Tốt-ten-ham] khu Xâu-hâu (Soho) (https://www.google.com/maps/place/Tottenham+Court+Rd+%26+Stephen+St,+London+W1T+7QT/@51.5181547,-0.1340236,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2daddd1df1:0xf11f5cf37a9acaca!8m2!3d51.5181514!4d-0.1318349).
 
-Hồi ấy đây là một khu nhộn nhịp bậc nhất ở thủ đô Luân-Đôn với nhiều nhà hàng, quán rượu và nhà hát. 
-Khu Soho bây giờ vẫn rất nhộn nhịp, có phố Tàu- nơi chắc chắn đông đúc và to hơn so với thời ông cụ ở đó. 
-Đặc biệt bây giờ ở đó mọc lên một số quán phở Việt, điều mà tôi nghĩ chắc không hề có vào những năm đầu thế kỷ 20.
+Xưa đây là một khu nhộn nhịp bậc nhất ở thủ đô Luân-Đôn với nhiều nhà hàng, quán rượu và nhà hát. 
+Giờ tấp nập cũng chả kém, có phố Tàu nên đông đúc và to hơn thời ông cụ ấy chớ. 
+Đặc biệt bây giờ ở đó mọc lên một số quán ăn Việt, điều mà tôi nghĩ chắc không có vào những năm đầu thế kỷ 20.
 Đối với người Việt tha hương, dù là cộng sản hay không cộng sản, mùi vị những món ăn quê nhà là điều không thể nào quên.
 
 Khoảng 65 năm trước khi ông cụ sang Anh, cụ Các-Mác, ông tổ của chủ nghĩa cộng sản, cũng bắt đầu cuộc sống tha hương ở khu Soho, cụ thể ở số nhà 28 [đường Dean](https://www.google.com/maps/place/Dean+St,+London+W1D+3RY/@51.5142667,-0.134924,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d3259c77ff:0x7d244d6746a23bc9!8m2!3d51.514277!4d-0.1326631), cách chỗ ông cụ chỉ tầm 10 phút đi bộ! 
-Lúc ấy không biết ông cụ có mình ngay gần chỗ ở với "người thầy vĩ đại" của vô sản thế giới không, hehe. 
-Sự biết tới chủ nghĩa cộng sản của ông cụ ở Luân-Đôn tới giờ vẫn đang còn là câu hỏi chưa có lời đáp.
+Lúc ấy không biết ông cụ có biết mình trọ ngay gần nhà của "người thầy vĩ đại" của vô sản thế giới không. 
+Chắc là không, chớ nếu có thì nhà thơ họ Chế đã viết:  
+"Tuyên ngôn đến Bác.Và Người đã khóc.  
+Lệ Bác rơi trên chữ Mác En-gen", hehe.
 
-Ngay cả thời điểm ông cụ ở Luân-Đôn cũng còn gây một số tranh cãi. 
+Thời điểm ông cụ ở Luân-Đôn còn gây một số tranh cãi. 
 Biên niên sử ông cụ thì ghi ông cụ tới Anh đó đầu 1913 (Tôi nhớ có tài liệu từ nước nhà ghi ông cụ tới Anh năm 1914, 
 tiểu sử của ông cụ cũng được nhà nước cân đo đong đếm sửa đi sửa lại nhiều lần!).
 
